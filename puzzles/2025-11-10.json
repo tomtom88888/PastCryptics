@@ -1,0 +1,91 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-10",
+  "clue": [
+    {
+      "text": "Black",
+      "type": null
+    },
+    {
+      "text": "sheep",
+      "type": null
+    },
+    {
+      "text": "beginning",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "moo",
+      "type": null
+    },
+    {
+      "text": "if",
+      "type": null
+    },
+    {
+      "text": "it’s",
+      "type": null
+    },
+    {
+      "text": "confused",
+      "type": null
+    }
+  ],
+  "answer": "MISFIT",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'beginning to' and 'confused'. One's a selector telling us which letter(s) to select from some fodder, and the other is an anagram indicator instructing us to rearrange the letters of some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          24
+        ],
+        [
+          37,
+          45
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'moo if it's'. We'll use these letters (or some of them) to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "Our definition here is 'Black sheep', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

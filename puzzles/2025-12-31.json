@@ -1,0 +1,110 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-31",
+  "clue": [
+    {
+      "text": "Hunted",
+      "type": null
+    },
+    {
+      "text": "lost",
+      "type": null
+    },
+    {
+      "text": "bear,",
+      "type": null
+    },
+    {
+      "text": "sleep-deprived",
+      "type": null
+    },
+    {
+      "text": "grizzly",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "an",
+      "type": null
+    },
+    {
+      "text": "appetite",
+      "type": null
+    }
+  ],
+  "answer": "HUNGRILY",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'lost' and 'deprived'. Both of these are deletion indicators, guiding us to remove some fodder from other fodder. We'll be deleting twice in this clue.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          11
+        ],
+        [
+          24,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Hunted', 'bear', 'sleep', and 'grizzly'. We'll need to find short (and a bit loose?) substitutes for two of these and use them with the letters of the others, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          12,
+          16
+        ],
+        [
+          18,
+          23
+        ],
+        [
+          33,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'with an appetite', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          41,
+          57
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

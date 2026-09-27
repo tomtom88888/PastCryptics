@@ -1,0 +1,75 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-30",
+  "clue": [
+    {
+      "text": "Architect",
+      "type": null
+    },
+    {
+      "text": "plastered",
+      "type": null
+    },
+    {
+      "text": "pole’s",
+      "type": null
+    },
+    {
+      "text": "spot?",
+      "type": null
+    }
+  ],
+  "answer": "THE ARCTIC",
+  "config": [
+    3,
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Plastered' is common slang for 'drunk', which makes it a potential anagram indicator. If some nearby letters were drunk or plastered, they'd be messy and stumbling — a classic anagram idea.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Architect' — we'll be using these letters, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'pole's spot?' — what could be the spot, or location, of a pole?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

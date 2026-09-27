@@ -1,0 +1,73 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-17",
+  "clue": [
+    {
+      "text": "Seizes",
+      "type": null
+    },
+    {
+      "text": "£1million",
+      "type": null
+    }
+  ],
+  "answer": "IMPOUNDS",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue has no indicators! It's just a string of standard substitutions, combined to form our answer. Since you've taken a hint and we've given you nothing so far, here's a little extra: you'll need to reorder the fodder into how it might be more naturally read.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": []
+    },
+    {
+      "text": "Our fodder is '£', '1', and 'million' - we'll need to use substitutes for all of these to construct our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          9
+        ],
+        [
+          9,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Seizes' - our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

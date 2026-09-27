@@ -1,0 +1,93 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-29",
+  "clue": [
+    {
+      "text": "Right",
+      "type": null
+    },
+    {
+      "text": "Hook!",
+      "type": null
+    },
+    {
+      "text": "Left",
+      "type": null
+    },
+    {
+      "text": "Jab!",
+      "type": null
+    },
+    {
+      "text": "Counter!",
+      "type": null
+    },
+    {
+      "text": "Counter!",
+      "type": null
+    }
+  ],
+  "answer": "BAR",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Left' and 'Counter' (the first one). One of these is a deletion indicator - we'll need to remove some fodder from some other fodder. And the other is a reversal indicator guiding us to turn some fodder backwards.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          16
+        ],
+        [
+          22,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Right', 'Hook', and 'Jab'. We'll need to find short substitutes for two of these and use them with the letters of the third to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          17,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Counter', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          22,
+          29
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

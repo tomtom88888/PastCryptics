@@ -1,0 +1,80 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-03",
+  "clue": [
+    {
+      "text": "Slim",
+      "type": null
+    },
+    {
+      "text": "odds",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "solving",
+      "type": null
+    },
+    {
+      "text": "that",
+      "type": null
+    }
+  ],
+  "answer": "SLIGHT",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'odds of', and it's a selection indicator, guiding us to look at only certain letters in a chunk of neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          12
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'solving that'. We'll use these letters to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Slim', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

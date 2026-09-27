@@ -1,0 +1,74 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-07",
+  "clue": [
+    {
+      "text": "I,",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "one,",
+      "type": null
+    },
+    {
+      "text": "say,",
+      "type": null
+    },
+    {
+      "text": "“kind",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "figures!”",
+      "type": null
+    }
+  ],
+  "answer": "ROMAN NUMERALS",
+  "config": [
+    5,
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    1,
+    3,
+    5,
+    7,
+    9,
+    11
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This is a double definition clue. One of our definitions is 'kind of figures' — our answer will be a type of figures.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          18,
+          33
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

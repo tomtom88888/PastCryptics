@@ -1,0 +1,93 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-26",
+  "clue": [
+    {
+      "text": "Business",
+      "type": null
+    },
+    {
+      "text": "disinfected",
+      "type": null
+    },
+    {
+      "text": "casino",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "conceal",
+      "type": null
+    },
+    {
+      "text": "triple",
+      "type": null
+    },
+    {
+      "text": "murder,",
+      "type": null
+    },
+    {
+      "text": "perhaps?",
+      "type": null
+    }
+  ],
+  "answer": "SIN",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'To conceal' and 'triple' are our indicators — one tells us that the answer is hiding within our fodder, and the other augments our hidden word indicator!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          28,
+          38
+        ],
+        [
+          39,
+          45
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Business disinfected casino' — we’ll need to use these words and their letters as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'murder, perhaps?' — and 'perhaps' suggests that we’re looking for a category to which murder belongs as an example.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          46,
+          62
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

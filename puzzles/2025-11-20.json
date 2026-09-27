@@ -1,0 +1,103 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-20",
+  "clue": [
+    {
+      "text": "Ancestors",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "polar,",
+      "type": null
+    },
+    {
+      "text": "grizzly,",
+      "type": null
+    },
+    {
+      "text": "panda",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "teddy",
+      "type": null
+    },
+    {
+      "text": "counted",
+      "type": null
+    },
+    {
+      "text": "out",
+      "type": null
+    },
+    {
+      "text": "loud",
+      "type": null
+    }
+  ],
+  "answer": "FOREBEARS",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'out loud' and it's a homophone indicator. We'll need to take some neighbouring fodder and say it (or its substitute) out loud and replace that with its soundalike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          53,
+          61
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'polar, grizzly, panda and teddy counted'. We'll need to substitute this phrase with something that can mean the same thing, and then apply the clue's indicator(s) to arrive at our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          52
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Ancestors', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

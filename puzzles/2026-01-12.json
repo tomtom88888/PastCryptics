@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-12",
+  "clue": [
+    {
+      "text": "7-Eleven",
+      "type": null
+    },
+    {
+      "text": "uniform",
+      "type": null
+    },
+    {
+      "text": "among",
+      "type": null
+    },
+    {
+      "text": "ugliest",
+      "type": null
+    },
+    {
+      "text": "uniforms",
+      "type": null
+    }
+  ],
+  "answer": "MINUS FOUR",
+  "config": [
+    5,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'among' and 'ugliest'. One of these is an anagram indicator suggesting that a neighbouring word will become disfigured. And the other is a containing indicator - some fodder will go inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          22
+        ],
+        [
+          23,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'uniform' and 'uniforms'. We'll use the letters of one along with a short substitute for the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          16
+        ],
+        [
+          31,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is '7-Eleven', and our answer will be a way of expressing that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

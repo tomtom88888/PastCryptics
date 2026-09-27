@@ -1,0 +1,99 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-06",
+  "clue": [
+    {
+      "text": "The",
+      "type": null
+    },
+    {
+      "text": "one",
+      "type": null
+    },
+    {
+      "text": "devastated",
+      "type": null
+    },
+    {
+      "text": "volunteer",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "miss",
+      "type": null
+    },
+    {
+      "text": "“One",
+      "type": null
+    },
+    {
+      "text": "Direction”",
+      "type": null
+    }
+  ],
+  "answer": "TRUE LOVE",
+  "config": [
+    4,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Devastated' and 'to miss \"One\"' are our indicators – one signals an anagram, and the other tells us to remove a single letter (represented by some of our fodder).",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'volunteer' and 'Direction' – we'll need to use the letters of one, find a short substitute for the other, and use them as directed by the indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          19,
+          28
+        ],
+        [
+          42,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'The one' – the answer should be a way of describing your perfect match.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

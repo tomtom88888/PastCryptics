@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-15",
+  "clue": [
+    {
+      "text": "Volatile",
+      "type": null
+    },
+    {
+      "text": "element",
+      "type": null
+    },
+    {
+      "text": "or",
+      "type": null
+    },
+    {
+      "text": "source",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "vitamin",
+      "type": null
+    },
+    {
+      "text": "C?",
+      "type": null
+    }
+  ],
+  "answer": "LEMON TREE",
+  "config": [
+    5,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Volatile' is an anagram indicator — it suggests some neighbouring letters are liable to change.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'element or' — we’ll use these letters to construct our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'source of vitamin C?' - our answer will be something from which you can get vitamin C.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

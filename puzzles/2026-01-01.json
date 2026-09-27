@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-01",
+  "clue": [
+    {
+      "text": "Chicken",
+      "type": null
+    },
+    {
+      "text": "crosses",
+      "type": null
+    },
+    {
+      "text": "avenue",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "get",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "other",
+      "type": null
+    },
+    {
+      "text": "side?",
+      "type": null
+    }
+  ],
+  "answer": "HEAVEN",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'crosses' and it's a containing indicator. One piece of fodder will cross, or go around, another piece of fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Chicken' and 'avenue'. We'll need to find substitutes (synonyms, abbreviations, or letter-based symbols) for each of these and use them to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          16,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'the other side?', and the question mark indicates that there's some stretch at play. We're looking for something that could be considered 'the other side'. Note: 'to get to' is a linking phrase here - our wordplay will get us to our answer.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          23,
+          32
+        ],
+        [
+          33,
+          48
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

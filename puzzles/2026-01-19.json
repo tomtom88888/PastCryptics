@@ -1,0 +1,82 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-19",
+  "clue": [
+    {
+      "text": "Lie",
+      "type": null
+    },
+    {
+      "text": "(v.)",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "twist;",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "conceal",
+      "type": null
+    }
+  ],
+  "answer": "VEIL",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'to twist', and it's a reversal indicator. Some nearby fodder will twist or turn around, reversing. Reversal indicators can apply to the letters of fodder, or a substitute of that fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Lie (v.)'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'to conceal', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          19,
+          29
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

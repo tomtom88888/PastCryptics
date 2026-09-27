@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "date": "2025-09-05",
+  "clue": [
+    {
+      "text": "Fifty-one",
+      "type": null
+    },
+    {
+      "text": "trillion",
+      "type": null
+    },
+    {
+      "text": "litres,",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "be",
+      "type": null
+    },
+    {
+      "text": "precise",
+      "type": null
+    }
+  ],
+  "answer": "LITERAL",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "Our fodder is 'Fifty-one', 'trillion', and 'litres' — we’ll need to find substitutes for all of them and string them together as the wordplay demands.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ],
+        [
+          10,
+          18
+        ],
+        [
+          19,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'precise' — ('to be' is just a linking phrase), pointing to an answer meaning precise or exact.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          27,
+          32
+        ],
+        [
+          33,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

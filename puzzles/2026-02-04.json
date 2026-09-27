@@ -1,0 +1,99 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-04",
+  "clue": [
+    {
+      "text": "Behind",
+      "type": null
+    },
+    {
+      "text": "schedule,",
+      "type": null
+    },
+    {
+      "text": "chasing",
+      "type": null
+    },
+    {
+      "text": "trains,",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "went",
+      "type": null
+    },
+    {
+      "text": "express",
+      "type": null
+    },
+    {
+      "text": "internationally?",
+      "type": null
+    }
+  ],
+  "answer": "TRANSLATE",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'chasing' and 'went'. One of these is a deletion indicator - some fodder will leave some other fodder. The other is a repositioning indicator, guiding us to swap the order of some fodder in the clue.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          24
+        ],
+        [
+          35,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Behind schedule, 'trains', and 'I'. We'll need to find a synonym of one of these and use it with the letters of the others to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'express internationally?', and our answer will be a word that conveys that. Note the question mark on the end (often an indicator that something in the clue is a little stretchy) - here, we'll need to find a sense of 'express internationally' that's perhaps a little loose.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          64
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

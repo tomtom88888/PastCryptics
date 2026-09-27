@@ -1,0 +1,82 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-03",
+  "clue": [
+    {
+      "text": "Deadly",
+      "type": null
+    },
+    {
+      "text": "agent",
+      "type": null
+    },
+    {
+      "text": "playing",
+      "type": null
+    },
+    {
+      "text": "phone",
+      "type": null
+    },
+    {
+      "text": "tag",
+      "type": null
+    }
+  ],
+  "answer": "PATHOGEN",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Playing' is an anagram indicator – it suggests that some neighbouring letters are being manipulated or played.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "The fodder is 'phone tag' – we'll be using these letters as directed by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          21,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Deadly agent' – we're looking for something that can do serious harm.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

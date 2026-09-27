@@ -1,0 +1,108 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-28",
+  "clue": [
+    {
+      "text": "Bully",
+      "type": null
+    },
+    {
+      "text": "swung",
+      "type": null
+    },
+    {
+      "text": "walking",
+      "type": null
+    },
+    {
+      "text": "stick",
+      "type": null
+    },
+    {
+      "text": "during",
+      "type": null
+    },
+    {
+      "text": "fourth",
+      "type": null
+    },
+    {
+      "text": "quarter",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "ballgame",
+      "type": null
+    }
+  ],
+  "answer": "MENACE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Swung', 'during', and 'fourth quarter of' are our indicators — one tells us to reverse some letters, another to insert something, and the last to select specific letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          6,
+          11
+        ],
+        [
+          26,
+          32
+        ],
+        [
+          33,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'walking stick' and 'ballgame'. We'll need to find a short substitute for one and use the letters of the other, as directed by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          25
+        ],
+        [
+          51,
+          59
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Bully' — and that’s what our answer will mean. Think of a synonym.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

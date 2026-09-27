@@ -1,0 +1,89 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-21",
+  "clue": [
+    {
+      "text": "Love",
+      "type": null
+    },
+    {
+      "text": "initially",
+      "type": null
+    },
+    {
+      "text": "absent",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "prom",
+      "type": null
+    },
+    {
+      "text": "dance",
+      "type": null
+    }
+  ],
+  "answer": "ROMANCE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'initially' and 'absent from'. One of these is a selection indicator guiding us to pay attention to one or more specific letters in some neighbouring fodder. The other is a deletion indicator - we'll need to delete something from some fodder nearby.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          14
+        ],
+        [
+          15,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'prom dance'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          27,
+          37
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Love', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

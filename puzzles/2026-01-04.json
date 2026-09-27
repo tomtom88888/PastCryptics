@@ -1,0 +1,93 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-04",
+  "clue": [
+    {
+      "text": "It’s",
+      "type": null
+    },
+    {
+      "text": "not",
+      "type": null
+    },
+    {
+      "text": "just",
+      "type": null
+    },
+    {
+      "text": "bad",
+      "type": null
+    },
+    {
+      "text": "acting",
+      "type": null
+    },
+    {
+      "text": "that",
+      "type": null
+    },
+    {
+      "text": "he’s",
+      "type": null
+    },
+    {
+      "text": "into",
+      "type": null
+    }
+  ],
+  "answer": "CHEATING",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'bad', and 'that... 's into' (you could read this second one as 'that... is into'). One of these is an anagram indicator, suggesting that some neighbouring fodder is wrong or off. The other is a containing indicator - some fodder will go inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'acting' and 'he'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          18,
+          24
+        ],
+        [
+          30,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'It's not just', and our answer will be something that's intrinsically not just.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,105 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-11",
+  "clue": [
+    {
+      "text": "Awkward",
+      "type": null
+    },
+    {
+      "text": "silence",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "beloved",
+      "type": null
+    },
+    {
+      "text": "ultimately",
+      "type": null
+    },
+    {
+      "text": "says",
+      "type": null
+    },
+    {
+      "text": "“I",
+      "type": null
+    },
+    {
+      "text": "do…",
+      "type": null
+    },
+    {
+      "text": "not”",
+      "type": null
+    }
+  ],
+  "answer": "DECLINES",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Awkward', 'after', and 'ultimately'. One of these is a selection indicator telling us which letter(s) from some neighbouring fodder to focus on. Another is an anagram flagging that we'll need to jumble some nearby letters. And a third simply guides us to reposition one chunk of fodder relative to another.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          16,
+          21
+        ],
+        [
+          30,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'silence' and 'beloved'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          15
+        ],
+        [
+          22,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'says \"I do... not\"', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-18",
+  "clue": [
+    {
+      "text": "Out-of-control",
+      "type": null
+    },
+    {
+      "text": "car",
+      "type": null
+    },
+    {
+      "text": "leads",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "something",
+      "type": null
+    },
+    {
+      "text": "horrible!?",
+      "type": null
+    }
+  ],
+  "answer": "CRASH",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Out-of-control' and 'leads to'. One of these is an anagram indicator, flagging that some neighbouring letters will need to be mixed up. The other is a selection indicator telling us which letters from some nearby fodder we should pay attention to.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          14
+        ],
+        [
+          19,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'car' and 'something horrible'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          18
+        ],
+        [
+          28,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is both the wordplay and the definition. So, our answer will be something horrible that is led to by an out-of-control car. Heads up: while we have previously denoted &lits with the !? punctuation on the end, we will soon be using subtler forms of signifying this, like a single exclamation point: !",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

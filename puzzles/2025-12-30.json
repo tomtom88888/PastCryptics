@@ -1,0 +1,99 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-30",
+  "clue": [
+    {
+      "text": "Spell",
+      "type": null
+    },
+    {
+      "text": "POTS,",
+      "type": null
+    },
+    {
+      "text": "SUN,",
+      "type": null
+    },
+    {
+      "text": "OLD",
+      "type": null
+    },
+    {
+      "text": "&",
+      "type": null
+    },
+    {
+      "text": "CAR",
+      "type": null
+    },
+    {
+      "text": "wrong?",
+      "type": null
+    }
+  ],
+  "answer": "CAULDRONS",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'wrong' and it's an anagram indicator. Some neighbouring letters are wrong and need correction - or perhaps they're right and will become wrong. Either way, we'll need to adjust those fodder letters by rearranging them.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          27,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'SUN', 'OLD' and 'CAR'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          15
+        ],
+        [
+          17,
+          20
+        ],
+        [
+          23,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Spell POTS', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          10
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

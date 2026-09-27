@@ -1,0 +1,79 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-12",
+  "clue": [
+    {
+      "text": "Rouse",
+      "type": null
+    },
+    {
+      "text": "ancestors",
+      "type": null
+    },
+    {
+      "text": "holding",
+      "type": null
+    },
+    {
+      "text": "one",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "these?",
+      "type": null
+    }
+  ],
+  "answer": "SEANCE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'holding', and it's a hidden word indicator. Some nearby fodder will be holding our answer!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          16,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Rouse ancestors'. We'll use these letters (or some of them) to compile our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "This clue is a partial &lit. An &lit is one where the whole clue is both the definition and the wordplay, and a partial &lit is where the whole clue is the definition but only part of the clue is the wordplay. So, here, our will be something that might rouse ancestors when you hold it...",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-08",
+  "clue": [
+    {
+      "text": "Spain’s",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "France’s",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "Italy’s",
+      "type": null
+    },
+    {
+      "text": "earliest",
+      "type": null
+    },
+    {
+      "text": "hairy",
+      "type": null
+    },
+    {
+      "text": "humanoid",
+      "type": null
+    }
+  ],
+  "answer": "YETI",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Spain's', 'France's', and 'earliest' are our indicators. 'Spain's' and 'France's' are translation indicators - they tell us to translate a neighbouring word - and 'earliest' is a selection indicator telling us to take the first letter of some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          33,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'and', 'and', and 'Italy's'. We'll use substitutes for two of these and the letter/s of the third to construct our answer - as guided by our indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          11
+        ],
+        [
+          21,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'hairy humanoid' - we're looking for an answer that matches this.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          42,
+          56
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,76 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-27",
+  "clue": [
+    {
+      "text": "Please…",
+      "type": null
+    },
+    {
+      "text": "shaken",
+      "type": null
+    },
+    {
+      "text": "not",
+      "type": null
+    },
+    {
+      "text": "stirred",
+      "type": null
+    }
+  ],
+  "answer": "ASLEEP",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Shaken' is an anagram indicator — it tells us to mix up the letters of a neighbouring word, as if shaking them into something new.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Please' — we’ll need to use these letters as directed by our indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'not stirred', and our answer will be another way of saying that!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          15,
+          26
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

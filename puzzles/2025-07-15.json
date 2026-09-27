@@ -1,0 +1,105 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-15",
+  "clue": [
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "love",
+      "type": null
+    },
+    {
+      "text": "doing",
+      "type": null
+    },
+    {
+      "text": "gymnastics",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "this",
+      "type": null
+    },
+    {
+      "text": "extremely",
+      "type": null
+    },
+    {
+      "text": "springy",
+      "type": null
+    },
+    {
+      "text": "bunch?",
+      "type": null
+    }
+  ],
+  "answer": "VIOLETS",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Doing gymnastics' and 'extremely' are our indicators — one tells us to rearrange some letters, and the other tells us to select the outermost ones.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          23
+        ],
+        [
+          34,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'I love' and 'this'. We'll be using the letters of both, as directed by their neighbouring indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          29,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'springy bunch?' — a playful definition (notice the question mark) that will require some lateral thinking!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          44,
+          58
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

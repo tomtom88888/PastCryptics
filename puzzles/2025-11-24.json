@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-24",
+  "clue": [
+    {
+      "text": "Unlocking",
+      "type": null
+    },
+    {
+      "text": "kindness,",
+      "type": null
+    },
+    {
+      "text": "insight",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "humility,",
+      "type": null
+    },
+    {
+      "text": "starts",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "reflection!?",
+      "type": null
+    }
+  ],
+  "answer": "HAIKU",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'starts' and 'with reflection'. One of these is a selection indicator showing us which letter(s) to select from some neighbouring fodder. The other is a reversal indicator instructing us to reverse some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          42,
+          48
+        ],
+        [
+          49,
+          64
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Unlocking kindness, insight and humility'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "This is an &lit clue, meaning the whole clue is both definition and wordplay. This means our definition is: 'Unlocking kindness, insight and humility, starts with reflection'. Our answer will somehow represent this!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          64
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

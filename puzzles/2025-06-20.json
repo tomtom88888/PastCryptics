@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-20",
+  "clue": [
+    {
+      "text": "A",
+      "type": null
+    },
+    {
+      "text": "bit",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "marijuana",
+      "type": null
+    },
+    {
+      "text": "use",
+      "type": null
+    },
+    {
+      "text": "alleviates",
+      "type": null
+    },
+    {
+      "text": "sickness",
+      "type": null
+    }
+  ],
+  "answer": "NAUSEA",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'A bit of' is our indicator, and it's a hidden word indicator, instructing us to take consecutive letters ('a bit of') from some neighbouring words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "The fodder is 'marijuana use alleviates' - these words hold the raw ingredients for our answer, and our indicator(s) will hold the key to how to manipulate these letters.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'sickness' - our answer will be a kind of sickness or its general feeling.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          34,
+          42
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

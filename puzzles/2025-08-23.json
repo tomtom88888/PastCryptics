@@ -1,0 +1,84 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-23",
+  "clue": [
+    {
+      "text": "Gripping",
+      "type": null
+    },
+    {
+      "text": "strip",
+      "type": null
+    },
+    {
+      "text": "scene",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "Marvel",
+      "type": null
+    },
+    {
+      "text": "crossover",
+      "type": null
+    }
+  ],
+  "answer": "VELCRO",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Scene from' is a hidden word indicator. Hidden word indicators (as their name suggests) often have a sense of 'hiding', but they can also simply convey a sense of 'segmentation'. Here, our answer is a scene, a vignette, an episode or a portion of a larger whole.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Marvel crossover' — we’ll need to use these letters as the indicator directs to find our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          26,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Gripping strip'. Work out what that could be, and you might have our answer!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

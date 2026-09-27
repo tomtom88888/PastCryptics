@@ -1,0 +1,85 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-26",
+  "clue": [
+    {
+      "text": "Paddleboat’s",
+      "type": null
+    },
+    {
+      "text": "left",
+      "type": null
+    },
+    {
+      "text": "side",
+      "type": null
+    },
+    {
+      "text": "or",
+      "type": null
+    },
+    {
+      "text": "its",
+      "type": null
+    },
+    {
+      "text": "terminus!?",
+      "type": null
+    }
+  ],
+  "answer": "PORT",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Left side' and 'its terminus' are our indicators — both are selection indicators, telling us to use specific letters from the fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          22
+        ],
+        [
+          26,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Paddleboat' and 'or'. We'll be using letters from these as the indicators direct.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          10
+        ],
+        [
+          23,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "This is an &lit clue: the entire clue — 'Paddleboat's left side or its terminus' — is both definition and wordplay. So, what word could represent a Paddleboat's left side or terminus?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

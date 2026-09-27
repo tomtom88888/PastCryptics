@@ -1,0 +1,84 @@
+{
+  "puzzleId": null,
+  "date": "2025-05-23",
+  "clue": [
+    {
+      "text": "Make-up",
+      "type": null
+    },
+    {
+      "text": "may",
+      "type": null
+    },
+    {
+      "text": "scare,",
+      "type": null
+    },
+    {
+      "text": "as",
+      "type": null
+    },
+    {
+      "text": "not",
+      "type": null
+    },
+    {
+      "text": "quite",
+      "type": null
+    },
+    {
+      "text": "finished",
+      "type": null
+    }
+  ],
+  "answer": "MASCARA",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Not quite finished' is a truncation indicator – it's telling us to drop the last letter from some words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          22,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "'May scare as' is our fodder. We'll be using these letters (and ignoring the comma) to find our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "The definition is 'Make-up' – we're looking for a cosmetic.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

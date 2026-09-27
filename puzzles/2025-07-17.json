@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-17",
+  "clue": [
+    {
+      "text": "Bound",
+      "type": null
+    },
+    {
+      "text": "escapee",
+      "type": null
+    },
+    {
+      "text": "heard",
+      "type": null
+    },
+    {
+      "text": "admitting",
+      "type": null
+    },
+    {
+      "text": "crime",
+      "type": null
+    },
+    {
+      "text": "essentially",
+      "type": null
+    }
+  ],
+  "answer": "SKIP",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Heard', 'admitting', and 'essentially' are our indicators — one tells us to sound out a word, another tells us to extract a central letter, and a third tells us to place one part inside another.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          19
+        ],
+        [
+          20,
+          29
+        ],
+        [
+          36,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'escapee' and 'crime'. We'll need to use these words and their letters as directed by their neighbouring indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          13
+        ],
+        [
+          30,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Bound' — and our answer will be another way of saying this.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

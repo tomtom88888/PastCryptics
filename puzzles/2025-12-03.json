@@ -1,0 +1,91 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-03",
+  "clue": [
+    {
+      "text": "False",
+      "type": null
+    },
+    {
+      "text": "image",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "which",
+      "type": null
+    },
+    {
+      "text": "water",
+      "type": null
+    },
+    {
+      "text": "finally",
+      "type": null
+    },
+    {
+      "text": "appears!?",
+      "type": null
+    }
+  ],
+  "answer": "MIRAGE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'False', 'in which... appears', and 'finally'. One of these is an anagram indicator guiding us to mix up some neighbouring letters. Another is a selection indicator, identifying which letter or letters we need to select from an adjacent word. And a third is a containing indicator flagging that some fodder will appear inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          5
+        ],
+        [
+          27,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'image' and 'water'. We'll use these letters (or some of them) to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          11
+        ],
+        [
+          21,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, which means the whole clue is the definition and the whole clue is the wordplay. We've typically flagged our &lits using the !? punctuation, but we might drop that designation soon (see video). In this clue, our answer is a kind of false image in which water finally appears.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,118 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-25",
+  "clue": [
+    {
+      "text": "Forger’s",
+      "type": null
+    },
+    {
+      "text": "initial",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "map",
+      "type": null
+    },
+    {
+      "text": "–",
+      "type": null
+    },
+    {
+      "text": "it",
+      "type": null
+    },
+    {
+      "text": "shows",
+      "type": null
+    },
+    {
+      "text": "treasure",
+      "type": null
+    },
+    {
+      "text": "spot!",
+      "type": null
+    },
+    {
+      "text": "Buried",
+      "type": null
+    },
+    {
+      "text": "gold",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "fake…",
+      "type": null
+    }
+  ],
+  "answer": "FAUX",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'initial' and 'Buried' are our indicators — one tells us to take a first letter, and the other tells us that one set of letters needs to be placed over or around another set.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          16
+        ],
+        [
+          50,
+          56
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Forger', 'on map — it shows treasure spot!' and 'gold'. We'll need to use the letters of one, and find short substitutes for the other two, configuring them all as the indicators direct.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          57,
+          61
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'fake' — all of our wordplay will lead us to another word for 'fake'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          65,
+          69
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

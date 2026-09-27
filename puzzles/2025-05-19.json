@@ -1,0 +1,79 @@
+{
+  "puzzleId": null,
+  "date": "2025-05-19",
+  "clue": [
+    {
+      "text": "Glorify",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "way-out",
+      "type": null
+    },
+    {
+      "text": "recital?",
+      "type": null
+    }
+  ],
+  "answer": "ADORE",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Recital' is our homophone indicator – it's prompting us to sound something out.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "'A' and 'way-out' are both fodder – find a substitute for 'way-out' and take it one step further as directed by our indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          9
+        ],
+        [
+          10,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "Our definition is 'Glorify' – we're after an answer that fits that description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

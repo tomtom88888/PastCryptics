@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-07",
+  "clue": [
+    {
+      "text": "Anagram",
+      "type": null
+    },
+    {
+      "text": "indicator?",
+      "type": null
+    },
+    {
+      "text": "Yes",
+      "type": null
+    },
+    {
+      "text": "–",
+      "type": null
+    },
+    {
+      "text": "here,",
+      "type": null
+    },
+    {
+      "text": "every",
+      "type": null
+    },
+    {
+      "text": "single",
+      "type": null
+    },
+    {
+      "text": "word",
+      "type": null
+    },
+    {
+      "text": "is!",
+      "type": null
+    }
+  ],
+  "answer": "DICTIONARY",
+  "config": [
+    10
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Anagram', and it's an... anagram indicator! We're being instructed to anagram, or rearrange, the letters of a neighbouring word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'indicator', and 'Yes'. We'll need to find a short substitute or abbreviation for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          17
+        ],
+        [
+          19,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'here, every single word is!' Our answer will be something where every word is.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          25,
+          52
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

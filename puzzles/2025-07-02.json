@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-02",
+  "clue": [
+    {
+      "text": "Fishnets",
+      "type": null
+    },
+    {
+      "text": "that",
+      "type": null
+    },
+    {
+      "text": "could",
+      "type": null
+    },
+    {
+      "text": "assist",
+      "type": null
+    },
+    {
+      "text": "fishing",
+      "type": null
+    },
+    {
+      "text": "vessel’s",
+      "type": null
+    },
+    {
+      "text": "process",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "seconds",
+      "type": null
+    }
+  ],
+  "answer": "HOSIERY",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Seconds' is our indicator — it tells us to take the second letters of some of the words nearby.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          55,
+          62
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'that could assist fishing vessel's process by' — we'll be selecting specific letters from this stretch as the indicator directs.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "The definition is 'Fishnets' — and our answer will be another word for these.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

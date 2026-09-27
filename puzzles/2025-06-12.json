@@ -1,0 +1,75 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-12",
+  "clue": [
+    {
+      "text": "Sumo",
+      "type": null
+    },
+    {
+      "text": "unceremoniously",
+      "type": null
+    },
+    {
+      "text": "boxes",
+      "type": null
+    },
+    {
+      "text": "lightweight?",
+      "type": null
+    }
+  ],
+  "answer": "OUNCE",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Boxes' is our hidden word indicator – it tells us that the answer is boxed up somewhere inside the surrounding letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          21,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "'Sumo unceremoniously' is our fodder – you'll need to work with these letters (or some of them) as the indicator suggests.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'lightweight?' – and yes, the question mark matters! We'll need to take a stretchy approach to this definition to find, not a division or fighter, but something much lighter...",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          27,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

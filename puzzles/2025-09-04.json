@@ -1,0 +1,80 @@
+{
+  "puzzleId": null,
+  "date": "2025-09-04",
+  "clue": [
+    {
+      "text": "Midday",
+      "type": null
+    },
+    {
+      "text": "exhibit",
+      "type": null
+    },
+    {
+      "text": "oddly",
+      "type": null
+    },
+    {
+      "text": "cancelled?",
+      "type": null
+    }
+  ],
+  "answer": "TWELVE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Oddly' and 'cancelled' are our indicators — one is a selector (telling us which letters to select) and the other is a deletion indicator (we'll need to delete something).",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          20
+        ],
+        [
+          21,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'exhibit' — we'll need to use these letters as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          7,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Midday' — our answer will be a word meaning this time of day.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-19",
+  "clue": [
+    {
+      "text": "Drinker’s",
+      "type": null
+    },
+    {
+      "text": "release",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "prison",
+      "type": null
+    },
+    {
+      "text": "initiated",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    },
+    {
+      "text": "massage",
+      "type": null
+    }
+  ],
+  "answer": "BURP",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Initiated' and 'back' are our indicators — one tells us to take just the first letter of a word, and the other tells us to reverse part of the wordplay.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          30,
+          39
+        ],
+        [
+          46,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'prison' and 'massage' — we’ll be using letter(s) from one (as an indicator directs) and substituting the other with something shorter.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          23,
+          29
+        ],
+        [
+          51,
+          58
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Drinker’s release' — and our answer is a cheeky way to describe that idea.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          17
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

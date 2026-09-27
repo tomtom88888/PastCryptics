@@ -1,0 +1,87 @@
+{
+  "puzzleId": null,
+  "date": "2026-07-11",
+  "clue": [
+    {
+      "text": "Music",
+      "type": null
+    },
+    {
+      "text": "group",
+      "type": null
+    },
+    {
+      "text": "got",
+      "type": null
+    },
+    {
+      "text": "older",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "wrapped",
+      "type": null
+    },
+    {
+      "text": "things",
+      "type": null
+    },
+    {
+      "text": "up?",
+      "type": null
+    }
+  ],
+  "answer": "BANDAGED",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Music group', and 'got older'. We'll need to find synonyms for each of these to construct our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          11
+        ],
+        [
+          12,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'wrapped things up', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          26,
+          43
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

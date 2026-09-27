@@ -1,0 +1,87 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-26",
+  "clue": [
+    {
+      "text": "Places",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "read",
+      "type": null
+    },
+    {
+      "text": "two",
+      "type": null
+    },
+    {
+      "text": "signs",
+      "type": null
+    },
+    {
+      "text": "overlapping",
+      "type": null
+    }
+  ],
+  "answer": "LIBRARIES",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'overlapping', and this isn't a typical kind of indicator. We'll need to take two bits of fodder and overlap them to find our answer. Tip: I think this is a clue where it's easier to find a guess at the answer based on the likely definition, and then see if you can reverse engineer the wordplay!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          25,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'two signs'. We will need to find two examples of signs (or perhaps more accurately, two instances of a certain kind of sign) and overlap them. Tip: I think this is a clue where it's easier to find a guess at the answer based on the likely definition, and then see if you can reverse engineer the wordplay!",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Places to read', and our answer will be a word for places where you might read.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

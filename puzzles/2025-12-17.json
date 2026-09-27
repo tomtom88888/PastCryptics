@@ -1,0 +1,89 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-17",
+  "clue": [
+    {
+      "text": "Drops",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "between",
+      "type": null
+    },
+    {
+      "text": "Tue-Thu",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "way",
+      "type": null
+    },
+    {
+      "text": "back?",
+      "type": null
+    }
+  ],
+  "answer": "DEW",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'on the way back' and it's a reversal indicator. We'll need to take our fodder (or what it represents) and reverse it to find our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          25,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'in between Tue-Thu'. We'll need to find a substitute for this idea - an alternative representation of it - and use it to find our answer, as guided by the clues indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Drops', and our answer will be an example of 'Drops'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

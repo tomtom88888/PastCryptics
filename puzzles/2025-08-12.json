@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-12",
+  "clue": [
+    {
+      "text": "House",
+      "type": null
+    },
+    {
+      "text": "cat",
+      "type": null
+    },
+    {
+      "text": "got",
+      "type": null
+    },
+    {
+      "text": "fixed",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "vet",
+      "type": null
+    },
+    {
+      "text": "centre",
+      "type": null
+    }
+  ],
+  "answer": "COTTAGE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Fixed' and 'centre' are our indicators — one tells us to rearrange some letters, and the other tells us to take the middle letter of a word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          19
+        ],
+        [
+          27,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'cat got' and 'vet'. We'll need to use these letters (or some of them), just as the indicators direct.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          13
+        ],
+        [
+          23,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'House' — our answer will be a type of dwelling.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

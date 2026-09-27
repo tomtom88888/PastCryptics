@@ -1,0 +1,105 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-04",
+  "clue": [
+    {
+      "text": "Leaves",
+      "type": null
+    },
+    {
+      "text": "Inca",
+      "type": null
+    },
+    {
+      "text": "ruins",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "Western",
+      "type": null
+    },
+    {
+      "text": "Hemisphere",
+      "type": null
+    }
+  ],
+  "answer": "SPINACH",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Ruins', 'in', 'Western', and 'Hemi' are our indicators. 'ruins' signals an anagram of some neighbouring fodder, 'in' tells us to insert some fodder in other fodder, and 'Western' + 'Hemi' together instruct us to select a certain part of some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          9
+        ],
+        [
+          12,
+          17
+        ],
+        [
+          18,
+          20
+        ],
+        [
+          21,
+          28
+        ],
+        [
+          29,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Inca' and 'sphere' — we'll use these letters (or some of them) to construct our answer, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          7,
+          11
+        ],
+        [
+          33,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Leaves', and our answer will correspond directly with this word.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

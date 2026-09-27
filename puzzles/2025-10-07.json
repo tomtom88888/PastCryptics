@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-07",
+  "clue": [
+    {
+      "text": "Tailor",
+      "type": null
+    },
+    {
+      "text": "billed",
+      "type": null
+    },
+    {
+      "text": "500",
+      "type": null
+    },
+    {
+      "text": "less",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "offensive",
+      "type": null
+    },
+    {
+      "text": "suit?",
+      "type": null
+    }
+  ],
+  "answer": "LIBEL",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Tailor' and 'less' are this clue's indicators. One is an anagram indicator, telling us to rearrange some nearby letters, and the other is a deletion indicator, telling us to remove something first.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          18,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'billed' and '500'. We'll use the letters of one along with a short substitute for the other to construct our answer, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          7,
+          13
+        ],
+        [
+          14,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'offensive suit?', and our answer will be a kind of offensive suit (but it won't be a kind of garment).",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          27,
+          42
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

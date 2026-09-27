@@ -1,0 +1,102 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-18",
+  "clue": [
+    {
+      "text": "Perhaps",
+      "type": null
+    },
+    {
+      "text": "Sydney",
+      "type": null
+    },
+    {
+      "text": "Sweeney",
+      "type": null
+    },
+    {
+      "text": "finally",
+      "type": null
+    },
+    {
+      "text": "follows",
+      "type": null
+    },
+    {
+      "text": "script",
+      "type": null
+    },
+    {
+      "text": "now",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "then",
+      "type": null
+    }
+  ],
+  "answer": "CITY",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Finally' and 'now and then' are our indicators – one tells us to select a final letter, and the other points us to alternating letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          23,
+          30
+        ],
+        [
+          46,
+          58
+        ]
+      ]
+    },
+    {
+      "text": "'Sweeney' and 'script' are our fodder – and this is all letterplay. We’ll be using these letters as directed by the indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          22
+        ],
+        [
+          39,
+          45
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Perhaps Sydney', and 'Perhaps' is a flag that our answer is a category to which 'Sydney' belongs.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-29",
+  "clue": [
+    {
+      "text": "Humans",
+      "type": null
+    },
+    {
+      "text": "maybe",
+      "type": null
+    },
+    {
+      "text": "evolved",
+      "type": null
+    },
+    {
+      "text": "armpits",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "conserve",
+      "type": null
+    },
+    {
+      "text": "energy",
+      "type": null
+    }
+  ],
+  "answer": "PRIMATES",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Evolved' and 'to conserve' are our indicators — one tells us to anagram some letters, and the other tells us to place something inside something else.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          20
+        ],
+        [
+          29,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'armpits' and 'energy'. We'll be using the letters of one, and finding a short substitute for the other, as directed by the indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          21,
+          28
+        ],
+        [
+          41,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Humans maybe' - and that 'maybe' is a flag, pointing us to a broader category that 'Humans' belong to.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

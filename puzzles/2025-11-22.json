@@ -1,0 +1,103 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-22",
+  "clue": [
+    {
+      "text": "Exclusive",
+      "type": null
+    },
+    {
+      "text": "school’s",
+      "type": null
+    },
+    {
+      "text": "tall",
+      "type": null
+    },
+    {
+      "text": "characters",
+      "type": null
+    },
+    {
+      "text": "expelled",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "petite",
+      "type": null
+    },
+    {
+      "text": "principal",
+      "type": null
+    }
+  ],
+  "answer": "SCOOP",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'tall characters', 'expelled' and 'principal'. Two of these are selection indicators that tell us which letter/s in some neighbouring fodder to focus on. The third is a deletion indicator instructing us to remove something from some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          19,
+          34
+        ],
+        [
+          35,
+          43
+        ],
+        [
+          54,
+          63
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'school' and 'petite'. We'll use these letters (or some of them) to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          16
+        ],
+        [
+          47,
+          53
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Exclusive', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

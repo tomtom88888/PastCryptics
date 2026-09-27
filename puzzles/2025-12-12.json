@@ -1,0 +1,100 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-12",
+  "clue": [
+    {
+      "text": "Cut",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "fudge?",
+      "type": null
+    },
+    {
+      "text": "Yes,",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "could…",
+      "type": null
+    },
+    {
+      "text": "can",
+      "type": null
+    },
+    {
+      "text": "you?",
+      "type": null
+    }
+  ],
+  "answer": "SLICED",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue has two indicators. 'fudge' is an anagram indicator - if you fudge something you might fake, distort or manipulate it - and here we'll be manipulating some letters by rearranging them. And 'can' is a deletion indicator - if you can something, you trash it - we need to delete some fodder from some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          12
+        ],
+        [
+          28,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Yes, I could', and 'you'. We'll need to use these letters to construct our answer, as guided by the clue's indicator(s)",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          14,
+          26
+        ],
+        [
+          32,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Cut up', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

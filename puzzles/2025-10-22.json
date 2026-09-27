@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-22",
+  "clue": [
+    {
+      "text": "Private",
+      "type": null
+    },
+    {
+      "text": "investigator",
+      "type": null
+    },
+    {
+      "text": "losing",
+      "type": null
+    },
+    {
+      "text": "50",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "roulette",
+      "type": null
+    },
+    {
+      "text": "spin",
+      "type": null
+    }
+  ],
+  "answer": "PIROUETTE",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'losing... from' - a deletion indicator. We'll need to lose some fodder from some other fodder to construct our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": []
+    },
+    {
+      "text": "This clue's fodder is 'Private investigator', '50' and 'roulette'. We'll need to find short substitutes for two of these and use them with the letters of the third to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          20
+        ],
+        [
+          28,
+          30
+        ],
+        [
+          36,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'spin', which is tricky because 'spin' seems like such an obvious reversal indicator! Not in this clue! Our answer will be another word for 'spin'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          45,
+          49
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

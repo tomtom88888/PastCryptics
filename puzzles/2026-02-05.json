@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-05",
+  "clue": [
+    {
+      "text": "Car",
+      "type": null
+    },
+    {
+      "text": "somersaults",
+      "type": null
+    },
+    {
+      "text": "during",
+      "type": null
+    },
+    {
+      "text": "distance",
+      "type": null
+    },
+    {
+      "text": "event,",
+      "type": null
+    },
+    {
+      "text": "defying",
+      "type": null
+    },
+    {
+      "text": "belief",
+      "type": null
+    }
+  ],
+  "answer": "MIRACLE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'somersaults', and 'during'. One of these is a reversal indicator - some neighbouring fodder will flip over, reversing itself. The other is a containing indicator guiding us to place one piece of fodder inside another.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          15
+        ],
+        [
+          16,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Car' and 'distance'. We'll need to use the letters of one of these with a short example of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          23,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'event, defying belief', and (ignoring the comma) our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          32,
+          53
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

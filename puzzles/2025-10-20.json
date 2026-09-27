@@ -1,0 +1,102 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-20",
+  "clue": [
+    {
+      "text": "Uproar",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "little",
+      "type": null
+    },
+    {
+      "text": "brother",
+      "type": null
+    },
+    {
+      "text": "texting",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "“LOL”",
+      "type": null
+    }
+  ],
+  "answer": "BROUHAHA",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "‘little’ and ‘texting’ are our indicators, and they're both slightly unusual, because they hint at the kind of substitutions we need to find for their neighbouring fodder - substitution indicators aren't common. 'little' suggests we need to find an abbreviated version, and 'texting' nudges us to use text-speak.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          18
+        ],
+        [
+          27,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder pieces are ‘brother’, ‘you’, and ‘LOL’. We'll need to use these words to construct our answer, as guided by our indicator(s)",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          19,
+          26
+        ],
+        [
+          35,
+          38
+        ],
+        [
+          40,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "The definition is ‘Uproar’, and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

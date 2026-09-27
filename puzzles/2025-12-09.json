@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-09",
+  "clue": [
+    {
+      "text": "Maybe",
+      "type": null
+    },
+    {
+      "text": "professional",
+      "type": null
+    },
+    {
+      "text": "sweaters",
+      "type": null
+    },
+    {
+      "text": "unravel",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "least?",
+      "type": null
+    }
+  ],
+  "answer": "ATHLETES",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'unravel' and it's an anagram indicator - the letters of some neighbouring fodder will unravel and fall into a different order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          28,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'the least'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          36,
+          45
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Maybe professional sweaters', and our answer leans on the question mark at the end of the clue - we'll need to look at 'Maybe professional sweaters' in a somewhat creative way to find our answer.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          27
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

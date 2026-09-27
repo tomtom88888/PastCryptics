@@ -1,0 +1,79 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-05",
+  "clue": [
+    {
+      "text": "Tap",
+      "type": null
+    },
+    {
+      "text": "spade",
+      "type": null
+    },
+    {
+      "text": "over",
+      "type": null
+    },
+    {
+      "text": "ground",
+      "type": null
+    }
+  ],
+  "answer": "EAVESDROP",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'ground', and it's an anagram indicator. If something is ground, it's crushed into small pieces, and this idea of 'breaking up' is a key theme in anagram indicators. So, in this clue, we need to identify some neighbouring fodder that can be broken up and rearranged into an answer that matches our definition.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'spade over'. We'll need to use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          4,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Tap', and our answer will be another word for 'tap'. You will, however, need to think about 'tap' quite differently to how it's being used in the surface of our clue.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

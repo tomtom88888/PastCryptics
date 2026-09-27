@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-21",
+  "clue": [
+    {
+      "text": "Box",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "dead",
+      "type": null
+    },
+    {
+      "text": "pet",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Schrödinger",
+      "type": null
+    },
+    {
+      "text": "contains",
+      "type": null
+    },
+    {
+      "text": "almost",
+      "type": null
+    },
+    {
+      "text": "half-skeleton",
+      "type": null
+    }
+  ],
+  "answer": "CASKET",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'contains' and 'almost half'. One of these is a selection indicator, guiding us to focus on only part of a neighbouring word. And the other is a containing indicator - one chunk of fodder will go around the outside of another chunk.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          32,
+          40
+        ],
+        [
+          41,
+          52
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'pet of Schrödinger' and 'skeleton'. We'll need to find a short substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s)",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          31
+        ],
+        [
+          53,
+          61
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Box for dead', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

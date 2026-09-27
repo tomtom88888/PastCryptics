@@ -1,0 +1,87 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-24",
+  "clue": [
+    {
+      "text": "Maybe",
+      "type": null
+    },
+    {
+      "text": "uniform",
+      "type": null
+    },
+    {
+      "text": "eater",
+      "type": null
+    },
+    {
+      "text": "eats",
+      "type": null
+    },
+    {
+      "text": "uniform",
+      "type": null
+    },
+    {
+      "text": "eater?",
+      "type": null
+    }
+  ],
+  "answer": "MOUTH",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'eats', and it's a containing indicator. Some fodder (or its substitute) will go around some other fodder, eating it.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          20,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Maybe uniform eater' and 'uniform', and we'll need to substitute both of these. We'll need to find a short word for something that could be considered a uniform eater, and we'll need to find a short substitute for 'uniform'. If we use those with the clue's indicator(s), we'll reach our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          19
+        ],
+        [
+          25,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'eater?', and our answer will be another word for something that eats.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

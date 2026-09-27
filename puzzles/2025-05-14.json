@@ -1,0 +1,89 @@
+{
+  "puzzleId": null,
+  "date": "2025-05-14",
+  "clue": [
+    {
+      "text": "Monkey",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "no",
+      "type": null
+    },
+    {
+      "text": "cigar,",
+      "type": null
+    },
+    {
+      "text": "as",
+      "type": null
+    },
+    {
+      "text": "nature",
+      "type": null
+    },
+    {
+      "text": "intended",
+      "type": null
+    }
+  ],
+  "answer": "ORGANIC",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "Our indicator is 'monkey with' – which means to mess around with. This seems like a possible anagram indicator!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    {
+      "text": "'No cigar' is our fodder – we'll need to use those letters somehow to arrive at our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'as nature intended' – our answer will correspond with this definition.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          22,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

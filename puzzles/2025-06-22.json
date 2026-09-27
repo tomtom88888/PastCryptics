@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-22",
+  "clue": [
+    {
+      "text": "Dove",
+      "type": null
+    },
+    {
+      "text": "gulped,",
+      "type": null
+    },
+    {
+      "text": "accidentally",
+      "type": null
+    },
+    {
+      "text": "eating",
+      "type": null
+    },
+    {
+      "text": "scorpion’s",
+      "type": null
+    },
+    {
+      "text": "tail",
+      "type": null
+    }
+  ],
+  "answer": "PLUNGED",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "Our indicators are 'Accidentally', 'eating' and 'tail' — anagram, containing and selection indicators.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          25
+        ],
+        [
+          26,
+          32
+        ],
+        [
+          44,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "'Gulped' and 'scorpion' are our fodder — and this is all letterplay. We’ll be using these letters (or some of them) as the indicators direct!",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          11
+        ],
+        [
+          33,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Dove' — our answer will be another word for this, but only if you think a little differently.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

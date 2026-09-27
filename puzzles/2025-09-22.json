@@ -1,0 +1,90 @@
+{
+  "puzzleId": null,
+  "date": "2025-09-22",
+  "clue": [
+    {
+      "text": "Campers",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "alert…",
+      "type": null
+    },
+    {
+      "text": "bears",
+      "type": null
+    },
+    {
+      "text": "close",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "home",
+      "type": null
+    }
+  ],
+  "answer": "PERSONAL",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Bears' is a hidden-word indicator — it tells us the answer is being carried by a neighbouring phrase (the phrase 'bears' our answer).",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Campers on alert' — we’ll use these letters to reach our answer, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'close to home' — and if something's 'close to home', you could say it's...?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          24,
+          37
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

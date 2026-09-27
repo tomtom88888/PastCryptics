@@ -1,0 +1,89 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-29",
+  "clue": [
+    {
+      "text": "Egad!",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "am",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "duty",
+      "type": null
+    },
+    {
+      "text": "guarding",
+      "type": null
+    },
+    {
+      "text": "treasure!",
+      "type": null
+    }
+  ],
+  "answer": "DIAMOND",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'guarding', and it's a hidden word indicator. In other words, some nearby fodder will be guarding or containing our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          19,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Egad! I am on duty'. We'll use these letters (or some of them) to compile our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'treasure!', and our answer will be a kind of treasure or an example of treasure.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          28,
+          37
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

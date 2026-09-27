@@ -1,0 +1,56 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-01",
+  "clue": [
+    {
+      "text": "Blue",
+      "type": null
+    },
+    {
+      "text": "feathers",
+      "type": null
+    },
+    {
+      "text": "discarded?",
+      "type": null
+    }
+  ],
+  "answer": "DOWN IN THE DUMPS",
+  "config": [
+    4,
+    2,
+    3,
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    1,
+    3,
+    5,
+    7,
+    9,
+    11,
+    13
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue is a double definition - we'll need to divide our clue into two chunks, each of which will represent the answer directly (there's no wordplay or letter manipulation here). Tip: when the answer seems outsized compared to the clue, it's a good time to look for non-standard techniques like double definition or rebus.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

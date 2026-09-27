@@ -1,0 +1,85 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-26",
+  "clue": [
+    {
+      "text": "Expect",
+      "type": null
+    },
+    {
+      "text": "seat",
+      "type": null
+    },
+    {
+      "text": "diagonal",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "5B,",
+      "type": null
+    },
+    {
+      "text": "say",
+      "type": null
+    }
+  ],
+  "answer": "FORESEE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'say', and it's a homophone indicator. We'll need to say some neighbouring fodder - or its substitute - out loud, hear what it sounds like, and replace it in our answer with a sound-alike word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          28,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'seat diagonal to 5B'. We'll need to find a substitute for this and use it in conjunction with our indicator(s) to find our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          7,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Expect', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

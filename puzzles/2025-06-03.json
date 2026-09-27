@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-03",
+  "clue": [
+    {
+      "text": "Farmer",
+      "type": null
+    },
+    {
+      "text": "legally",
+      "type": null
+    },
+    {
+      "text": "amputated",
+      "type": null
+    },
+    {
+      "text": "both",
+      "type": null
+    },
+    {
+      "text": "limbs",
+      "type": null
+    },
+    {
+      "text": "like",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "wild",
+      "type": null
+    },
+    {
+      "text": "animal",
+      "type": null
+    }
+  ],
+  "answer": "FERALLY",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Amputated both limbs' is our indicator. Normally, this might mean something like deleting the outside letters (perhaps the outsides are the limbs). But it means something slightly different here. Look at the fodder again.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "'Farmer legally' is our fodder, and this is all letterplay. Use those letters as directed by the indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'like a wild animal' – tame this clue by finding an answer that matches this definition!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          36,
+          54
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,99 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-06",
+  "clue": [
+    {
+      "text": "Rejected",
+      "type": null
+    },
+    {
+      "text": "dwarf",
+      "type": null
+    },
+    {
+      "text": "Bashful",
+      "type": null
+    },
+    {
+      "text": "left",
+      "type": null
+    },
+    {
+      "text": "plushy",
+      "type": null
+    },
+    {
+      "text": "toy",
+      "type": null
+    },
+    {
+      "text": "unfinished",
+      "type": null
+    }
+  ],
+  "answer": "PLUTO",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Left' and 'unfinished' are our indicators. One is a deletion indicator, telling us to remove fodder from other fodder. The other is a selection indicator, telling us which part of some fodder to keep.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          23,
+          27
+        ],
+        [
+          39,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Bashful', 'plushy', and 'toy'. We'll need to find a synonym of one and use it with the letters of the other to construct our answer, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          22
+        ],
+        [
+          28,
+          34
+        ],
+        [
+          35,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Rejected dwarf', so our answer will be some kind of 'rejected dwarf' - but, fyi, we're not in the realm of fantasy here!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

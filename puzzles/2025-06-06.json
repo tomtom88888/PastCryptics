@@ -1,0 +1,91 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-06",
+  "clue": [
+    {
+      "text": "Batter,",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "warming",
+      "type": null
+    },
+    {
+      "text": "up,",
+      "type": null
+    },
+    {
+      "text": "put",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "mediocre",
+      "type": null
+    },
+    {
+      "text": "performance",
+      "type": null
+    }
+  ],
+  "answer": "CREPE",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Put in' is our hidden word indicator – it tells us the answer is tucked away inside other words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          26,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "'Mediocre performance' is our fodder – this is all letterplay. Use these letters (or some of them) as directed by the indicator/s.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          33,
+          53
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Batter, after warming up' – but thinking only about sport would be a swing and a miss!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          24
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

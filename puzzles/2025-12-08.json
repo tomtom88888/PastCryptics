@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-08",
+  "clue": [
+    {
+      "text": "Went",
+      "type": null
+    },
+    {
+      "text": "inside,",
+      "type": null
+    },
+    {
+      "text": "texting",
+      "type": null
+    },
+    {
+      "text": "“thanks",
+      "type": null
+    },
+    {
+      "text": "xx”",
+      "type": null
+    }
+  ],
+  "answer": "TWENTY",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue has two indicators. 'inside' is a containing indicator, flagging that some fodder will go inside some other fodder. 'texting' is a kind of substitution indicator - these are pretty rare, but think of it like a homophone indicator for text-speak - we'll need to find a text-speak equivalent of some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          11
+        ],
+        [
+          13,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Went' and 'thanks'. We'll use these words to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          22,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'xx', and our answer will, somehow, be another word for that. What could xx represent?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          29,
+          31
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

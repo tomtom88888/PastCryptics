@@ -1,0 +1,108 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-11",
+  "clue": [
+    {
+      "text": "Brunette’s",
+      "type": null
+    },
+    {
+      "text": "first",
+      "type": null
+    },
+    {
+      "text": "two",
+      "type": null
+    },
+    {
+      "text": "AirPods",
+      "type": null
+    },
+    {
+      "text": "Pro",
+      "type": null
+    },
+    {
+      "text": "lost",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "hair,",
+      "type": null
+    },
+    {
+      "text": "possibly?",
+      "type": null
+    }
+  ],
+  "answer": "BRAIDS",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'First two' and 'lost' are our indicators — one tells us which letters to select from some neighbouring fodder, and the other tells us to delete some letters from nearby fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          20
+        ],
+        [
+          33,
+          37
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Brunette', 'AirPods', and 'Pro' — we’ll use these letters (or some of them) to construct our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          21,
+          28
+        ],
+        [
+          29,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'in hair, possibly?', pointing to something that's sometimes found in hair.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          38,
+          56
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

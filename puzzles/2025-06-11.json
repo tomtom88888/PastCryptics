@@ -1,0 +1,103 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-11",
+  "clue": [
+    {
+      "text": "Lead",
+      "type": null
+    },
+    {
+      "text": "guitarist",
+      "type": null
+    },
+    {
+      "text": "fills",
+      "type": null
+    },
+    {
+      "text": "all",
+      "type": null
+    },
+    {
+      "text": "but",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "first",
+      "type": null
+    },
+    {
+      "text": "bass",
+      "type": null
+    },
+    {
+      "text": "section?",
+      "type": null
+    }
+  ],
+  "answer": "GILLS",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Lead' and 'all but the first' are our selection indicators. One tells us to take just the first letter of a word, the other indicates that we should drop the first letter and keep the remaining letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          21,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "'Guitarist' and 'fills' are our fodder – and this one is all letterplay. Use those letters (or some of them) as directed by the indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          14
+        ],
+        [
+          15,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'bass section', and notice the question mark! It means something fishy is going on – this is definitely not the kind of bass section you'd find in a band.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          39,
+          51
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,84 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-09",
+  "clue": [
+    {
+      "text": "Active",
+      "type": null
+    },
+    {
+      "text": "couples",
+      "type": null
+    },
+    {
+      "text": "starting",
+      "type": null
+    },
+    {
+      "text": "mountain",
+      "type": null
+    },
+    {
+      "text": "biking",
+      "type": null
+    },
+    {
+      "text": "lessons",
+      "type": null
+    }
+  ],
+  "answer": "MOBILE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "Our indicator is 'couples starting' – it nudges us to pick out the first pairs of letters from a string of neighbouring words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "The fodder is 'mountain biking lessons' – those words hold the raw material we’ll shape into our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Active' – our answer is a word on the move.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

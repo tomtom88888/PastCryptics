@@ -1,0 +1,39 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-23",
+  "clue": [
+    {
+      "text": "wAnTed!?",
+      "type": null
+    }
+  ],
+  "answer": "AT LARGE",
+  "config": [
+    2,
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue employs a rebus technique - the answer describes the effect present in the clue. This clue has a notable effect: letters are strangely capitalised! Find an answer that describes this effect (while also satisfying the clue's definition).",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

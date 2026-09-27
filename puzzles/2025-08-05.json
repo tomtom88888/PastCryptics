@@ -1,0 +1,43 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-05",
+  "clue": [
+    {
+      "text": "Abor_",
+      "type": null
+    },
+    {
+      "text": "fr__nd_hip!?",
+      "type": null
+    }
+  ],
+  "answer": "CUT TIES",
+  "config": [
+    3,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "The wordplay is a rebus – a 'say what you see' clue – where the effect of wordplay is present in the clue, and the answer functions as the wordplay instructions! What answer could result in the weird effect in our clue (while also corresponding with our definition)?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-21",
+  "clue": [
+    {
+      "text": "Get",
+      "type": null
+    },
+    {
+      "text": "hanky",
+      "type": null
+    },
+    {
+      "text": "out,",
+      "type": null
+    },
+    {
+      "text": "choking",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "words",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "appreciation",
+      "type": null
+    }
+  ],
+  "answer": "THANK YOU",
+  "config": [
+    5,
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Choking on' is our indicator — a playful hidden word indicator, suggesting that the answer is lodged in our fodder and that our fodder is choking on it!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Get hanky out'. We'll need to use these letters as instructed by the indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'words of appreciation' — and our answer will be a familiar phrase that fits!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          26,
+          47
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

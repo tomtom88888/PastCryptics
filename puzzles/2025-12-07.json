@@ -1,0 +1,79 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-07",
+  "clue": [
+    {
+      "text": "Tease",
+      "type": null
+    },
+    {
+      "text": "astrologer,",
+      "type": null
+    },
+    {
+      "text": "half",
+      "type": null
+    },
+    {
+      "text": "curiously",
+      "type": null
+    }
+  ],
+  "answer": "ROAST",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'half' and 'curiously'. One of these is a selection indicator guiding us to focus on only certain letters from the fodder. The other is an anagram indicator telling us to mix up some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          22
+        ],
+        [
+          23,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'astrologer'. We'll need to use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Tease', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

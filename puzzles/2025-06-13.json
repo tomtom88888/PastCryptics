@@ -1,0 +1,101 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-13",
+  "clue": [
+    {
+      "text": "Inaccurate",
+      "type": null
+    },
+    {
+      "text": "claim",
+      "type": null
+    },
+    {
+      "text": "about",
+      "type": null
+    },
+    {
+      "text": "America",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "“Hamilton”,",
+      "type": null
+    },
+    {
+      "text": "say",
+      "type": null
+    }
+  ],
+  "answer": "MUSICAL",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Inaccurate' and 'about' are our indicators – one points to an anagram, the other to a container. Put together, they're telling us how to work with some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          10
+        ],
+        [
+          17,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "'Claim' and 'America' are our fodder – one gives us the letters directly, and the other needs a quick substitution before it can help build the answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          11,
+          16
+        ],
+        [
+          23,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "The definition is '\"Hamilton\", say' – and 'say' is nudging us to think of a category to which \"Hamilton\" belongs. It could be American historical figures, or faces on American currency, or...?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          35,
+          43
+        ],
+        [
+          46,
+          49
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

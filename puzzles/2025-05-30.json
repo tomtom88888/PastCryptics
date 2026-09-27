@@ -1,0 +1,76 @@
+{
+  "puzzleId": null,
+  "date": "2025-05-30",
+  "clue": [
+    {
+      "text": "Hybrid",
+      "type": null
+    },
+    {
+      "text": "gene’s",
+      "type": null
+    },
+    {
+      "text": "hidden",
+      "type": null
+    },
+    {
+      "text": "connection",
+      "type": null
+    }
+  ],
+  "answer": "BRIDGE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Hidden' is our indicator – a hidden indicator! It tells us the answer is tucked away inside the surrounding words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "'Hybrid gene' is our fodder – this phrase has all the right letters, if you know where to look. We'll be using them as directed by our indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'connection' – that’s the kind of thing our answer needs to describe. What links two things together?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          21,
+          31
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,51 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-07",
+  "clue": [
+    {
+      "text": "i’m",
+      "type": null
+    },
+    {
+      "text": "eyePAtched!",
+      "type": null
+    }
+  ],
+  "answer": "GIANT PANDA",
+  "config": [
+    5,
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue is an &lit, which means that the whole clue is both definition and wordplay - we're looking for something that's 'eyepatched'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          4,
+          14
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,71 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-07",
+  "clue": [
+    {
+      "text": "Remix",
+      "type": null
+    },
+    {
+      "text": "Elvis",
+      "type": null
+    },
+    {
+      "text": "covers",
+      "type": null
+    }
+  ],
+  "answer": "VEILS",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Remix' is our indicator – a classic sign that we’re meant to jumble or remix some letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    },
+    {
+      "text": "'Elvis' is our fodder – use these letters as directed by the neighbouring indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          11
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'covers', which could be a noun or a verb. Either way, it’s what we’re after.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          12,
+          18
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

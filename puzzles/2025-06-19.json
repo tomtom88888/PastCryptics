@@ -1,0 +1,66 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-19",
+  "clue": [
+    {
+      "text": "Extremely",
+      "type": null
+    },
+    {
+      "text": "feeble,",
+      "type": null
+    },
+    {
+      "text": "suffering",
+      "type": null
+    },
+    {
+      "text": "shiver!?",
+      "type": null
+    }
+  ],
+  "answer": "FEVERISH",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Feeble' and 'shiver' are our fodder — and this is all letterplay. No need to find any substitutes — just use these letters (or some of them) as the indicators direct!",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          16
+        ],
+        [
+          28,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This is an &lit clue (notice the !? on the end), so the whole clue is both wordplay and definition. This means our answer will be a way of describing a person who's extremely feeble and suffering a shiver.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

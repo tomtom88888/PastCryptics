@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-20",
+  "clue": [
+    {
+      "text": "Gen",
+      "type": null
+    },
+    {
+      "text": "Z",
+      "type": null
+    },
+    {
+      "text": "🔥",
+      "type": null
+    },
+    {
+      "text": "morphs",
+      "type": null
+    },
+    {
+      "text": "into",
+      "type": null
+    },
+    {
+      "text": "🥶",
+      "type": null
+    }
+  ],
+  "answer": "FREEZING",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'morphs into', and it's an anagram indicator. We'll need to anagram some neighbouring fodder (including an emoji!) to find our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Gen Z 🔥'. We'll use these letters (including some letters that the emoji represents) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is '🥶', and our answer will be a word that accurately describes this emoji!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          21
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

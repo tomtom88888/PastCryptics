@@ -1,0 +1,85 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-26",
+  "clue": [
+    {
+      "text": "No",
+      "type": null
+    },
+    {
+      "text": "stamp?",
+      "type": null
+    },
+    {
+      "text": "Problematic",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "him!",
+      "type": null
+    }
+  ],
+  "answer": "POSTMAN",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Problematic' is our anagram indicator — it tells us to mix up some neighbouring letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'No stamp' — we'll use these letters as the indicator directs.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "The definition of this clue is kind of the whole surface. You could say that the definition is just 'for him', but it borrows the context of the whole surface - for whom would 'no stamp' be problematic? This technique is called a partial &lit - where the whole clue is the definition, but only part of the clue is the wordplay.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          22,
+          29
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

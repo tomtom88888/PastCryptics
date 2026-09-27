@@ -1,0 +1,100 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-27",
+  "clue": [
+    {
+      "text": "Wolf",
+      "type": null
+    },
+    {
+      "text": "pack",
+      "type": null
+    },
+    {
+      "text": "roved",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "uncertainty,",
+      "type": null
+    },
+    {
+      "text": "initially",
+      "type": null
+    },
+    {
+      "text": "turning",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    }
+  ],
+  "answer": "DEVOUR",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'pack... with', 'initially' and 'turning back'. One of these is a containing indicator - some fodder will go inside other fodder. Another is a selection indicator pointing out one or more specific letters to pay attention to in some neighbouring fodder. And there's also a reversal indicator in there - we'll need to reverse the order of some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          34,
+          43
+        ],
+        [
+          44,
+          56
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'roved' and 'uncertainty'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          15
+        ],
+        [
+          21,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Wolf', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

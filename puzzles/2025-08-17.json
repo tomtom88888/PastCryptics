@@ -1,0 +1,124 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-17",
+  "clue": [
+    {
+      "text": "Niece’s",
+      "type": null
+    },
+    {
+      "text": "starting",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "be",
+      "type": null
+    },
+    {
+      "text": "captivated",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "looping",
+      "type": null
+    },
+    {
+      "text": "race:",
+      "type": null
+    },
+    {
+      "text": "lots",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Hot",
+      "type": null
+    },
+    {
+      "text": "Wheels?",
+      "type": null
+    }
+  ],
+  "answer": "STOLEN CAR",
+  "config": [
+    6,
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Starting', 'to be captivated by', and 'looping' are our indicators — one tells us to take a starting letter, another tells us to insert something inside something else (containment), and the last tells us to reverse a neighbouring chunk.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          16
+        ],
+        [
+          17,
+          36
+        ],
+        [
+          37,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Niece' and 'race: lots' — we'll use the letters of these (or some of them) as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          5
+        ],
+        [
+          45,
+          55
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Hot Wheels?' — and with that question mark, we're looking for a playful, non-literal reading.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          59,
+          70
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

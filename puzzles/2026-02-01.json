@@ -1,0 +1,90 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-01",
+  "clue": [
+    {
+      "text": "Opening",
+      "type": null
+    },
+    {
+      "text": "two",
+      "type": null
+    },
+    {
+      "text": "letters",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "clown,",
+      "type": null
+    },
+    {
+      "text": "touchingly",
+      "type": null
+    },
+    {
+      "text": "sad?",
+      "type": null
+    }
+  ],
+  "answer": "DOWN",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Opening two letters from' and 'touchingly'. One of these is a selection indicator, guiding us to pay attention to certain letters in some neighbouring fodder. The other indicator is unusual, stretchy and playful; it tells us what to do with those selected letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          24
+        ],
+        [
+          32,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'clown'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          25,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'sad', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          43,
+          46
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

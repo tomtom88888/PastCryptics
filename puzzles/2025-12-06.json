@@ -1,0 +1,130 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-06",
+  "clue": [
+    {
+      "text": "Witch,",
+      "type": null
+    },
+    {
+      "text": "removing",
+      "type": null
+    },
+    {
+      "text": "cauldron",
+      "type": null
+    },
+    {
+      "text": "lid,",
+      "type": null
+    },
+    {
+      "text": "gets",
+      "type": null
+    },
+    {
+      "text": "toad’s",
+      "type": null
+    },
+    {
+      "text": "tail",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "uncooked",
+      "type": null
+    },
+    {
+      "text": "chicken",
+      "type": null
+    },
+    {
+      "text": "out",
+      "type": null
+    }
+  ],
+  "answer": "WITHDRAW",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'removing', 'gets', 'lid' and 'tail'. Two of these are selection indicators, flagging which letters from neighbouring fodder we need to pay attention to. A third is a deletion indicator - some fodder needs to be deleted from some other fodder. And 'gets' could be a containing indicator (some fodder goes inside other fodder), but here it just suggests adding onto - some fodder will prepend some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          15
+        ],
+        [
+          25,
+          28
+        ],
+        [
+          30,
+          34
+        ],
+        [
+          42,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Witch', 'cauldron', 'toad' and 'uncooked'. We'll use the letters of three of these along with a synonym of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          5
+        ],
+        [
+          16,
+          24
+        ],
+        [
+          35,
+          39
+        ],
+        [
+          51,
+          59
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'chicken out', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          60,
+          71
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

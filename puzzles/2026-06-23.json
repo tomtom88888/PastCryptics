@@ -1,0 +1,81 @@
+{
+  "puzzleId": null,
+  "date": "2026-06-23",
+  "clue": [
+    {
+      "text": "Get",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "vocal",
+      "type": null
+    },
+    {
+      "text": "group",
+      "type": null
+    },
+    {
+      "text": "vocalising",
+      "type": null
+    }
+  ],
+  "answer": "ACQUIRE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'vocalising' and it's a homophone indicator. Some neighbouring fodder (words in the clue or a substitute) is vocalising - producing a sound that we'll need to hear and replace with its soundalike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'a vocal group'. We'll need to find a substitute for this and then apply the clue's indicator(s) to find our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          4,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Get', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

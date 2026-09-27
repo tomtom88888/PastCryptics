@@ -1,0 +1,79 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-06",
+  "clue": [
+    {
+      "text": "Location",
+      "type": null
+    },
+    {
+      "text": "housing",
+      "type": null
+    },
+    {
+      "text": "administration’s",
+      "type": null
+    },
+    {
+      "text": "leader!?",
+      "type": null
+    }
+  ],
+  "answer": "PALACE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'housing' and 'leader'. One's a selector, telling us which letter(s) to select from some neighbouring fodder, and the other is a container, instructing us to put some fodder around other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          16
+        ],
+        [
+          34,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'location' and 'administration'. We'll need to find a synonym for one of these words and use it with one or more letters from the other to construct our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          17,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "This is an &lit clue, which means the whole clue is both wordplay and definition. So, our definition here is 'Location housing administration's leader'. What kind of location might house an administration's leader?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

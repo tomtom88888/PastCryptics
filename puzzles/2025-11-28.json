@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-28",
+  "clue": [
+    {
+      "text": "Log",
+      "type": null
+    },
+    {
+      "text": "location",
+      "type": null
+    },
+    {
+      "text": "if",
+      "type": null
+    },
+    {
+      "text": "returning",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "sub",
+      "type": null
+    }
+  ],
+  "answer": "FIREPLACE",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'returning' and 'by'. 'returning' is a reversal indicator - we'll need to find some neighbouring fodder and return it / turn it around. 'by' is barely an indicator, but worth explaining: it simply flags that some preceding fodder is by, or next to, some subsequent fodder, all while improving the surface of the clue.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          16,
+          25
+        ],
+        [
+          26,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'if' and 'sub'. We'll need to use the letters of one of these along with a substitute for the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          15
+        ],
+        [
+          29,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Log location', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

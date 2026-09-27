@@ -1,0 +1,77 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-15",
+  "clue": [
+    {
+      "text": "Warm",
+      "type": null
+    },
+    {
+      "text": "fluid,",
+      "type": null
+    },
+    {
+      "text": "cold",
+      "type": null
+    },
+    {
+      "text": "air",
+      "type": null
+    }
+  ],
+  "answer": "CORDIAL",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'fluid' and it's an anagram indicator. Some neighbouring letters will be fluid - liable to move - and we'll need to rearrange them to find our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          10
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'cold air'. We'll need to use these letters to construct our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Warm', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

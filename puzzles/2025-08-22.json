@@ -1,0 +1,101 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-22",
+  "clue": [
+    {
+      "text": "Page-turning",
+      "type": null
+    },
+    {
+      "text": "diary",
+      "type": null
+    },
+    {
+      "text": "captures",
+      "type": null
+    },
+    {
+      "text": "male",
+      "type": null
+    },
+    {
+      "text": "peak",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "civilisation?",
+      "type": null
+    }
+  ],
+  "answer": "PYRAMID",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Turning' and 'captures' are our indicators — one tells us to reverse some letters, and the other tells us to place one set of letters around the outside of another letter or letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          12
+        ],
+        [
+          19,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Page', 'diary' and 'male'. We'll need short (and common) substitutes for two of those, which we'll use with the letters of the other, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          13,
+          18
+        ],
+        [
+          28,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'peak of civilisation?' — and our question mark prompts us to realise that we're not looking for the figurative summit of humanity. Perhaps a more literal peak?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          54
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-20",
+  "clue": [
+    {
+      "text": "Dropped",
+      "type": null
+    },
+    {
+      "text": "Jacksonville’s",
+      "type": null
+    },
+    {
+      "text": "latest",
+      "type": null
+    },
+    {
+      "text": "quarterback",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "non-pass?",
+      "type": null
+    }
+  ],
+  "answer": "FELL",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'latest quarter', 'back', and 'after'. Yes, this is pretty sneaky, not only separating 'quarter' from 'back' (we've seen this kind of thing before) but then pairing 'quarter' with 'latest'! One of these tells us which letters to focus on (selection indicator) and the other tells us to turn them backwards (reversal indicator). And 'after' indicates how we'll need to position some fodder relative to other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          23,
+          37
+        ],
+        [
+          37,
+          41
+        ],
+        [
+          42,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Jacksonville' and 'non-pass'. We'll need to use letters from one of these with a short substitute for the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          20
+        ],
+        [
+          48,
+          56
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Dropped', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

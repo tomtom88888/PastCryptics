@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-14",
+  "clue": [
+    {
+      "text": "Was",
+      "type": null
+    },
+    {
+      "text": "it",
+      "type": null
+    },
+    {
+      "text": "comforting",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "snuggle",
+      "type": null
+    },
+    {
+      "text": "friends,",
+      "type": null
+    },
+    {
+      "text": "perhaps?",
+      "type": null
+    }
+  ],
+  "answer": "SITCOM",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'To snuggle' is a hidden word indicator — it suggests that some neighbouring words are hugging our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Was it comforting'. We'll need to use these letters (or some of them), as the directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'friends, perhaps'. 'Perhaps' hints that we need to find a higher-level category to which 'friends' belongs. What category might 'friends' be an example of?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          29,
+          45
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

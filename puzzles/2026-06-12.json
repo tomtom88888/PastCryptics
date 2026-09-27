@@ -1,0 +1,71 @@
+{
+  "puzzleId": null,
+  "date": "2026-06-12",
+  "clue": [
+    {
+      "text": "Superman,",
+      "type": null
+    },
+    {
+      "text": "perhaps?",
+      "type": null
+    },
+    {
+      "text": "No.",
+      "type": null
+    },
+    {
+      "text": "It’s",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "bird!",
+      "type": null
+    }
+  ],
+  "answer": "HERON",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Superman, perhaps?' and 'No.', and both of these require substitutes. 'perhaps' tells us to look for a category to which 'Superman' belongs (for example, a DC character is 'Superman, perhaps'). And 'No.' can be read in two ways, both of which can lead you to a short substitute.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          18
+        ],
+        [
+          19,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'It's a bird', and our answer will be a kind of bird.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

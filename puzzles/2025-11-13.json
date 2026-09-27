@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-13",
+  "clue": [
+    {
+      "text": "Horseshoe",
+      "type": null
+    },
+    {
+      "text": "slipped",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "awkward",
+      "type": null
+    },
+    {
+      "text": "canter",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "horseman?",
+      "type": null
+    }
+  ],
+  "answer": "CENTAUR",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'slipped in' and 'awkward'. One of these tells us to rearrange some neighbouring fodder (anagram indicator), and the other suggests we'll need to insert some fodder into other fodder (containing indicator).",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          20
+        ],
+        [
+          21,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Horseshoe' and 'canter'. We'll need to use the letters of one along with a short substitute for the other to construct our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ],
+        [
+          29,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'horseman?', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          49
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,103 @@
+{
+  "puzzleId": null,
+  "date": "2025-09-10",
+  "clue": [
+    {
+      "text": "Playing",
+      "type": null
+    },
+    {
+      "text": "piano",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "American",
+      "type": null
+    },
+    {
+      "text": "season",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "pipe",
+      "type": null
+    },
+    {
+      "text": "organs?",
+      "type": null
+    }
+  ],
+  "answer": "FALLOPIAN",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Playing' and 'after' are our indicators — one tells us to anagram some letters, and the other tells us how to position one chunk relative to another.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          14,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'piano' and 'American season'. We'll use the letters of one and pair them with a substitute for the other, arranging them as the indicators direct.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          13
+        ],
+        [
+          20,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'of pipe organs?', and our question mark is flagging that we need to apply some stretch to this definition and think outside the (musical) box.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          36,
+          51
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

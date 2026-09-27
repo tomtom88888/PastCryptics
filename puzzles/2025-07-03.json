@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-03",
+  "clue": [
+    {
+      "text": "Underwater",
+      "type": null
+    },
+    {
+      "text": "craft",
+      "type": null
+    },
+    {
+      "text": "acoustically",
+      "type": null
+    },
+    {
+      "text": "monitored",
+      "type": null
+    },
+    {
+      "text": "dock",
+      "type": null
+    }
+  ],
+  "answer": "SUBTRACT",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Acoustically' is our homophone indicator — it tells us to use the sound of a word rather than its spelling.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "'Underwater craft' and 'monitored' are our fodder — we’ll need to find substitutes for both, and apply the indicator to one of them.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          16
+        ],
+        [
+          30,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'dock' — and our answer will be another way of saying that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          44
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

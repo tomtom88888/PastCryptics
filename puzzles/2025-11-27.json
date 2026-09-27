@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-27",
+  "clue": [
+    {
+      "text": "Praise",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "animating",
+      "type": null
+    },
+    {
+      "text": "Kate",
+      "type": null
+    },
+    {
+      "text": "Winslet",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "“Flushed",
+      "type": null
+    },
+    {
+      "text": "Away”",
+      "type": null
+    }
+  ],
+  "answer": "SWEET TALK",
+  "config": [
+    5,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'animating' and 'Flushed Away'. One of these is an anagram indicator suggesting that some neighbouring fodder will move around, and the other is a deletion indicator instructing us to remove some fodder from some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          20
+        ],
+        [
+          38,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Kate Winslet' and 'in'. We'll use these letters to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          17,
+          19
+        ],
+        [
+          21,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Praise', and our answer will be a way of saying 'praise'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

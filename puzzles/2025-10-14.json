@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-14",
+  "clue": [
+    {
+      "text": "Townswomen",
+      "type": null
+    },
+    {
+      "text": "wanting",
+      "type": null
+    },
+    {
+      "text": "directions",
+      "type": null
+    },
+    {
+      "text": "turned",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "debate",
+      "type": null
+    }
+  ],
+  "answer": "MOOT",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Wanting' and 'turned' are our indicators — one tells us to remove something from nearby letters, and the other tells us to reverse what remains.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          18
+        ],
+        [
+          30,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Townswomen' and 'directions'. We'll use the letters of the first with some substitutes for the second to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          10
+        ],
+        [
+          19,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'up for debate', and our answer will mean exactly that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          37,
+          50
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,107 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-06",
+  "clue": [
+    {
+      "text": "Pit",
+      "type": null
+    },
+    {
+      "text": "players",
+      "type": null
+    },
+    {
+      "text": "or",
+      "type": null
+    },
+    {
+      "text": "co-captain",
+      "type": null
+    },
+    {
+      "text": "against",
+      "type": null
+    },
+    {
+      "text": "six",
+      "type": null
+    },
+    {
+      "text": "highest-rated",
+      "type": null
+    },
+    {
+      "text": "centres?",
+      "type": null
+    }
+  ],
+  "answer": "ORCHESTRA",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'captain', 'against', and 'six... centres'. Two of these are selection indicators, guiding us to pay attention to only certain letters in neighbouring fodder. And 'against' is a positioning indicator (much like 'with' or 'by') - it doesn't reposition chunks of fodder, but keeps the surface smooth while instructing us to place some fodder next to other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          25
+        ],
+        [
+          26,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'or', 'co', and 'highest-rated'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          14
+        ],
+        [
+          15,
+          17
+        ],
+        [
+          38,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Pit players', and our answer will be a word for that which commonly plays in a pit.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

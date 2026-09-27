@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-09",
+  "clue": [
+    {
+      "text": "Dave",
+      "type": null
+    },
+    {
+      "text": "stupidly",
+      "type": null
+    },
+    {
+      "text": "accepted",
+      "type": null
+    },
+    {
+      "text": "$0.01",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "$0.02?",
+      "type": null
+    }
+  ],
+  "answer": "ADVICE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Stupidly' and 'accepted' are our indicators — one tells us to jumble some letters, and the other tells us to insert something inside that jumble.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          13
+        ],
+        [
+          14,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Dave' and '$0.01'. We'll need to read '$0.01' in a natural way (not 'point zero one dollars'), and then convert that into its most likely substitutes. And we'll need to use Dave's letters - thanks Dave!",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          23,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "The definition is '$0.02?' — what could that mean?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-19",
+  "clue": [
+    {
+      "text": "Broadcaster’s",
+      "type": null
+    },
+    {
+      "text": "question:",
+      "type": null
+    },
+    {
+      "text": "“Is",
+      "type": null
+    },
+    {
+      "text": "Jamie",
+      "type": null
+    },
+    {
+      "text": "Oliver",
+      "type": null
+    },
+    {
+      "text": "completely",
+      "type": null
+    },
+    {
+      "text": "naked?”",
+      "type": null
+    }
+  ],
+  "answer": "AM I LIVE",
+  "config": [
+    2,
+    1,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'completely naked', and it's a deletion indicator. We'll need to delete certain letters from our fodder, and this deletion indicator specifies the *positions* of those letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          41,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Jamie Oliver'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          28,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Broadcaster's question', and our answer will be a question that specifically a broadcaster might ask.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

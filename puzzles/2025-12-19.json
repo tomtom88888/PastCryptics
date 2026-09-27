@@ -1,0 +1,76 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-19",
+  "clue": [
+    {
+      "text": "Completely",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "utterly",
+      "type": null
+    },
+    {
+      "text": "sacred?",
+      "type": null
+    }
+  ],
+  "answer": "WHOLLY",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'utterly' and it's a homophone indicator because of its relationship with the word 'utter' - to speak. It's telling us to treat a neighbouring word 'utterly' by speaking it out loud, and finding a sound-alike equivalent. Is this stretchy? Yes, but you'll see it broadly in cryptic clues, and it's why this clue has a question mark.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'sacred'. We'll need to find a synonym for this word and use that to find our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          23,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Completely', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          10
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

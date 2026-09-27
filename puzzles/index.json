@@ -603,6 +603,16 @@
   "setter": "Member: Jamie L"
  },
  {
+  "date": "2026-07-24",
+  "id": null,
+  "clue": "OVERHEAD LUGGAGE!",
+  "config": [
+   5,
+   4
+  ],
+  "setter": null
+ },
+ {
   "date": "2026-07-23",
   "id": null,
   "clue": "This clique lacks a measure of intelligence",
@@ -709,6 +719,15 @@
    5
   ],
   "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-07-11",
+  "id": null,
+  "clue": "Music group got older and wrapped things up?",
+  "config": [
+   8
+  ],
+  "setter": null
  },
  {
   "date": "2026-07-10",
@@ -864,6 +883,15 @@
   "setter": "David Astle"
  },
  {
+  "date": "2026-06-23",
+  "id": null,
+  "clue": "Get a vocal group vocalising",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
   "date": "2026-06-22",
   "id": null,
   "clue": "Patient ran into toilet, avoiding first of incisions",
@@ -889,6 +917,15 @@
    6
   ],
   "setter": "Member: Rusty Lee & Angas"
+ },
+ {
+  "date": "2026-06-19",
+  "id": null,
+  "clue": "Skinning cats and dogs?",
+  "config": [
+   7
+  ],
+  "setter": null
  },
  {
   "date": "2026-06-18",
@@ -945,6 +982,15 @@
   "setter": "Member: WREG"
  },
  {
+  "date": "2026-06-12",
+  "id": null,
+  "clue": "Superman, perhaps? No. It’s a bird!",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
   "date": "2026-06-11",
   "id": null,
   "clue": "Knit, lace and darn twelve sheets together?",
@@ -961,6 +1007,15 @@
    5
   ],
   "setter": "Member: Ben Stuart"
+ },
+ {
+  "date": "2026-06-09",
+  "id": null,
+  "clue": "Odd fellow can’t even swim!",
+  "config": [
+   5
+  ],
+  "setter": null
  },
  {
   "date": "2026-06-08",
@@ -988,6 +1043,15 @@
    6
   ],
   "setter": "Member: MonZ"
+ },
+ {
+  "date": "2026-06-05",
+  "id": null,
+  "clue": "Present! Present! Absent!",
+  "config": [
+   7
+  ],
+  "setter": null
  },
  {
   "date": "2026-06-04",
@@ -1042,6 +1106,15 @@
    10
   ],
   "setter": "Member: SBM"
+ },
+ {
+  "date": "2026-05-29",
+  "id": null,
+  "clue": "That man? In love with you AND me? Despicable!",
+  "config": [
+   7
+  ],
+  "setter": null
  },
  {
   "date": "2026-05-28",
@@ -1879,6 +1952,2627 @@
    5
   ],
   "setter": "Member: Nate Yungman"
+ },
+ {
+  "date": "2026-02-25",
+  "id": null,
+  "clue": "Gorilla’s face broke out from allergy – bananas, in fact",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-24",
+  "id": null,
+  "clue": "Maybe uniform eater eats uniform eater?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-23",
+  "id": null,
+  "clue": "Apparel store discounting item of clothing with odd scent?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-22",
+  "id": null,
+  "clue": "Looks without blinking end in tears tears tears",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-21",
+  "id": null,
+  "clue": "Love initially absent from prom dance",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-20",
+  "id": null,
+  "clue": "Dropped Jacksonville’s latest quarterback after non-pass?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-19",
+  "id": null,
+  "clue": "Broadcaster’s question: “Is Jamie Oliver completely naked?”",
+  "config": [
+   2,
+   1,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-18",
+  "id": null,
+  "clue": "He’s into splattering paint – quite the scene-maker!",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-17",
+  "id": null,
+  "clue": "Package returned in Wednesday’s post",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-16",
+  "id": null,
+  "clue": "No more texting inside by primary classmates… & teachers",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-15",
+  "id": null,
+  "clue": "Rich, 6’6″, with dreamy face",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-14",
+  "id": null,
+  "clue": "Beau, Victor, Rocky, Neil, Nate",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-13",
+  "id": null,
+  "clue": "Support astrophysicist after being stripped of award and key qualifications",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-12",
+  "id": null,
+  "clue": "“Never coming back!” Dining experience ends with cold dish?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-11",
+  "id": null,
+  "clue": "Repeat this passage: “Ruthless truth boothed by uncouth sleuth”",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-10",
+  "id": null,
+  "clue": "For example, an elephant over 50 reproduced three times",
+  "config": [
+   10
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-09",
+  "id": null,
+  "clue": "How illusionist disguises a dead giveaway?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-08",
+  "id": null,
+  "clue": "Break free from hunter’s latest bird trap",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-07",
+  "id": null,
+  "clue": "Anagram indicator? Yes – here, every single word is!",
+  "config": [
+   10
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-06",
+  "id": null,
+  "clue": "Pit players or co-captain against six highest-rated centres?",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-05",
+  "id": null,
+  "clue": "Car somersaults during distance event, defying belief",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-04",
+  "id": null,
+  "clue": "Behind schedule, chasing trains, I went express internationally?",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-03",
+  "id": null,
+  "clue": "Ground uneven! Pesky mole!",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-02",
+  "id": null,
+  "clue": "Satisfactory sausage misses first and second medals for delicacy",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-02-01",
+  "id": null,
+  "clue": "Opening two letters from clown, touchingly sad?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-31",
+  "id": null,
+  "clue": "Plain, unsalted barnacle",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-30",
+  "id": null,
+  "clue": "Fig ‘n’ ram!",
+  "config": [
+   5,
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-29",
+  "id": null,
+  "clue": "Right Hook! Left Jab! Counter! Counter!",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-28",
+  "id": null,
+  "clue": "Doctor transplants heart with heart of one!",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-27",
+  "id": null,
+  "clue": "Wolf pack roved with uncertainty, initially turning back",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-26",
+  "id": null,
+  "clue": "Son, I’m cut! Chopped a digit off, maybe?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-25",
+  "id": null,
+  "clue": "Eva and Ruth – runners up to Miss World",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-24",
+  "id": null,
+  "clue": "Primate couples with priority in boarding Noah’s boat?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-23",
+  "id": null,
+  "clue": "_ < 20?",
+  "config": [
+   10
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-22",
+  "id": null,
+  "clue": "Add a dash of honey, cut one pea, then spread liberally",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-21",
+  "id": null,
+  "clue": "Box for dead pet of Schrödinger contains almost half-skeleton",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-20",
+  "id": null,
+  "clue": "Torpedo! Boat wreckage swallowed by rough sea around midnight",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-19",
+  "id": null,
+  "clue": "Lie (v.) to twist; to conceal",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-18",
+  "id": null,
+  "clue": "Surrounded by frantic maids shouting “TEA!”",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-17",
+  "id": null,
+  "clue": "Defending human rights leads to actions showing heart & grit",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-16",
+  "id": null,
+  "clue": "Display by exotic bird has swallows beginning to notice",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-15",
+  "id": null,
+  "clue": "Last lecture of course to teach overworked pupils?",
+  "config": [
+   3,
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-14",
+  "id": null,
+  "clue": "Original Big Bad Wolf is foremost huffing and puffing creature",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-13",
+  "id": null,
+  "clue": "Mark really lost everything after end of relationship",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-12",
+  "id": null,
+  "clue": "7-Eleven uniform among ugliest uniforms",
+  "config": [
+   5,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-11",
+  "id": null,
+  "clue": "Oceanographer’s 9 to 5 is noble?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-10",
+  "id": null,
+  "clue": "Original dry rot scraped from Victorian-styled drawer from centuries ago?",
+  "config": [
+   2,
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-09",
+  "id": null,
+  "clue": "Alert ears flipped directions",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-08",
+  "id": null,
+  "clue": "Get out! Shakespeare to banish Romeo and bring in Charlie?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-07",
+  "id": null,
+  "clue": "i’m eyePAtched!",
+  "config": [
+   5,
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-06",
+  "id": null,
+  "clue": "Ghostbusting duo to start uncontrollably blasting weapon",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-05",
+  "id": null,
+  "clue": "String from viola you tuned for composition",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-04",
+  "id": null,
+  "clue": "It’s not just bad acting that he’s into",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-03",
+  "id": null,
+  "clue": "Way? No way! Way. Way?",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-02",
+  "id": null,
+  "clue": "Mister Potato Head, during formative years, close to toddler",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2026-01-01",
+  "id": null,
+  "clue": "Chicken crosses avenue to get to the other side?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-31",
+  "id": null,
+  "clue": "Hunted lost bear, sleep-deprived grizzly with an appetite",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-30",
+  "id": null,
+  "clue": "Spell POTS, SUN, OLD & CAR wrong?",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-29",
+  "id": null,
+  "clue": "Married life turns cold after we first kiss",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-28",
+  "id": null,
+  "clue": "Tinder mismatch after swiping right… Abort!",
+  "config": [
+   3,
+   2
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-27",
+  "id": null,
+  "clue": "Pole Dancer lives at manor – that’s secret!",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-26",
+  "id": null,
+  "clue": "Places to read two signs overlapping",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-25",
+  "id": null,
+  "clue": "Christmas now?",
+  "config": [
+   7,
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-24",
+  "id": null,
+  "clue": "Prancer prances, adorning exterior of tree for Jesus, perhaps",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-23",
+  "id": null,
+  "clue": "Agitate, unload, dry!",
+  "config": [
+   2,
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-22",
+  "id": null,
+  "clue": "Leads from our karaoke club amps interfere with Bose volume setting?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-21",
+  "id": null,
+  "clue": "“Too many!” you said, leaving a throuple arrangement",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-20",
+  "id": null,
+  "clue": "Gen Z 🔥 morphs into 🥶",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-19",
+  "id": null,
+  "clue": "Completely and utterly sacred?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-18",
+  "id": null,
+  "clue": "Out-of-control car leads to something horrible!?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-17",
+  "id": null,
+  "clue": "Drops in between Tue-Thu on the way back?",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-16",
+  "id": null,
+  "clue": "Kangaroo chewed oak leaves, eucalyptus bark & fruit",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-15",
+  "id": null,
+  "clue": "Honey bear fails at beekeeping and misses start to hiving seasons altogether?",
+  "config": [
+   3,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-14",
+  "id": null,
+  "clue": "Sweetheart leaving honey all over appendage? Sounds nice!",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-13",
+  "id": null,
+  "clue": "Time’s up, drunk driver",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-12",
+  "id": null,
+  "clue": "Cut up fudge? Yes, I could… can you?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-11",
+  "id": null,
+  "clue": "Awkward silence after beloved ultimately says “I do… not”",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-10",
+  "id": null,
+  "clue": "Canine denied stick?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-09",
+  "id": null,
+  "clue": "Maybe professional sweaters unravel the least?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-08",
+  "id": null,
+  "clue": "Went inside, texting “thanks xx”",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-07",
+  "id": null,
+  "clue": "Tease astrologer, half curiously",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-06",
+  "id": null,
+  "clue": "Witch, removing cauldron lid, gets toad’s tail and uncooked chicken out",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-05",
+  "id": null,
+  "clue": "Clients cast non-speaking character in scene?",
+  "config": [
+   6,
+   1
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-04",
+  "id": null,
+  "clue": "“Baa, Baa, Black Sheep” karaoke practice progressing bit-by-bit",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-03",
+  "id": null,
+  "clue": "False image in which water finally appears!?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-02",
+  "id": null,
+  "clue": "Sitting in class, I’m pleading for a piece of cake",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-12-01",
+  "id": null,
+  "clue": "Neo-liberal produces writing with a lot of feeling?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-30",
+  "id": null,
+  "clue": "Sensitive hobbits in film trilogy originally pushed for characters to be taller",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-29",
+  "id": null,
+  "clue": "Doctor Strange fled, concealing identity",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-28",
+  "id": null,
+  "clue": "Log location if returning by sub",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-27",
+  "id": null,
+  "clue": "Praise for animating Kate Winslet in “Flushed Away”",
+  "config": [
+   5,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-26",
+  "id": null,
+  "clue": "Run-down backpacker loses backpack",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-25",
+  "id": null,
+  "clue": "“Ludicrous!” I interjected. “Ludicrous, ludicrous!”",
+  "config": [
+   10
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-24",
+  "id": null,
+  "clue": "Unlocking kindness, insight and humility, starts with reflection!?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-23",
+  "id": null,
+  "clue": "“Out-of-control carousel catapults you” declared fortune tellers",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-22",
+  "id": null,
+  "clue": "Exclusive school’s tall characters expelled by petite principal",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-21",
+  "id": null,
+  "clue": "Small diamond rings upset love… you’ve done it now!",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-20",
+  "id": null,
+  "clue": "Ancestors of polar, grizzly, panda and teddy counted out loud",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-18",
+  "id": null,
+  "clue": "Shape of _ountain",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-17",
+  "id": null,
+  "clue": "Girl swapped clothes with boyfriend for a lark, perhaps?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-16",
+  "id": null,
+  "clue": "Former partner ate mostly quinoa for special date",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-15",
+  "id": null,
+  "clue": "Warm fluid, cold air",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-14",
+  "id": null,
+  "clue": "One is, in every way, a pig",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-13",
+  "id": null,
+  "clue": "Horseshoe slipped in awkward canter for horseman?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-12",
+  "id": null,
+  "clue": "Rouse ancestors holding one of these?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-11",
+  "id": null,
+  "clue": "See outspoken farmers pouring heart out. They live off the land?",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-10",
+  "id": null,
+  "clue": "Black sheep beginning to moo if it’s confused",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-09",
+  "id": null,
+  "clue": "NOO! SNOW AT 180º? Time to get drenched",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-08",
+  "id": null,
+  "clue": "Shivers after hour spent devouring “50 Shades of Grey”",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-07",
+  "id": null,
+  "clue": "Water-deprived pharaoh dies after mixing up directions to Eden",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-06",
+  "id": null,
+  "clue": "Location housing administration’s leader!?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-05",
+  "id": null,
+  "clue": "Tap spade over ground",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-04",
+  "id": null,
+  "clue": "Root canal ache really starts with decay",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-03",
+  "id": null,
+  "clue": "Slim odds of solving that",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-02",
+  "id": null,
+  "clue": "Swarming bumble bees escape stubborn beast",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-11-01",
+  "id": null,
+  "clue": "Seductive, romantic guy dumped after ‘mid’ sex",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-31",
+  "id": null,
+  "clue": "Stalked in bed, werewolf returned after we drifted off?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-30",
+  "id": null,
+  "clue": "Summer read “D” from “A-Z”?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-29",
+  "id": null,
+  "clue": "Egad! I am on duty guarding treasure!",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-28",
+  "id": null,
+  "clue": "Retiring police diver oddly wanting to refrain from farming",
+  "config": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-27",
+  "id": null,
+  "clue": "Early alien race with many legs",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-26",
+  "id": null,
+  "clue": "Expect seat diagonal to 5B, say",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-25",
+  "id": null,
+  "clue": "Room for kids, yes? Run back to grab second-grader",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-24",
+  "id": null,
+  "clue": "Curtains need to be restitched after this is detached",
+  "config": [
+   3,
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-23",
+  "id": null,
+  "clue": "wAnTed!?",
+  "config": [
+   2,
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-22",
+  "id": null,
+  "clue": "Private investigator losing 50 from roulette spin",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-21",
+  "id": null,
+  "clue": "So… Paul’s loosely related to his wife?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-20",
+  "id": null,
+  "clue": "Uproar from little brother texting you “LOL”",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-19",
+  "id": null,
+  "clue": "Tender letters shared by pub maid and boyfriend?",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-18",
+  "id": null,
+  "clue": "Close messy garden shed outside",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-17",
+  "id": null,
+  "clue": "Seizes £1million",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-16",
+  "id": null,
+  "clue": "“Heads, Shoulders, Knees & Toes” wraps up one little performance",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-15",
+  "id": null,
+  "clue": "Volatile element or source of vitamin C?",
+  "config": [
+   5,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-14",
+  "id": null,
+  "clue": "Townswomen wanting directions turned up for debate",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-13",
+  "id": null,
+  "clue": "Crew from vet centre follows possum without hesitation",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-12",
+  "id": null,
+  "clue": "Antique rocking chair in empty attic",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-11",
+  "id": null,
+  "clue": "Brunette’s first two AirPods Pro lost in hair, possibly?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-10",
+  "id": null,
+  "clue": "Critic rewound stream featuring female, sheepishly?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-09",
+  "id": null,
+  "clue": "Me? Doing bad, kind of blue",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-08",
+  "id": null,
+  "clue": "Spain’s and France’s and Italy’s earliest hairy humanoid",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-07",
+  "id": null,
+  "clue": "Tailor billed 500 less for offensive suit?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-06",
+  "id": null,
+  "clue": "Rejected dwarf Bashful left plushy toy unfinished",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-05",
+  "id": null,
+  "clue": "Right, Left! Marches keeping time for strikers?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-04",
+  "id": null,
+  "clue": "Leaves Inca ruins in Western Hemisphere",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-03",
+  "id": null,
+  "clue": "Sham hearing: litigate partner for a buck",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-02",
+  "id": null,
+  "clue": "20/20 vision eye patch",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-10-01",
+  "id": null,
+  "clue": "Blue feathers discarded?",
+  "config": [
+   4,
+   2,
+   3,
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-30",
+  "id": null,
+  "clue": "Little bit of whisky? Not at two in the morning!",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-29",
+  "id": null,
+  "clue": "Slender shiny sharpened steel strikers!?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-28",
+  "id": null,
+  "clue": "Ballpark teams’ tie-breaker",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-27",
+  "id": null,
+  "clue": "Dressing naked pair for clip",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-26",
+  "id": null,
+  "clue": "PR pro .rD?",
+  "config": [
+   4,
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-25",
+  "id": null,
+  "clue": "Undercover reporter changed surname to protect privacy, initially?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-24",
+  "id": null,
+  "clue": "12 – 55 + n = 9 – 12",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-23",
+  "id": null,
+  "clue": "Announced you are divorcing mature spouse",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-22",
+  "id": null,
+  "clue": "Campers on alert… bears close to home",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-21",
+  "id": null,
+  "clue": "US coin forsaken by New York stockholder?",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-20",
+  "id": null,
+  "clue": "Religious space cosmonaut struggling with lack of oxygen",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-19",
+  "id": null,
+  "clue": "David selflessly took off armour, pulled back slingshot, eviscerated giant",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-18",
+  "id": null,
+  "clue": "Buzzer-beater was thrown with second on stopwatch",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-17",
+  "id": null,
+  "clue": "Every prime cut from homebred cattle?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-16",
+  "id": null,
+  "clue": "Listen out for Mum",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-15",
+  "id": null,
+  "clue": "Tingers tolded!?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-14",
+  "id": null,
+  "clue": "Raise centre of net in badminton?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-13",
+  "id": null,
+  "clue": "100% leather lingerie’s always turning heads",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-12",
+  "id": null,
+  "clue": "Blackbeard rumoured to have submerged body part in canal?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-11",
+  "id": null,
+  "clue": "Blank white squares in a box? The first of tricky problems",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-10",
+  "id": null,
+  "clue": "Playing piano after American season of pipe organs?",
+  "config": [
+   9
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-09",
+  "id": null,
+  "clue": "Liking when head of state becomes centrist?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-08",
+  "id": null,
+  "clue": "Pig’s so crazy for dirt",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-07",
+  "id": null,
+  "clue": "False start, exiting Boston roundabout",
+  "config": [
+   3,
+   2
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-06",
+  "id": null,
+  "clue": "Small salad of lime and, say, cheese",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-05",
+  "id": null,
+  "clue": "Fifty-one trillion litres, to be precise",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-04",
+  "id": null,
+  "clue": "Midday exhibit oddly cancelled?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-03",
+  "id": null,
+  "clue": "Injured by a third party",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-02",
+  "id": null,
+  "clue": "Anonymous tip: awesome puzzle book finally sent around to stores",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-09-01",
+  "id": null,
+  "clue": "Features of iPad amazed early Apple consumer (4)",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-31",
+  "id": null,
+  "clue": "Green vines tangled around outcropping",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-30",
+  "id": null,
+  "clue": "Clothes for queen’s guard ditching uniform in spin-cycle?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-29",
+  "id": null,
+  "clue": "Cat’s head, fish’s tail, pig’s torso and mare blended!?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-28",
+  "id": null,
+  "clue": "Mischievous & slightly delighted",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-27",
+  "id": null,
+  "clue": "Golf lesson’s beginning in month six for Tiger Woods?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-26",
+  "id": null,
+  "clue": "No stamp? Problematic for him!",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-25",
+  "id": null,
+  "clue": "Forger’s initial on map – it shows treasure spot! Buried gold is fake…",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-24",
+  "id": null,
+  "clue": "Got a freshly-made Caesar wrap?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-23",
+  "id": null,
+  "clue": "Gripping strip scene from Marvel crossover",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-22",
+  "id": null,
+  "clue": "Page-turning diary captures male peak of civilisation?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-21",
+  "id": null,
+  "clue": "Final exam from a tertiary student with careless typos",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-20",
+  "id": null,
+  "clue": "HARdLY ReMaRKABlE!?",
+  "config": [
+   3,
+   1,
+   3,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-19",
+  "id": null,
+  "clue": "Two couples start to fight? Oh you are noisy!",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-18",
+  "id": null,
+  "clue": "Temperamental electric air conditioning unit starts malfunctioning under 90 degrees",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-17",
+  "id": null,
+  "clue": "Niece’s starting to be captivated by looping race: lots of Hot Wheels?",
+  "config": [
+   6,
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-16",
+  "id": null,
+  "clue": "Dry showerhead? Ring plumber fruitlessly",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-15",
+  "id": null,
+  "clue": "Supply at party is unusually billed?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-14",
+  "id": null,
+  "clue": "Was it comforting to snuggle friends, perhaps?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-13",
+  "id": null,
+  "clue": "Even Tom Cruise chases female attention",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-12",
+  "id": null,
+  "clue": "House cat got fixed by vet centre",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-11",
+  "id": null,
+  "clue": "Gravity department’s brief introduction to Hawking",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-10",
+  "id": null,
+  "clue": "Server’s mistake leads to food arriving unusually late today",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-09",
+  "id": null,
+  "clue": "Dave stupidly accepted $0.01 for $0.02?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-08",
+  "id": null,
+  "clue": "Song at night club leaves Lucy transfixed by mirrorball?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-07",
+  "id": null,
+  "clue": "Hate a self-absorbed flirt",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-06",
+  "id": null,
+  "clue": "The one devastated volunteer to miss “One Direction”",
+  "config": [
+   4,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-05",
+  "id": null,
+  "clue": "Abor_ fr__nd_hip!?",
+  "config": [
+   3,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-03",
+  "id": null,
+  "clue": "Deadly agent playing phone tag",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-02",
+  "id": null,
+  "clue": "“Goodbye!” you blurted out, after ladies undressed",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-08-01",
+  "id": null,
+  "clue": "Lead actor finally gets past misaligned teeth",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-31",
+  "id": null,
+  "clue": "Top Easter egg of dozen, I think",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-30",
+  "id": null,
+  "clue": "Architect plastered pole’s spot?",
+  "config": [
+   3,
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-29",
+  "id": null,
+  "clue": "Humans maybe evolved armpits to conserve energy",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-28",
+  "id": null,
+  "clue": "Bully swung walking stick during fourth quarter of ballgame",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-27",
+  "id": null,
+  "clue": "Please… shaken not stirred",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-26",
+  "id": null,
+  "clue": "Business disinfected casino to conceal triple murder, perhaps?",
+  "config": [
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-25",
+  "id": null,
+  "clue": "Pair fouled by ref for enlarging balls",
+  "config": [
+   3,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-24",
+  "id": null,
+  "clue": "Think back about origin of Greek horse made of wood sometimes",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-23",
+  "id": null,
+  "clue": "Flat, crustless half-size loaf",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-22",
+  "id": null,
+  "clue": "Nineties freestyle icon known for his energetic MC work?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-21",
+  "id": null,
+  "clue": "Get hanky out, choking on words of appreciation",
+  "config": [
+   5,
+   3
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-20",
+  "id": null,
+  "clue": "Edison half screwed a lightbulb?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-19",
+  "id": null,
+  "clue": "Drinker’s release from prison initiated after back massage",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-18",
+  "id": null,
+  "clue": "Cold guys heartlessly shun quirky women",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-17",
+  "id": null,
+  "clue": "Bound escapee heard admitting crime essentially",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-16",
+  "id": null,
+  "clue": "Today’s Wordle partly brought about yawning",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-15",
+  "id": null,
+  "clue": "I love doing gymnastics with this extremely springy bunch?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-14",
+  "id": null,
+  "clue": "Idol tied back ponytail",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-13",
+  "id": null,
+  "clue": "Goats go off behind baker’s trailer for crumbs!",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-12",
+  "id": null,
+  "clue": "Kart redesigned to limit carbon footprint",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-11",
+  "id": null,
+  "clue": "Secretly ditch essay for game with mates?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-10",
+  "id": null,
+  "clue": "Christmas song becoming useful for revolving music player?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-09",
+  "id": null,
+  "clue": "Admit spending time with really odd seaman",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-08",
+  "id": null,
+  "clue": "Solitary Dancing Queen fan",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-07",
+  "id": null,
+  "clue": "I, for one, say, “kind of figures!”",
+  "config": [
+   5,
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-06",
+  "id": null,
+  "clue": "Beings regularly kept behind Area 51!?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-05",
+  "id": null,
+  "clue": "No coming back after shipwreck? That sucks",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-04",
+  "id": null,
+  "clue": "Murder ingredient found in microwave?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-03",
+  "id": null,
+  "clue": "Underwater craft acoustically monitored dock",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-02",
+  "id": null,
+  "clue": "Fishnets that could assist fishing vessel’s process by seconds",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-07-01",
+  "id": null,
+  "clue": "Engineer rang unknown number when blowing a fuse",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-30",
+  "id": null,
+  "clue": "Play leapfrog across street drains – a fitting game?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-29",
+  "id": null,
+  "clue": "Untidy storage sheds or entryways",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-28",
+  "id": null,
+  "clue": "Somewhat ridiculous? On the contrary, it’s clear",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-27",
+  "id": null,
+  "clue": "One goes into debt flying private jet?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-26",
+  "id": null,
+  "clue": "Paddleboat’s left side or its terminus!?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-25",
+  "id": null,
+  "clue": "Celebration of big anniversary since humble beginnings",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-24",
+  "id": null,
+  "clue": "One wiped out from parenting, struggling with child",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-23",
+  "id": null,
+  "clue": "A Spanish greeting returning a Hawaiian one!",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-22",
+  "id": null,
+  "clue": "Dove gulped, accidentally eating scorpion’s tail",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-21",
+  "id": null,
+  "clue": "Doll dropped by weekend nursery intruder?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-20",
+  "id": null,
+  "clue": "A bit of marijuana use alleviates sickness",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-19",
+  "id": null,
+  "clue": "Extremely feeble, suffering shiver!?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-18",
+  "id": null,
+  "clue": "Perhaps Sydney Sweeney finally follows script now and then",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-17",
+  "id": null,
+  "clue": "Face-masked men cough no more!",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-16",
+  "id": null,
+  "clue": "Old timer in uniform infiltrates island resort",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-15",
+  "id": null,
+  "clue": "Console backing up characters’ progress in Sims, Doom, BioShock, Civilisation, Halo 2, Minecraft",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-14",
+  "id": null,
+  "clue": "Straight talking any boring fibber",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-13",
+  "id": null,
+  "clue": "Inaccurate claim about America in “Hamilton”, say",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-12",
+  "id": null,
+  "clue": "Sumo unceremoniously boxes lightweight?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-11",
+  "id": null,
+  "clue": "Lead guitarist fills all but the first bass section?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-10",
+  "id": null,
+  "clue": "I can do cracks about myself!?",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-09",
+  "id": null,
+  "clue": "Active couples starting mountain biking lessons",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-08",
+  "id": null,
+  "clue": "Neil Armstrong’s first to do moonwalk for space creature",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-07",
+  "id": null,
+  "clue": "Remix Elvis covers",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-06",
+  "id": null,
+  "clue": "Batter, after warming up, put in mediocre performance",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-05",
+  "id": null,
+  "clue": "Cancel culture’s even found here!",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-04",
+  "id": null,
+  "clue": "Pair falling apart over kiss? They made Up!",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-03",
+  "id": null,
+  "clue": "Farmer legally amputated both limbs like a wild animal",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-02",
+  "id": null,
+  "clue": "Tips on Thursday’s racing events edited for tomorrow’s paper?",
+  "config": [
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-06-01",
+  "id": null,
+  "clue": "Tea stirrer squeezing teabag on the left and right",
+  "config": [
+   4,
+   2
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-31",
+  "id": null,
+  "clue": "Doctor asked about nurse’s head wound",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-30",
+  "id": null,
+  "clue": "Hybrid gene’s hidden connection",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-29",
+  "id": null,
+  "clue": "Swift, Jay-Z or Eminem?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-28",
+  "id": null,
+  "clue": "Move behind pulpit, finally getting speaking job",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-27",
+  "id": null,
+  "clue": "Buyout arranged by Google ultimately!?",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-26",
+  "id": null,
+  "clue": "Strap on the arm from stealing tea leaves",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-25",
+  "id": null,
+  "clue": "Regulars in bars keep spinning alt-country album",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-24",
+  "id": null,
+  "clue": "It’s not important to wash nuts",
+  "config": [
+   2,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-23",
+  "id": null,
+  "clue": "Make-up may scare, as not quite finished",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-22",
+  "id": null,
+  "clue": "Two women briefly take wedding vow when one’s husband is late",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-21",
+  "id": null,
+  "clue": "Rallies to move around a court? Imperative!",
+  "config": [
+   3,
+   4
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-20",
+  "id": null,
+  "clue": "Walked over the rainbow initially, Dorothy’s heading beyond Oz.",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-19",
+  "id": null,
+  "clue": "Glorify a way-out recital?",
+  "config": [
+   5
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-18",
+  "id": null,
+  "clue": "Critical aid for heart of calico cat",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-17",
+  "id": null,
+  "clue": "Some shared rumours about heinous crime",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-16",
+  "id": null,
+  "clue": "Old family member forgetting one year from a nice story",
+  "config": [
+   8
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-15",
+  "id": null,
+  "clue": "Small time unit. Quick. It’s mere seconds!?",
+  "config": [
+   6
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-14",
+  "id": null,
+  "clue": "Monkey with no cigar, as nature intended",
+  "config": [
+   7
+  ],
+  "setter": null
+ },
+ {
+  "date": "2025-05-13",
+  "id": null,
+  "clue": "Wooden box packed with the heartiest of fresh produce",
+  "config": [
+   6
+  ],
+  "setter": null
  },
  {
   "date": "2024-11-30",

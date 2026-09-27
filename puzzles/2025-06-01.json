@@ -1,0 +1,105 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-01",
+  "clue": [
+    {
+      "text": "Tea",
+      "type": null
+    },
+    {
+      "text": "stirrer",
+      "type": null
+    },
+    {
+      "text": "squeezing",
+      "type": null
+    },
+    {
+      "text": "teabag",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "left",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "right",
+      "type": null
+    }
+  ],
+  "answer": "SPOT ON",
+  "config": [
+    4,
+    2
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Squeezing' and 'on the left' are our indicators – one tells us to contain something, the other hints at a letter to select from fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          21
+        ],
+        [
+          29,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "'Tea stirrer' and 'teabag' are our fodder – we'll need to substitute one with a single common word, and the other will give us fodder for letterplay.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          11
+        ],
+        [
+          22,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'right' – but we're not talking about the opposite of left.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          45,
+          50
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

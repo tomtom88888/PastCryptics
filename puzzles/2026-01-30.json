@@ -1,0 +1,52 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-30",
+  "clue": [
+    {
+      "text": "Fig",
+      "type": null
+    },
+    {
+      "text": "‘n’",
+      "type": null
+    },
+    {
+      "text": "ram!",
+      "type": null
+    }
+  ],
+  "answer": "MIXED FARMING",
+  "config": [
+    5,
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    1,
+    3,
+    5,
+    7,
+    9,
+    11
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue is an &lit clue, which means that the whole clue is the definition (and the wordplay too). So, our definition is 'Fig 'n' ram', which in this clue, is an example of our answer. We'll need to find a category that might combine figs with rams.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,76 @@
+{
+  "puzzleId": null,
+  "date": "2025-09-16",
+  "clue": [
+    {
+      "text": "Listen",
+      "type": null
+    },
+    {
+      "text": "out",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "Mum",
+      "type": null
+    }
+  ],
+  "answer": "SILENT",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Out' is an anagram indicator - another way of saying something is inaccurate or wrong (think of measurements being out). It's telling us that some neighbouring letters are inaccurate (a common anagram idea) and we need to rearrange them.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          10
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Listen' — we'll use these letters just as the indicator directs.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Mum'. On the surface, this seems to be about a mother (we spell Mum/Mom this way in Australia and the UK), but our answer will be a word that means a different kind of 'Mum'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          15,
+          18
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

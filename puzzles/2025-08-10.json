@@ -1,0 +1,90 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-10",
+  "clue": [
+    {
+      "text": "Server’s",
+      "type": null
+    },
+    {
+      "text": "mistake",
+      "type": null
+    },
+    {
+      "text": "leads",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "food",
+      "type": null
+    },
+    {
+      "text": "arriving",
+      "type": null
+    },
+    {
+      "text": "unusually",
+      "type": null
+    },
+    {
+      "text": "late",
+      "type": null
+    },
+    {
+      "text": "today",
+      "type": null
+    }
+  ],
+  "answer": "FAULT",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Leads to' is our indicator — it tells us to take the first letter from multiple neighbouring words (multiple because 'leads' is plural - we need more than one leading letter).",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'food arriving unusually late today'. We'll need to use (some of) these letters, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          26,
+          60
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Server's mistake'. Our answer will be a server's mistake, but we'll need to stop thinking about food to find this one.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

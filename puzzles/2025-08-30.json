@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-30",
+  "clue": [
+    {
+      "text": "Clothes",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "queen’s",
+      "type": null
+    },
+    {
+      "text": "guard",
+      "type": null
+    },
+    {
+      "text": "ditching",
+      "type": null
+    },
+    {
+      "text": "uniform",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "spin-cycle?",
+      "type": null
+    }
+  ],
+  "answer": "DRAG",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Ditching' and 'in spin-cycle?' are our indicators — one tells us to reverse some letters and the other to delete something.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          26,
+          34
+        ],
+        [
+          43,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'guard' and 'uniform'. We'll need to use the letters of one along with a short substitute for the other, as the indicators direct.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          20,
+          25
+        ],
+        [
+          35,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Clothes for queen' — what kind of clothes might a queen wear?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          17
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "date": "2026-05-29",
+  "clue": [
+    {
+      "text": "That",
+      "type": null
+    },
+    {
+      "text": "man?",
+      "type": null
+    },
+    {
+      "text": "In",
+      "type": null
+    },
+    {
+      "text": "love",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "AND",
+      "type": null
+    },
+    {
+      "text": "me?",
+      "type": null
+    },
+    {
+      "text": "Despicable!",
+      "type": null
+    }
+  ],
+  "answer": "HEINOUS",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'That man', 'In', 'love' and 'you AND me'. We need to substitute all but one of these, each with a word or letter than can represent it. Extra hint: 'love' has a classic cryptic substitute that you see once and then remember forever; if you don't know it, google it and add it to your arsenal.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          10,
+          12
+        ],
+        [
+          13,
+          17
+        ],
+        [
+          23,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Despicable', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          35,
+          45
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

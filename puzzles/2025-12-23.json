@@ -1,0 +1,71 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-23",
+  "clue": [
+    {
+      "text": "Agitate,",
+      "type": null
+    },
+    {
+      "text": "unload,",
+      "type": null
+    },
+    {
+      "text": "dry!",
+      "type": null
+    }
+  ],
+  "answer": "DO LAUNDRY",
+  "config": [
+    2,
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Agitate', and it's an anagram indicator. We'll agitate and mix up some neighbouring letters to form our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'unload, dry'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "This is an &lit clue, which means that the whole clue is both the definition and the wordplay. We used to signify our &lits with the !? punctuation, but from here on out, it'll be just an exclamation point. In this clue, our answer will be something to do with a process involving agitating, unloading and drying.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

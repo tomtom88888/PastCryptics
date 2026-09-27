@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-31",
+  "clue": [
+    {
+      "text": "Top",
+      "type": null
+    },
+    {
+      "text": "Easter",
+      "type": null
+    },
+    {
+      "text": "egg",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "dozen,",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "think",
+      "type": null
+    }
+  ],
+  "answer": "ZENITH",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Easter egg of' is our indicator — it suggests that something is hidden inside a neighbouring phrase, just like a hidden Easter egg!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'dozen, I think' — we’ll need to use these letters as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          18,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Top' — we’re looking for a word that can represent the top.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

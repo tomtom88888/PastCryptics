@@ -1,0 +1,72 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-13",
+  "clue": [
+    {
+      "text": "Time’s",
+      "type": null
+    },
+    {
+      "text": "up,",
+      "type": null
+    },
+    {
+      "text": "drunk",
+      "type": null
+    },
+    {
+      "text": "driver",
+      "type": null
+    }
+  ],
+  "answer": "IMPETUS",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'drunk' and it's an anagram indicator. Some neighbouring fodder will be drunk, inebriated, and sloppy, and its letters will rearrange to form our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Time's up'. We'll use these letters to form our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "Our definition here is 'driver', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          17,
+          23
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

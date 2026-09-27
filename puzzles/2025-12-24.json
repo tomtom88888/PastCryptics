@@ -1,0 +1,111 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-24",
+  "clue": [
+    {
+      "text": "Prancer",
+      "type": null
+    },
+    {
+      "text": "prances,",
+      "type": null
+    },
+    {
+      "text": "adorning",
+      "type": null
+    },
+    {
+      "text": "exterior",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "tree",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "Jesus,",
+      "type": null
+    },
+    {
+      "text": "perhaps",
+      "type": null
+    }
+  ],
+  "answer": "CARPENTER",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'prances', 'adorning', and 'exterior of'. One of these is a selection indicator telling us which letter or letters to pay attention to in some nearby fodder. Another is a containing indicator, suggesting that some fodder will go around other fodder. And a third is an anagram indicator - some letters will move, and in moving, rearrange.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          15
+        ],
+        [
+          17,
+          25
+        ],
+        [
+          26,
+          37
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Prancer' and 'tree'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          38,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Jesus, perhaps', and the 'perhaps' is pointing us to a higher-level category to which Jesus belongs. Our answer will be one of the categories of which Jesus is an example.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          47,
+          61
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

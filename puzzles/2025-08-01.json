@@ -1,0 +1,100 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-01",
+  "clue": [
+    {
+      "text": "Lead",
+      "type": null
+    },
+    {
+      "text": "actor",
+      "type": null
+    },
+    {
+      "text": "finally",
+      "type": null
+    },
+    {
+      "text": "gets",
+      "type": null
+    },
+    {
+      "text": "past",
+      "type": null
+    },
+    {
+      "text": "misaligned",
+      "type": null
+    },
+    {
+      "text": "teeth",
+      "type": null
+    }
+  ],
+  "answer": "TETHER",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Finally', 'gets past' and 'misaligned' are our indicators — one tells us to take the last letter of a word, another suggests anagramming, and a third indicates how we might switch the positions of two bits of fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          18
+        ],
+        [
+          19,
+          28
+        ],
+        [
+          29,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'actor' and 'teeth' — we’ll be using the letters of both, as directed by the indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          10
+        ],
+        [
+          40,
+          45
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Lead' — we're looking for another word for 'lead', a word with a large range of meanings!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-22",
+  "clue": [
+    {
+      "text": "Nineties",
+      "type": null
+    },
+    {
+      "text": "freestyle",
+      "type": null
+    },
+    {
+      "text": "icon",
+      "type": null
+    },
+    {
+      "text": "known",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "his",
+      "type": null
+    },
+    {
+      "text": "energetic",
+      "type": null
+    },
+    {
+      "text": "MC",
+      "type": null
+    },
+    {
+      "text": "work?",
+      "type": null
+    }
+  ],
+  "answer": "EINSTEIN",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Freestyle' is our indicator — it tells us to improvise with some neighbouring letters, anagramming them, styling them in a new, free way.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Nineties' — we’ll be using these letters, as the indicator directs.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'icon known for his energetic MC work?' — and with that question mark, we know we’re in for a bit of playful misdirection. Can we think of an icon known for something energetic that's MC related...?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          19,
+          56
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

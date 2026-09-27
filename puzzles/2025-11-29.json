@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-29",
+  "clue": [
+    {
+      "text": "Doctor",
+      "type": null
+    },
+    {
+      "text": "Strange",
+      "type": null
+    },
+    {
+      "text": "fled,",
+      "type": null
+    },
+    {
+      "text": "concealing",
+      "type": null
+    },
+    {
+      "text": "identity",
+      "type": null
+    }
+  ],
+  "answer": "FIDDLE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Strange' and 'concealing'. One of these is an anagram indicator, guiding us to rearrange some neighbouring letters. The other is a containing indicator, suggesting that some fodder will go around the outside of other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          14
+        ],
+        [
+          21,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'fled' and 'identity'. We'll use the letters of one with a short substitute for the other to construct our answer, as guided by our indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          19
+        ],
+        [
+          32,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Doctor', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

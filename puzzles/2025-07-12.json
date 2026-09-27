@@ -1,0 +1,91 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-12",
+  "clue": [
+    {
+      "text": "Kart",
+      "type": null
+    },
+    {
+      "text": "redesigned",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "limit",
+      "type": null
+    },
+    {
+      "text": "carbon",
+      "type": null
+    },
+    {
+      "text": "footprint",
+      "type": null
+    }
+  ],
+  "answer": "TRACK",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Redesigned' and 'to limit' are our indicators — one tells us to rearrange letters, and the other tells us that some letters will go around something else.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          15
+        ],
+        [
+          16,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Kart' and 'carbon'. We'll need to use the letters of one, and a short substitute for the other, as directed by the indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          25,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'footprint'. What's another way to describe a footprint?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          32,
+          41
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

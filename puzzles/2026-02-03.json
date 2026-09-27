@@ -1,0 +1,77 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-03",
+  "clue": [
+    {
+      "text": "Ground",
+      "type": null
+    },
+    {
+      "text": "uneven!",
+      "type": null
+    },
+    {
+      "text": "Pesky",
+      "type": null
+    },
+    {
+      "text": "mole!",
+      "type": null
+    }
+  ],
+  "answer": "SPY",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Ground' and 'uneven'. One of these is a selector guiding us to pay attention to only certain letters in neighbouring fodder. The other is an anagram indicator suggesting that some neighbouring letters will be churned, mixed and rearranged.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          7,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Pesky'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'mole', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          21,
+          25
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

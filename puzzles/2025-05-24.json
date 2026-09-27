@@ -1,0 +1,80 @@
+{
+  "puzzleId": null,
+  "date": "2025-05-24",
+  "clue": [
+    {
+      "text": "It’s",
+      "type": null
+    },
+    {
+      "text": "not",
+      "type": null
+    },
+    {
+      "text": "important",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "wash",
+      "type": null
+    },
+    {
+      "text": "nuts",
+      "type": null
+    }
+  ],
+  "answer": "SO WHAT",
+  "config": [
+    2,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Nuts' is an anagram indicator – if something is nuts, it's crazy. Make some nearby letters nuts by rearranging them.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          27,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "'To wash' is our fodder – we'll use its letters (as directed by the indicator) to find our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          19,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'It's not important' – our answer is another way to say that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

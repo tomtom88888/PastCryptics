@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-01",
+  "clue": [
+    {
+      "text": "Seductive,",
+      "type": null
+    },
+    {
+      "text": "romantic",
+      "type": null
+    },
+    {
+      "text": "guy",
+      "type": null
+    },
+    {
+      "text": "dumped",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "‘mid’",
+      "type": null
+    },
+    {
+      "text": "sex",
+      "type": null
+    }
+  ],
+  "answer": "EROTIC",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'dumped', 'after' and 'mid'. One instructs us to delete some fodder from some other fodder, another flags which letter/s to select from some fodder, and the third tells us how to position two chunks of fodder relative to each other.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          24,
+          30
+        ],
+        [
+          31,
+          36
+        ],
+        [
+          38,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'romantic', 'guy' and 'sex'. We'll need to use a short synonym for one of these along with the letters of the others to construct our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          11,
+          19
+        ],
+        [
+          20,
+          23
+        ],
+        [
+          43,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Seductive', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-17",
+  "clue": [
+    {
+      "text": "Girl",
+      "type": null
+    },
+    {
+      "text": "swapped",
+      "type": null
+    },
+    {
+      "text": "clothes",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "boyfriend",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "lark,",
+      "type": null
+    },
+    {
+      "text": "perhaps?",
+      "type": null
+    }
+  ],
+  "answer": "BIRD",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'swapped clothes with'. Part of this indicator aims to focus our attention on particular letters from neighbouring fodder, and the other part tells us what to do with these letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Girl' and 'boyfriend'. We'll use these letters (or some of them) to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          26,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'a lark, perhaps?', and words like 'perhaps', 'possibly', and 'maybe' can point us towards a higher level category. So our answer will be a category to which 'a lark' belongs.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          56
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

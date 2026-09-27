@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-27",
+  "clue": [
+    {
+      "text": "Pole",
+      "type": null
+    },
+    {
+      "text": "Dancer",
+      "type": null
+    },
+    {
+      "text": "lives",
+      "type": null
+    },
+    {
+      "text": "at",
+      "type": null
+    },
+    {
+      "text": "manor",
+      "type": null
+    },
+    {
+      "text": "–",
+      "type": null
+    },
+    {
+      "text": "that’s",
+      "type": null
+    },
+    {
+      "text": "secret!",
+      "type": null
+    }
+  ],
+  "answer": "NORTH",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'secret' and it's a hidden indicator. Some neighbouring fodder contains a secret - the answer hidden within it.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          36,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'manor - that'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "Our definition here is 'Pole Dancer lives at' - a phrase that describes our answer!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          20
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

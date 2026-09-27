@@ -1,0 +1,73 @@
+{
+  "puzzleId": null,
+  "date": "2025-08-28",
+  "clue": [
+    {
+      "text": "Mischievous",
+      "type": null
+    },
+    {
+      "text": "&",
+      "type": null
+    },
+    {
+      "text": "slightly",
+      "type": null
+    },
+    {
+      "text": "delighted",
+      "type": null
+    }
+  ],
+  "answer": "SLY",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'delighted' is our indicator — a playful deletion indicator. But how could 'delighted' signal deletion? Look closely and you might see it!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          23,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'slightly' — we'll need to use these letters as the indicator directs.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          14,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Mischievous', and our answer will be one of its synonyms.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

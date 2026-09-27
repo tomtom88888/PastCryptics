@@ -1,0 +1,105 @@
+{
+  "puzzleId": null,
+  "date": "2026-02-02",
+  "clue": [
+    {
+      "text": "Satisfactory",
+      "type": null
+    },
+    {
+      "text": "sausage",
+      "type": null
+    },
+    {
+      "text": "misses",
+      "type": null
+    },
+    {
+      "text": "first",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "second",
+      "type": null
+    },
+    {
+      "text": "medals",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "delicacy",
+      "type": null
+    }
+  ],
+  "answer": "FINESSE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'misses' and it's a deletion indicator. We'll need to delete some fodder from some other fodder to reach our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          21,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Satisfactory', 'sausage', and 'first and second medals'. We'll use the letters of only one of these; for the rest, we'll need to find synonyms and substitutes. We'll use all of these to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          12
+        ],
+        [
+          13,
+          20
+        ],
+        [
+          28,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'delicacy', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          56,
+          64
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

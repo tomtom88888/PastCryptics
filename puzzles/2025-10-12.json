@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-12",
+  "clue": [
+    {
+      "text": "Antique",
+      "type": null
+    },
+    {
+      "text": "rocking",
+      "type": null
+    },
+    {
+      "text": "chair",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "empty",
+      "type": null
+    },
+    {
+      "text": "attic",
+      "type": null
+    }
+  ],
+  "answer": "ARCHAIC",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Rocking', 'in', and 'empty' are our indicators — one tells us to anagram some nearby letters, another tells us to put something inside something else, and a third tells us to take just the outer letters of a neighbouring word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          15
+        ],
+        [
+          22,
+          24
+        ],
+        [
+          25,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'chair' and 'attic' — we'll use the letters of these words (or some of them) to construct our answer, guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          16,
+          21
+        ],
+        [
+          31,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Antique' - and our answer will be a synonym of this word.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-09",
+  "clue": [
+    {
+      "text": "Me?",
+      "type": null
+    },
+    {
+      "text": "Doing",
+      "type": null
+    },
+    {
+      "text": "bad,",
+      "type": null
+    },
+    {
+      "text": "kind",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "blue",
+      "type": null
+    }
+  ],
+  "answer": "INDIGO",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Bad' is an anagram indicator - if some neighouring letters are bad, they're wrong or innacurate and we'll need to anagram them.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'Me' and 'Doing'. We need to find a short substitution for one of them, using it along with the letters of the other to construct our answer, all as directed by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          2
+        ],
+        [
+          4,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'kind of blue' - on the surface, a reference to depression, but perhaps not so in our answer.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          15,
+          27
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

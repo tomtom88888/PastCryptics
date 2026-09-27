@@ -1,0 +1,89 @@
+{
+  "puzzleId": null,
+  "date": "2026-01-26",
+  "clue": [
+    {
+      "text": "Son,",
+      "type": null
+    },
+    {
+      "text": "I’m",
+      "type": null
+    },
+    {
+      "text": "cut!",
+      "type": null
+    },
+    {
+      "text": "Chopped",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "digit",
+      "type": null
+    },
+    {
+      "text": "off,",
+      "type": null
+    },
+    {
+      "text": "maybe?",
+      "type": null
+    }
+  ],
+  "answer": "MISCOUNT",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Chopped', and it's an anagram indicator. Some neighbouring fodder is 'chopped', cut up into its component parts which are then free to move around. This idea of destruction, damage or mutilation is common in anagram indicators, and we'll need to mix up some letters to find our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Son, I'm cut!'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "Our definition here is 'a digit off, maybe?', and the question mark is indicating that this is a fairly stretchy! Our answer will, however, be closely related to one sense of possibly being a digit off.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          22,
+          41
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

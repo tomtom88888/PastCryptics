@@ -1,0 +1,106 @@
+{
+  "puzzleId": null,
+  "date": "2025-09-25",
+  "clue": [
+    {
+      "text": "Undercover",
+      "type": null
+    },
+    {
+      "text": "reporter",
+      "type": null
+    },
+    {
+      "text": "changed",
+      "type": null
+    },
+    {
+      "text": "surname",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "protect",
+      "type": null
+    },
+    {
+      "text": "privacy,",
+      "type": null
+    },
+    {
+      "text": "initially?",
+      "type": null
+    }
+  ],
+  "answer": "SUPERMAN",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Changed', 'to protect', and 'initially' are our indicators — one tells us to anagram some letters, another tells us to put some letters around some others, and a third tells us which part of a word to select.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          20,
+          27
+        ],
+        [
+          36,
+          46
+        ],
+        [
+          56,
+          65
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'surname' and 'privacy'. We'll use these letters (or some of them) to construct our answer, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          28,
+          35
+        ],
+        [
+          47,
+          54
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Undercover reporter' - and the question mark on the end suggests that this definition is a slight stretch. It may also push you on your pop culture knowledge a little. If you're finding it obscure, turning to the wordplay section might be your best bet!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          19
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

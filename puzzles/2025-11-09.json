@@ -1,0 +1,93 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-09",
+  "clue": [
+    {
+      "text": "NOO!",
+      "type": null
+    },
+    {
+      "text": "SNOW",
+      "type": null
+    },
+    {
+      "text": "AT",
+      "type": null
+    },
+    {
+      "text": "180º?",
+      "type": null
+    },
+    {
+      "text": "Time",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "get",
+      "type": null
+    },
+    {
+      "text": "drenched",
+      "type": null
+    }
+  ],
+  "answer": "MONSOON",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'AT 180º?', and this is an indicator that uses some creative license. While 180º is perhaps more common as a reversal indicator - if you do a 180º, you head the other way - here it's suggesting rotation (a small tweak that makes all the difference in this clue).",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'NOO! SNOW'. We'll use these letters to get our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Time to get drenched', and our answer will be a time known for being particularly wet.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          19,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

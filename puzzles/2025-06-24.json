@@ -1,0 +1,102 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-24",
+  "clue": [
+    {
+      "text": "One",
+      "type": null
+    },
+    {
+      "text": "wiped",
+      "type": null
+    },
+    {
+      "text": "out",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "parenting,",
+      "type": null
+    },
+    {
+      "text": "struggling",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "child",
+      "type": null
+    }
+  ],
+  "answer": "PREGNANT",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "Our indicators are 'wiped out from' and 'struggling' — deletion and anagram indicators.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          18
+        ],
+        [
+          30,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'One' and 'parenting'. We'll need to find a substitute for 'One', and then use it (along with 'parenting') as the indicators direct!",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          19,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "This clue's definition is 'with child' — our answer has the same meaning as this expression.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          41,
+          51
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

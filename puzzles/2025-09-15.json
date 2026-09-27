@@ -1,0 +1,44 @@
+{
+  "puzzleId": null,
+  "date": "2025-09-15",
+  "clue": [
+    {
+      "text": "Tingers",
+      "type": null
+    },
+    {
+      "text": "tolded!?",
+      "type": null
+    }
+  ],
+  "answer": "FIST",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue is an &lit clue, which means the whole clue is the wordplay and the whole clue is the definition. So, our answer will be another way of saying 'tingers tolded' (while also explaining why those words look weird!).",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,96 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-25",
+  "clue": [
+    {
+      "text": "“Ludicrous!”",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "interjected.",
+      "type": null
+    },
+    {
+      "text": "“Ludicrous,",
+      "type": null
+    },
+    {
+      "text": "ludicrous!”",
+      "type": null
+    }
+  ],
+  "answer": "RIDICULOUS",
+  "config": [
+    10
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'interjected' and 'Ludicrous'. One of these is a containing indicator suggesting that some fodder will go inside some other (containing) fodder. The other is an anagram indicator flagging that a neighbouring word will need reordering.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          1,
+          10
+        ],
+        [
+          15,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'I' and 'ludicrous'. We'll use these letters to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          1,
+          10
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "text": "Unsurprisingly, our definition here is... 'Ludicrous'! Our answer will be another word for 'ludicrous'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          1,
+          10
+        ],
+        [
+          29,
+          38
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,84 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-21",
+  "clue": [
+    {
+      "text": "So…",
+      "type": null
+    },
+    {
+      "text": "Paul’s",
+      "type": null
+    },
+    {
+      "text": "loosely",
+      "type": null
+    },
+    {
+      "text": "related",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "his",
+      "type": null
+    },
+    {
+      "text": "wife?",
+      "type": null
+    }
+  ],
+  "answer": "SPOUSAL",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'loosely' - an anagram indicator. Rather than some neighbouring letters being tightly fixed in their order, they are loosely ordered, and free to move around. Find those neighbouring letters and anagram them to construct our answer!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'So... Paul's'. We'll need to use these letters to construct our answer, as guided by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "Our definition here is 'related to his wife?', and our answer will be a word for that which is related to a marriage partner (in Paul's case, his wife). The question mark is added here because it improves the surface reading, but also because it suggests we might need to stretch the definition (beyond just Paul's wife).",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          19,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,83 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-14",
+  "clue": [
+    {
+      "text": "Idol",
+      "type": null
+    },
+    {
+      "text": "tied",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    },
+    {
+      "text": "ponytail",
+      "type": null
+    }
+  ],
+  "answer": "DEITY",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Back' and 'tail' are our indicators — one tells us to reverse some letters, and the other tells us to take the last letter of a word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          14
+        ],
+        [
+          19,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'tied' and 'pony'. We'll be using the letters of both, as directed by their neighbouring indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          9
+        ],
+        [
+          15,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'Idol' — and our answer will be directly connected with this idea.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

@@ -1,0 +1,73 @@
+{
+  "puzzleId": null,
+  "date": "2025-10-02",
+  "clue": [
+    {
+      "text": "20/20",
+      "type": null
+    },
+    {
+      "text": "vision",
+      "type": null
+    },
+    {
+      "text": "eye",
+      "type": null
+    },
+    {
+      "text": "patch",
+      "type": null
+    }
+  ],
+  "answer": "ONE",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'patch' is a hidden-word indicator — it tells us to find our answer by focusing on a patch (or a segment) of some neighbouring words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'vision eye' — we’ll use these letters to reach our answer, as directed by the indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "The definition is '20/20' - an expression that directly represents our answer.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

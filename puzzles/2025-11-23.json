@@ -1,0 +1,101 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-23",
+  "clue": [
+    {
+      "text": "“Out-of-control",
+      "type": null
+    },
+    {
+      "text": "carousel",
+      "type": null
+    },
+    {
+      "text": "catapults",
+      "type": null
+    },
+    {
+      "text": "you”",
+      "type": null
+    },
+    {
+      "text": "declared",
+      "type": null
+    },
+    {
+      "text": "fortune",
+      "type": null
+    },
+    {
+      "text": "tellers",
+      "type": null
+    }
+  ],
+  "answer": "ORACLES",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Out-of-control', 'catapults', and 'declared'. One of these is a homophone indicator, instructing us to say something out loud and replace it with a sound-alike equivalent. Another is an anagram indicator, hinting that the letters of some neighbouring fodder need to be rearranged. And a third is a deletion indicator, telling us to remove one or more letters from some adjacent fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          1,
+          15
+        ],
+        [
+          25,
+          34
+        ],
+        [
+          40,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'carousel' and 'you'. We'll use letters one of these words along with the letters of the other (or some of them) to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          16,
+          24
+        ],
+        [
+          35,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'fortune tellers', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          49,
+          64
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

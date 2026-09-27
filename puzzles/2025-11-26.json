@@ -1,0 +1,87 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-26",
+  "clue": [
+    {
+      "text": "Run-down",
+      "type": null
+    },
+    {
+      "text": "backpacker",
+      "type": null
+    },
+    {
+      "text": "loses",
+      "type": null
+    },
+    {
+      "text": "backpack",
+      "type": null
+    }
+  ],
+  "answer": "RECAP",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'back', 'loses' and 'back', and in this clue, 'back' is used in two different ways - it's a fairly versatile indicator! Our indicators comprise selection, deletion, and reversal techniques. We'll need to select one or more letters from some neighbouring fodder, delete some fodder from other fodder, and reverse what remains.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          13
+        ],
+        [
+          20,
+          25
+        ],
+        [
+          26,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'packer' and 'pack'. We'll use these letters (or some of them) to construct our answer, as guided by our indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          19
+        ],
+        [
+          30,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Run-down', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

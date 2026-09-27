@@ -1,0 +1,115 @@
+{
+  "puzzleId": null,
+  "date": "2025-11-11",
+  "clue": [
+    {
+      "text": "See",
+      "type": null
+    },
+    {
+      "text": "outspoken",
+      "type": null
+    },
+    {
+      "text": "farmers",
+      "type": null
+    },
+    {
+      "text": "pouring",
+      "type": null
+    },
+    {
+      "text": "heart",
+      "type": null
+    },
+    {
+      "text": "out.",
+      "type": null
+    },
+    {
+      "text": "They",
+      "type": null
+    },
+    {
+      "text": "live",
+      "type": null
+    },
+    {
+      "text": "off",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "land?",
+      "type": null
+    }
+  ],
+  "answer": "SEAFARERS",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'outspoken' and 'pouring heart out'. One is a homophone indicator - we'll need to speak out a neighbouring word (or its synonym) and find a sound-alike word to put in our answer. The other indicator is a deletion nominating a specific letter or set of letters to delete from some nearby fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          13
+        ],
+        [
+          22,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'See' and 'farmers'. We'll use these words to construct our answer, as guided by our indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          14,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'They live off the land?'. Our answer will name a group of people who do just that!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          41,
+          64
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

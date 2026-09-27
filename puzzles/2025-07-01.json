@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-01",
+  "clue": [
+    {
+      "text": "Engineer",
+      "type": null
+    },
+    {
+      "text": "rang",
+      "type": null
+    },
+    {
+      "text": "unknown",
+      "type": null
+    },
+    {
+      "text": "number",
+      "type": null
+    },
+    {
+      "text": "when",
+      "type": null
+    },
+    {
+      "text": "blowing",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "fuse",
+      "type": null
+    }
+  ],
+  "answer": "ANGRY",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Engineer' is an anagram indicator — it tells us that we'll need to design or arrange some neighbouring letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'rang' and 'unknown number'. We'll use the letters of 'rang', and we'll need to find a short synonym or substitute for 'unknown number' (think maths!).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          13
+        ],
+        [
+          14,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'when blowing a fuse' — but you'll need to think of something other than electronics to get this one.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          29,
+          48
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

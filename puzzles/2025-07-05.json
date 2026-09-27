@@ -1,0 +1,96 @@
+{
+  "puzzleId": null,
+  "date": "2025-07-05",
+  "clue": [
+    {
+      "text": "No",
+      "type": null
+    },
+    {
+      "text": "coming",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "shipwreck?",
+      "type": null
+    },
+    {
+      "text": "That",
+      "type": null
+    },
+    {
+      "text": "sucks",
+      "type": null
+    }
+  ],
+  "answer": "SIPHON",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Coming back' and 'wreck' are our indicators — one tells us to reverse something, and the other signals an anagram.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          3,
+          14
+        ],
+        [
+          25,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our fodder is 'No' and 'ship' — we'll be using these letters to find our answer, as directed by the indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          2
+        ],
+        [
+          21,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'That sucks' — and our answer will be something that quite literally does.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          32,
+          42
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

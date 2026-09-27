@@ -1,0 +1,51 @@
+{
+  "puzzleId": null,
+  "date": "2025-12-25",
+  "clue": [
+    {
+      "text": "Christmas",
+      "type": null
+    },
+    {
+      "text": "now?",
+      "type": null
+    }
+  ],
+  "answer": "PRESENT DAY",
+  "config": [
+    7,
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue is a double definition. Most clues have a single definition (and the rest of the clue functions as letterplay and wordplay), but in a double definition you split the clue in two and each part functions as a definition for the answer. So, our answer will somehow represent 'Christmas', and the question mark on the end of the clue suggests that this might be a slightly stretchy definition.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

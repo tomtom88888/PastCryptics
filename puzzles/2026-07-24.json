@@ -1,0 +1,45 @@
+{
+  "puzzleId": null,
+  "date": "2026-07-24",
+  "clue": [
+    {
+      "text": "OVERHEAD",
+      "type": null
+    },
+    {
+      "text": "LUGGAGE!",
+      "type": null
+    }
+  ],
+  "answer": "UPPER CASE",
+  "config": [
+    5,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue is an &lit (pronounced 'and lit') meaning that the whole clue is both definition and wordplay. So, our answer will be a way of describing overhead luggage (while also matching the wordplay).",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}

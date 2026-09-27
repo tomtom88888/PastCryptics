@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "date": "2025-06-02",
+  "clue": [
+    {
+      "text": "Tips",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "Thursday’s",
+      "type": null
+    },
+    {
+      "text": "racing",
+      "type": null
+    },
+    {
+      "text": "events",
+      "type": null
+    },
+    {
+      "text": "edited",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "tomorrow’s",
+      "type": null
+    },
+    {
+      "text": "paper?",
+      "type": null
+    }
+  ],
+  "answer": "TREE",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "'Tips on' is our indicator – it’s hinting we only need the very beginnings of a few nearby words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    },
+    {
+      "text": "'Thursday’s racing events edited' is our fodder – we’ll be using these letters as directed by our indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "The definition is 'tomorrow’s paper?' – our answer has its roots in this idea.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          44,
+          61
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": null,
+  "setterName": null,
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "tryhardguides.com"
+}
