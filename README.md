@@ -13,7 +13,12 @@ python3 -m http.server 8000
 
 The page loads JSON with `fetch`, so it has to be served over HTTP. Opening `index.html` directly from disk won't work.
 
-To host it for free, enable **GitHub Pages** (Settings → Pages → deploy from branch, root folder).
+## Hosting
+
+There's no framework and no build step, so any static host works.
+
+- **GitHub Pages:** in the repo, go to Settings → Pages → Build and deployment → Source and choose **GitHub Actions**. `.github/workflows/deploy.yml` then publishes the site on every push, and again after each daily puzzle collection. The site lives at `https://<user>.github.io/PastCryptics/`.
+- **Vercel:** go to vercel.com → Add New → Project, import this repo, set Framework Preset to **Other**, and leave the build command empty. Vercel redeploys whenever a commit lands, including the collector's commits.
 
 ## Puzzles
 

@@ -1,0 +1,39 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main, claude/past-minute-cryptics-practice-bzphqp]
+  # Commits pushed by the collector use GITHUB_TOKEN, which doesn't trigger
+  # push events, so redeploy explicitly after each collection run.
+  workflow_run:
+    workflows: ["Collect daily puzzle"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch || github.ref }}
+      - name: Assemble site
+        run: |
+          mkdir _site
+          cp -r index.html style.css app.js puzzles .nojekyll _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+      - id: deployment
+        uses: actions/deploy-pages@v4
