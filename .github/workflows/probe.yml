@@ -1,0 +1,24 @@
+name: Probe sources
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Space-separated URLs to fetch"
+        required: true
+      full:
+        description: "Print full body for URLs containing this substring"
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          URLS: ${{ github.event.inputs.urls }}
+          FULL: ${{ github.event.inputs.full }}
+        run: python3 scripts/probe.py "$URLS" "$FULL"
