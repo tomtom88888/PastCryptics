@@ -1,0 +1,125 @@
+{
+  "puzzleId": "69ed288f-1024-4315-ab95-0c78a8bb2dd6",
+  "letterRevealOrder": [
+    0,
+    2,
+    3,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Dad",
+      "type": null
+    },
+    {
+      "text": "steps",
+      "type": null
+    },
+    {
+      "text": "forward",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "spat...",
+      "type": null
+    },
+    {
+      "text": "\"What's",
+      "type": null
+    },
+    {
+      "text": "happened?\"",
+      "type": null
+    }
+  ],
+  "answer": "PAST",
+  "puzzlePieces": {
+    "0": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/wh_rO65yFi8",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/DWzz6bvmTTc",
+      "thumbnail": "https://i.ytimg.com/vi/DWzz6bvmTTc/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-14",
+  "thumbnail": "https://i.ytimg.com/vi/wh_rO65yFi8/maxresdefault.jpg",
+  "setterName": "Member: Sean Rich",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'steps forward in'. It doesn't belong to a standard indicator type, but it tells you just what to do: in some fodder, some letters will move 'forward'. Note: which direction 'forward' is is a matter of perspective, and you might need to try both directions!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Dad' and 'spat'. We'll need to find a short synonym for one of these and use it with the letters of the other to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          21,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'What's happened', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          30,
+          45
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 71012,
+    "anonSolverCount": 61722,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  },
+  "hasBonus": true
+}

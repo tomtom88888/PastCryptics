@@ -1,0 +1,144 @@
+{
+  "puzzleId": "0ccf8c38-95cc-4a10-8a0e-7eef053ac505",
+  "letterRevealOrder": [
+    0,
+    4,
+    2,
+    6,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Sold",
+      "type": null
+    },
+    {
+      "text": "latticed",
+      "type": null
+    },
+    {
+      "text": "pie",
+      "type": null
+    },
+    {
+      "text": "past",
+      "type": null
+    },
+    {
+      "text": "its",
+      "type": null
+    },
+    {
+      "text": "expiration",
+      "type": null
+    },
+    {
+      "text": "date?",
+      "type": null
+    }
+  ],
+  "answer": "SPOILED",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/6Tzm_4Ej6y0",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/JfZk7IdCx1c",
+      "thumbnail": "https://i.ytimg.com/vi/JfZk7IdCx1c/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-22",
+  "thumbnail": "https://i.ytimg.com/vi/6Tzm_4Ej6y0/maxresdefault.jpg",
+  "setterName": "Member: Drew B",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'latticed'. It doesn't belong to one of our standard indicator types, but the image of a lattice gives us our instruction: a lattice is formed from strips crossing and weaving together in a regular pattern. Here, we'll similarly weave together the letters from two pieces of fodder in a defined pattern.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Sold' and 'pie'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          14,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'past its expiration date'. The answer is a word that can often describe foods that are past their expiration dates.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          18,
+          42
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 60358,
+    "anonSolverCount": 51308,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}

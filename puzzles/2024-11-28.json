@@ -1,0 +1,59 @@
+{
+  "letterRevealOrder": [
+    0,
+    3,
+    2,
+    1,
+    4
+  ],
+  "hint": "The definition part of the clue is 'Passed out'",
+  "clue": [
+    {
+      "text": "Passed out",
+      "type": "definition"
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "nitrogen leaking out of dental surgery",
+      "type": "wordplay"
+    }
+  ],
+  "answer": "DEALT",
+  "puzzlePieces": {
+    "0": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/_M7S2rRyCdE",
+  "date": "2024-11-28",
+  "thumbnail": "https://i.ytimg.com/vi/_M7S2rRyCdE/maxresdefault.jpg"
+}

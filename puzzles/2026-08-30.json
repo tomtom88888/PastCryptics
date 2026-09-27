@@ -1,0 +1,170 @@
+{
+  "puzzleId": "084bf928-b9c3-49d1-8d28-0f90c8b044a2",
+  "letterRevealOrder": [
+    6,
+    0,
+    10,
+    2,
+    8,
+    4,
+    7,
+    5,
+    3,
+    9,
+    1,
+    11
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Building",
+      "type": null
+    },
+    {
+      "text": "full",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "suits",
+      "type": null
+    },
+    {
+      "text": "chooses",
+      "type": null
+    },
+    {
+      "text": "fraud,",
+      "type": null
+    },
+    {
+      "text": "appallingly?",
+      "type": null
+    }
+  ],
+  "answer": "HOUSE OF CARDS",
+  "puzzlePieces": {
+    "0": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "F",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "10": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "11": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5,
+    2,
+    5
+  ],
+  "par": 4,
+  "explainerVideo": "https://youtu.be/plwWwQmr0i4",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/45BUjG0RRjw",
+      "thumbnail": "https://i.ytimg.com/vi/45BUjG0RRjw/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-08-30",
+  "thumbnail": "https://i.ytimg.com/vi/plwWwQmr0i4/maxresdefault.jpg",
+  "setterName": "Member: AJChristo4",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'appallingly' and it's an anagram indicator. We'll need to put some neighbouring words in an appalling, dreadful or awful state by rearranging their letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          38,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'chooses fraud'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          23,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Building full of suits', and the question mark on the end of our clue is a flag that we might need to think outside the box for this one. Our answer will be building full of suits, in a manner of speaking.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          22
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 76013,
+    "anonSolverCount": 58289,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "puzzleId": "99a57a2f-e8ce-4252-b646-a381275a2e29",
+  "letterRevealOrder": [
+    1,
+    3,
+    4,
+    0,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Bank",
+      "type": null
+    },
+    {
+      "text": "foreclosed",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "S&P",
+      "type": null
+    },
+    {
+      "text": "hit",
+      "type": null
+    },
+    {
+      "text": "bottom",
+      "type": null
+    }
+  ],
+  "answer": "SPANK",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "K",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/psRSqFMiRPs",
+  "date": "2026-08-15",
+  "thumbnail": "https://i.ytimg.com/vi/psRSqFMiRPs/maxresdefault.jpg",
+  "setterName": "Member: Fire",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'foreclosed' and 'after'. In this clue, 'foreclosed' is functioning as a combination selection+deletion indicator, naming the position of an important letter to delete. And 'after' is a repositioning indicator - what comes before it will go after what follows.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          15
+        ],
+        [
+          16,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Bank' and 'S&P'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          22,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'hit bottom', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          26,
+          36
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 67825,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

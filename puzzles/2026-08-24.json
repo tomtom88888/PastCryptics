@@ -1,0 +1,144 @@
+{
+  "puzzleId": "80864269-fea5-4ab9-a549-a1ade8e944a1",
+  "letterRevealOrder": [
+    2,
+    0,
+    6,
+    4,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Child",
+      "type": null
+    },
+    {
+      "text": "flies",
+      "type": null
+    },
+    {
+      "text": "military",
+      "type": null
+    },
+    {
+      "text": "aircraft,",
+      "type": null
+    },
+    {
+      "text": "gaining",
+      "type": null
+    },
+    {
+      "text": "ground",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "slower",
+      "type": null
+    },
+    {
+      "text": "pilots",
+      "type": null
+    }
+  ],
+  "answer": "MAGGOTS",
+  "puzzlePieces": {
+    "0": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/PZIJ0upJ8j4",
+  "date": "2026-08-24",
+  "thumbnail": "https://i.ytimg.com/vi/PZIJ0upJ8j4/maxresdefault.jpg",
+  "setterName": "Member: Luc E",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'pilots' and it's a selection indicator, naming the positions of important letters in neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          60,
+          66
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'military aircraft, gaining ground on the slower'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          59
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Child flies', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 81250,
+    "anonSolverCount": 62240,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

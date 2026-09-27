@@ -1,0 +1,144 @@
+{
+  "puzzleId": "1faddfad-783e-4e14-826f-ceb95db9da1f",
+  "letterRevealOrder": [
+    2,
+    0,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Couple's",
+      "type": null
+    },
+    {
+      "text": "performance",
+      "type": null
+    },
+    {
+      "text": "includes",
+      "type": null
+    },
+    {
+      "text": "dose",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Viagra",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "it's",
+      "type": null
+    },
+    {
+      "text": "common",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "bedroom",
+      "type": null
+    }
+  ],
+  "answer": "DUVET",
+  "puzzlePieces": {
+    "0": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "V",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/ld8LpxHt1Hc",
+  "date": "2026-08-09",
+  "thumbnail": "https://i.ytimg.com/vi/ld8LpxHt1Hc/maxresdefault.jpg",
+  "setterName": "Member: LCameron",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'includes' and 'dose of'. One of these is a containing indicator - some fodder will go inside other fodder. The other is a (quite vague) selection indicator guiding us to take just a bit of a neighbouring word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          21,
+          29
+        ],
+        [
+          30,
+          37
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Couple's performance' and 'Viagra'. We'll need to find a substitute for one of these and use it with one or more letters from the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          20
+        ],
+        [
+          38,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'it's common in the bedroom', and our answer will be something that fits that description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          47,
+          73
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 48136
+  }
+}

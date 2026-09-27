@@ -1,0 +1,110 @@
+{
+  "puzzleId": "500e3051-a3c0-4142-b85f-1505b0e776de",
+  "letterRevealOrder": [
+    4,
+    0,
+    2,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Soulless,",
+      "type": null
+    },
+    {
+      "text": "gruesome",
+      "type": null
+    },
+    {
+      "text": "complex!",
+      "type": null
+    }
+  ],
+  "answer": "MORGUE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/spbJxO--4JE",
+  "date": "2026-08-06",
+  "thumbnail": "https://i.ytimg.com/vi/spbJxO--4JE/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Soulless' and 'complex'. One of these is a deletion indicator naming the position of one or more letters to remove from some neighbouring fodder. The other is an anagram indicator - we'll need to make an adjacent word convoluted by rearranging its letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          19,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'gruesome'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is both the wordplay and the definition. So, our answer will be a word for a soulless, gruesome complex.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          27
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 68731
+  }
+}

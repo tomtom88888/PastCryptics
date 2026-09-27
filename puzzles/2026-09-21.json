@@ -1,0 +1,133 @@
+{
+  "puzzleId": "5478c5cf-e5e8-46cb-b2d1-0e675e44439c",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    3,
+    5,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "“All-in",
+      "type": null
+    },
+    {
+      "text": "bet?”",
+      "type": null
+    },
+    {
+      "text": "say",
+      "type": null
+    },
+    {
+      "text": "Romeo",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "Juliet",
+      "type": null
+    }
+  ],
+  "answer": "BALLET",
+  "puzzlePieces": {
+    "0": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/KTOhY7zZUm4",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/S4_4O1wXJtw",
+      "thumbnail": "https://i.ytimg.com/vi/S4_4O1wXJtw/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-21",
+  "thumbnail": "https://i.ytimg.com/vi/KTOhY7zZUm4/maxresdefault.jpg",
+  "setterName": "Member: KevLoughrey & Angas",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'in', and it's a containing indicator. We'll need to put some fodder inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          7
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'All' and 'bet'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          1,
+          4
+        ],
+        [
+          8,
+          11
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'say Romeo and Juliet', and 'say' is flagging that our answer will be a category to which 'Romeo and Juliet' belongs.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          14,
+          34
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 72275,
+    "anonSolverCount": 60584,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  },
+  "hasBonus": false
+}

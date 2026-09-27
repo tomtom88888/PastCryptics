@@ -1,0 +1,170 @@
+{
+  "puzzleId": "4adb05e6-d6e7-42bf-a724-b043b55f893b",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    6,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "How’s",
+      "type": null
+    },
+    {
+      "text": "lead",
+      "type": null
+    },
+    {
+      "text": "ammunition",
+      "type": null
+    },
+    {
+      "text": "found",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "empty",
+      "type": null
+    },
+    {
+      "text": "creek",
+      "type": null
+    },
+    {
+      "text": "bed",
+      "type": null
+    },
+    {
+      "text": "between",
+      "type": null
+    },
+    {
+      "text": "two",
+      "type": null
+    },
+    {
+      "text": "trees?",
+      "type": null
+    }
+  ],
+  "answer": "HAMMOCK",
+  "puzzlePieces": {
+    "0": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "K",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/XTdkHUVKzYA",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/WfRa8iqBdJo",
+      "thumbnail": "https://i.ytimg.com/vi/WfRa8iqBdJo/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-01",
+  "thumbnail": "https://i.ytimg.com/vi/XTdkHUVKzYA/maxresdefault.jpg",
+  "setterName": "Member: Justin",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'lead', 'found by', and 'empty'. One of these is a selection indicator naming the position of an important letter in neighbouring fodder. Another is a deletion indicator guiding us to delete some letters from adjacent fodder (and keep what remains). And 'found by' aids the surface while leaving the wordplay unchanged: what comes before is 'found by', or next to, what comes after.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          6,
+          10
+        ],
+        [
+          22,
+          30
+        ],
+        [
+          31,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'How', 'ammunition', and 'creek'. We'll need to find a substitute for one of these and use it with the letters of the others (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          11,
+          21
+        ],
+        [
+          37,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'bed between two trees?', and our answer will be something that fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          43,
+          65
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 56584,
+    "anonSolverCount": 54437,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

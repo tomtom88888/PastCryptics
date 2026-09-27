@@ -1,0 +1,126 @@
+{
+  "puzzleId": "2e80c26f-98aa-4791-8501-2bcc260d6531",
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "What",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "won't",
+      "type": null
+    },
+    {
+      "text": "hear",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "honest",
+      "type": null
+    },
+    {
+      "text": "builders",
+      "type": null
+    },
+    {
+      "text": "debuting",
+      "type": null
+    },
+    {
+      "text": "modest",
+      "type": null
+    },
+    {
+      "text": "home",
+      "type": null
+    }
+  ],
+  "answer": "HUT",
+  "puzzlePieces": {
+    "0": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    3
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/wvS4InU0Xd4",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://www.youtube.com/watch?v=46LUT_583DA",
+      "thumbnail": "https://i.ytimg.com/vi/46LUT_583DA/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-08",
+  "thumbnail": "https://i.ytimg.com/vi/wvS4InU0Xd4/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'What you won't hear from' and it's a kind of selection indicator. Most selection indicators name the position of important letters in neighbouring fodder, but this one names a quality of the letters to which we need to pay attention.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'honest builders debuting'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          25,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'modest home', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          50,
+          61
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 60179,
+    "anonSolverCount": 51779,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "puzzleId": "cb3a12a7-6bdb-4937-b22a-1052ce0d0bcd",
+  "letterRevealOrder": [
+    1,
+    3,
+    0,
+    2,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Whispered:",
+      "type": null
+    },
+    {
+      "text": "\"See",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "inside?\"",
+      "type": null
+    },
+    {
+      "text": "Yelled:",
+      "type": null
+    },
+    {
+      "text": "\"8:00",
+      "type": null
+    },
+    {
+      "text": "SHARP!\"",
+      "type": null
+    }
+  ],
+  "answer": "ACUTE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/v1miEBx3QCc",
+  "date": "2026-08-20",
+  "thumbnail": "https://i.ytimg.com/vi/v1miEBx3QCc/maxresdefault.jpg",
+  "setterName": "Member: Asaf Isser & Cory",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Whispered', 'inside', and 'Yelled'. Two of these are homophone indicators flagging that we'll need to vocalise some neighbouring words, hear what they sound like and replace them with their soundalikes. The other is a containing indicator - we'll need to place some fodder within other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          9
+        ],
+        [
+          20,
+          26
+        ],
+        [
+          29,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'See you' and '8:00'. To reach our answer we'll need to find some guided substitutes for all of these words as directed by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          19
+        ],
+        [
+          38,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'SHARP', and our answer will be another word for 'sharp'. In this clue, SHARP is capitalised purely for the surface reading, to more clearly convey that it's being yelled.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          43,
+          48
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 75969,
+    "anonSolverCount": 57082,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

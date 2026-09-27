@@ -1,0 +1,146 @@
+{
+  "puzzleId": "e3d10f54-6056-4bc5-ae06-79b9a59a7a33",
+  "letterRevealOrder": [
+    2,
+    0,
+    4,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Outdated",
+      "type": null
+    },
+    {
+      "text": "version",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Messenger",
+      "type": null
+    },
+    {
+      "text": "pinged",
+      "type": null
+    },
+    {
+      "text": "endlessly,",
+      "type": null
+    },
+    {
+      "text": "glitching",
+      "type": null
+    },
+    {
+      "text": "over",
+      "type": null
+    },
+    {
+      "text": "nothing",
+      "type": null
+    }
+  ],
+  "answer": "PIGEON",
+  "puzzlePieces": {
+    "0": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/0tUuKuN8kZc",
+  "date": "2026-08-27",
+  "thumbnail": "https://i.ytimg.com/vi/0tUuKuN8kZc/maxresdefault.jpg",
+  "setterName": "Member: Avitable & Cory",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'endlessly', 'glitching', and 'over'. One of these is an anagram indicator suggesting a kind of error-prone movement among the letters of some nearby fodder - fodder we'll need to rearrange. Another is a deletion indicator naming the position of one or more letters to delete in neighbouring fodder (keeping what remains). And a third is a containing indicator - some fodder will go around some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          37,
+          46
+        ],
+        [
+          48,
+          57
+        ],
+        [
+          58,
+          62
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'pinged' and 'nothing'. We'll use the letters of one with a short substitute for the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          30,
+          36
+        ],
+        [
+          63,
+          70
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Outdated version of Messenger' - it's a description of our answer.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          29
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 57372,
+    "anonSolverCount": 47506,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

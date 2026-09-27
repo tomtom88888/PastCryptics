@@ -1,0 +1,168 @@
+{
+  "puzzleId": "a23d2dba-663d-459f-b2a4-30dd55554361",
+  "letterRevealOrder": [
+    0,
+    4,
+    6,
+    2,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Difficult",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "hold",
+      "type": null
+    },
+    {
+      "text": "onto",
+      "type": null
+    },
+    {
+      "text": "love",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "her",
+      "type": null
+    },
+    {
+      "text": "head",
+      "type": null
+    },
+    {
+      "text": "elsewhere...",
+      "type": null
+    },
+    {
+      "text": "she's",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "keeper",
+      "type": null
+    }
+  ],
+  "answer": "HOARDER",
+  "puzzlePieces": {
+    "0": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/6C46Xp6R_Po",
+  "date": "2026-08-07",
+  "thumbnail": "https://i.ytimg.com/vi/6C46Xp6R_Po/maxresdefault.jpg",
+  "setterName": "Member: LCameron",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'to hold onto', 'with', 'head', and 'elsewhere'. One of these is a deletion indicator suggesting that part of some fodder isn't present. Another is a selection indicator naming the position of an important letter in neighbouring fodder. A third is a containing indicator - some fodder will go around the outside of some other fodder, containing it. And 'with' is a simple joining word: what comes before it is next to or 'with' what follows.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          22
+        ],
+        [
+          28,
+          32
+        ],
+        [
+          37,
+          41
+        ],
+        [
+          42,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Difficult', 'love', and 'her', and two of them need substitutes. One substitute is a synonym and the other needs a classic cryptic single-letter substitute (google 'difficult', 'love', or 'her' with 'cryptic crossword meaning' and one of them will yield results). We'll use these two substitutes with the letters of the third piece of fodder to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ],
+        [
+          23,
+          27
+        ],
+        [
+          33,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'she's a keeper', and our answer will be a word for someone who's a keeper.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          55,
+          69
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 60672
+  }
+}

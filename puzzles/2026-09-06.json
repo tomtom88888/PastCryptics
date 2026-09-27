@@ -1,0 +1,121 @@
+{
+  "puzzleId": "1b4b11da-4ae1-4993-83e0-de5cfc28be1a",
+  "letterRevealOrder": [
+    0,
+    4,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Item",
+      "type": null
+    },
+    {
+      "text": "initially",
+      "type": null
+    },
+    {
+      "text": "dispensed",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "server!",
+      "type": null
+    }
+  ],
+  "answer": "WATER",
+  "puzzlePieces": {
+    "0": {
+      "answer": "W",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/Nj79pkogJlQ",
+  "extraExplainerVideos": [],
+  "date": "2026-09-06",
+  "thumbnail": "https://i.ytimg.com/vi/Nj79pkogJlQ/maxresdefault.jpg",
+  "setterName": "Member: Rusty Lee",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'initially' and 'dispensed by'. One of these is a selection indicator naming the position of an important letter in neighbouring fodder. The other is a deletion indicator - we'll need to delete some fodder from other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          14
+        ],
+        [
+          15,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Item' and 'server'. We'll need to find a synonym for one of these and use it with one or more letters from the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          28,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is both definition and wordplay. So, our definition here is something that a server might initially dispense.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          35
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 71473,
+    "anonSolverCount": 59313,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

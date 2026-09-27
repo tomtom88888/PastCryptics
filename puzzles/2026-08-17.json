@@ -1,0 +1,119 @@
+{
+  "puzzleId": "1a68212b-3f47-4913-ae88-9aaa00272809",
+  "letterRevealOrder": [
+    1,
+    3,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Picasso's",
+      "type": null
+    },
+    {
+      "text": "homeland",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "portrayed",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "his",
+      "type": null
+    },
+    {
+      "text": "paintings",
+      "type": null
+    }
+  ],
+  "answer": "SPAIN",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/v3tbkuwqGyM",
+  "date": "2026-08-17",
+  "thumbnail": "https://i.ytimg.com/vi/v3tbkuwqGyM/maxresdefault.jpg",
+  "setterName": "Memeber: MarkelSC",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'is portrayed in', and it's a hidden word indicator. Our answer will be depicted within some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          19,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'his paintings'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          35,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Picasso's homeland', and our answer will be just that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          18
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 67128,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

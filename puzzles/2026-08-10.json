@@ -1,0 +1,96 @@
+{
+  "puzzleId": "655f40ae-18d4-4eb6-98b8-c3892096e8bf",
+  "letterRevealOrder": [
+    2,
+    0,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Pentagon",
+      "type": null
+    },
+    {
+      "text": "covers",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "touch-and-go",
+      "type": null
+    },
+    {
+      "text": "situation?",
+      "type": null
+    }
+  ],
+  "answer": "TAG",
+  "puzzlePieces": {
+    "0": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    3
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/O1r3DRE8pFk",
+  "date": "2026-08-10",
+  "thumbnail": "https://i.ytimg.com/vi/O1r3DRE8pFk/maxresdefault.jpg",
+  "setterName": "Member: Drew B",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'covers up' and it's a hidden word indicator. Some fodder covers up our answer, hiding it inside.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Pentagon'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'touch-and-go situation?', and the question mark flags that we'll need to think about this laterally. Our answer will be a touch-and-go situation of sorts.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          19,
+          42
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 76178
+  }
+}

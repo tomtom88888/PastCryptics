@@ -1,0 +1,158 @@
+{
+  "puzzleId": "4ada6aae-d6a8-4f7b-bd47-bec6e840c14c",
+  "letterRevealOrder": [
+    5,
+    1,
+    3,
+    0,
+    2,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Naked",
+      "type": null
+    },
+    {
+      "text": "extrovert",
+      "type": null
+    },
+    {
+      "text": "flings",
+      "type": null
+    },
+    {
+      "text": "away",
+      "type": null
+    },
+    {
+      "text": "last",
+      "type": null
+    },
+    {
+      "text": "piece",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "underwear",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "plays",
+      "type": null
+    },
+    {
+      "text": "Twister",
+      "type": null
+    }
+  ],
+  "answer": "VORTEX",
+  "puzzlePieces": {
+    "0": {
+      "answer": "V",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "X",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/mpEaqCSAYzM",
+  "date": "2026-08-22",
+  "thumbnail": "https://i.ytimg.com/vi/mpEaqCSAYzM/maxresdefault.jpg",
+  "setterName": "Member: Dunc",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Naked', 'flings away', 'last piece of', and 'and plays'. Two of these are deletion indicators - one telling us to delete some fodder from other fodder, and the other implying the positions of letters to be removed from fodder. We also have a selection indicator, naming the position of an important letter. And finally, there's an anagram indicator suggesting that some letters will move around and rearrange.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          5
+        ],
+        [
+          16,
+          27
+        ],
+        [
+          28,
+          41
+        ],
+        [
+          52,
+          61
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'extrovert' and 'underwear'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          15
+        ],
+        [
+          42,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Twister', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          62,
+          69
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 64566,
+    "anonSolverCount": 0,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

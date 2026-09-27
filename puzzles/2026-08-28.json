@@ -1,0 +1,159 @@
+{
+  "puzzleId": "dbaeb5a1-88af-42bc-b53e-ddbbf76726eb",
+  "letterRevealOrder": [
+    6,
+    2,
+    4,
+    0,
+    7,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "My",
+      "type": null
+    },
+    {
+      "text": "boy",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "into",
+      "type": null
+    },
+    {
+      "text": "art.",
+      "type": null
+    },
+    {
+      "text": "He",
+      "type": null
+    },
+    {
+      "text": "has",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "fiery",
+      "type": null
+    },
+    {
+      "text": "passion.",
+      "type": null
+    }
+  ],
+  "answer": "ARSONIST",
+  "puzzlePieces": {
+    "0": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    8
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/OgLKaGkAFFM",
+  "extraExplainerVideos": [],
+  "date": "2026-08-28",
+  "thumbnail": "https://i.ytimg.com/vi/OgLKaGkAFFM/maxresdefault.jpg",
+  "setterName": "Member: Nate Yungman",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'into' and it's a containing indicator. Some fodder (words in the clue and/or their synonyms) will go inside some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'My boy', 'is' and 'art'. We'll need to find a short substitute for one of these and use it with the letters of the others to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          15,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'He has a fiery passion', and our answer will be a word for someone with a particular kind of fiery passion.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          42
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 71380,
+    "anonSolverCount": 54676,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

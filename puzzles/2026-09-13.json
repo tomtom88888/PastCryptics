@@ -1,0 +1,161 @@
+{
+  "puzzleId": "747e7e48-1b2b-4adb-a280-4bbbf99c789e",
+  "letterRevealOrder": [
+    5,
+    1,
+    3,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Kind",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "puppet",
+      "type": null
+    },
+    {
+      "text": "taking",
+      "type": null
+    },
+    {
+      "text": "direction",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "hand",
+      "type": null
+    },
+    {
+      "text": "inside",
+      "type": null
+    },
+    {
+      "text": "Miss",
+      "type": null
+    },
+    {
+      "text": "Piggy?",
+      "type": null
+    }
+  ],
+  "answer": "SHADOW",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "W",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/A_o0nfTpnWg",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/CxNlGt7AHFE",
+      "thumbnail": "https://i.ytimg.com/vi/CxNlGt7AHFE/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-13",
+  "thumbnail": "https://i.ytimg.com/vi/A_o0nfTpnWg/maxresdefault.jpg",
+  "setterName": "Member: Rob D with Liam",
+  "hints": [
+    {
+      "text": "Our definition here is 'Kind of puppet', and our answer will be just that - a kind of puppet. We're looking for a ______ puppet.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "This clue's indicators are 'taking... from', and 'inside'. One of these is a deletion indicator guiding us to remove some fodder from other fodder. The other is a containing indicator - we'll need to insert some fodder into other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          21
+        ],
+        [
+          32,
+          36
+        ],
+        [
+          42,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'direction', 'hand', and 'Miss Piggy?'. Two of these need substitutes: one requires a classic cryptic one-letter replacement; the other a stretchy synonym. We'll use these with the letters of the remaining fodder to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          22,
+          31
+        ],
+        [
+          37,
+          41
+        ],
+        [
+          49,
+          60
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 72187,
+    "anonSolverCount": 57769,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  },
+  "hasBonus": true
+}

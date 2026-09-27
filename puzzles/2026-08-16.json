@@ -1,0 +1,159 @@
+{
+  "puzzleId": "7be0b699-233d-462c-9925-717daf4c0a2c",
+  "letterRevealOrder": [
+    0,
+    4,
+    2,
+    6,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Acid",
+      "type": null
+    },
+    {
+      "text": "reflux",
+      "type": null
+    },
+    {
+      "text": "interrupts",
+      "type": null
+    },
+    {
+      "text": "meal",
+      "type": null
+    },
+    {
+      "text": "without",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "care",
+      "type": null
+    },
+    {
+      "text": "given",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "doctor",
+      "type": null
+    }
+  ],
+  "answer": "MEDICAL",
+  "puzzlePieces": {
+    "0": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/Iq812bxJrI8",
+  "date": "2026-08-16",
+  "thumbnail": "https://i.ytimg.com/vi/Iq812bxJrI8/maxresdefault.jpg",
+  "setterName": "Member: Cole Baron",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'reflux', 'interrupts' and 'without'. One of these is a deletion indicator guiding us to remove some fodder from other fodder. Another is a reversal indicator - some neighbouring fodder will flow backwards and the order of its letters will reverse. And a third is a containing indicator flagging that we'll need to put some fodder inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          11
+        ],
+        [
+          12,
+          22
+        ],
+        [
+          28,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Acid', 'meal', and 'a'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          23,
+          27
+        ],
+        [
+          36,
+          37
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'care given by doctor', and our answer will be a word for that kind of care.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          38,
+          58
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 75740,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

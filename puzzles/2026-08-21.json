@@ -1,0 +1,139 @@
+{
+  "puzzleId": "5f20c44a-efac-4835-9733-cf80033c5ec7",
+  "letterRevealOrder": [
+    0,
+    4,
+    2,
+    6,
+    1,
+    5,
+    3,
+    7
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Give",
+      "type": null
+    },
+    {
+      "text": "medal",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "Jan's",
+      "type": null
+    },
+    {
+      "text": "predecessor",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "make",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "speech",
+      "type": null
+    }
+  ],
+  "answer": "DECORATE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    8
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/tYHBMgkXIfo",
+  "date": "2026-08-21",
+  "thumbnail": "https://i.ytimg.com/vi/tYHBMgkXIfo/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Jan's predecessor' and 'make a speech', and we'll need to find substitutes for both of them. 'Make a speech' has a synonym that we can put straight in our answer. But 'Jan's predecessor' is asking for a stranger substitute - that which precedes Jan...",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          14,
+          31
+        ],
+        [
+          36,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Give medal to', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          13
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 18227,
+    "anonSolverCount": 15005,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

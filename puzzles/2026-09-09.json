@@ -1,0 +1,141 @@
+{
+  "puzzleId": "12de25a5-019a-4ac1-9d9d-9181a4b616e1",
+  "letterRevealOrder": [
+    3,
+    5,
+    1,
+    4,
+    0,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Cat",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "leash",
+      "type": null
+    },
+    {
+      "text": "locked",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "without",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "key",
+      "type": null
+    }
+  ],
+  "answer": "ATONAL",
+  "puzzlePieces": {
+    "0": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/rgt68xlQgbU",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://www.youtube.com/watch?v=RB3N_7dEYGY",
+      "thumbnail": "https://i.ytimg.com/vi/RB3N_7dEYGY/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-09",
+  "thumbnail": "https://i.ytimg.com/vi/rgt68xlQgbU/maxresdefault.jpg",
+  "setterName": "Members: jojo! & ScottDee",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'locked up', and it's a hidden word indicator. Our fodder has locked up our answer, which is hiding within it.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Cat on a leash'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s)",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'without a key', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          25,
+          38
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 65020,
+    "anonSolverCount": 58265,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  },
+  "hasBonus": false
+}

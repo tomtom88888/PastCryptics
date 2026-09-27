@@ -1,0 +1,149 @@
+{
+  "puzzleId": "6db64b5a-8070-456e-8c93-70e0ccd37009",
+  "letterRevealOrder": [
+    0,
+    4,
+    2,
+    5,
+    1,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Newest",
+      "type": null
+    },
+    {
+      "text": "member",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "staff",
+      "type": null
+    },
+    {
+      "text": "knocks",
+      "type": null
+    },
+    {
+      "text": "over",
+      "type": null
+    },
+    {
+      "text": "store",
+      "type": null
+    },
+    {
+      "text": "branch",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "leaves",
+      "type": null
+    },
+    {
+      "text": "area?",
+      "type": null
+    }
+  ],
+  "answer": "FOREST",
+  "puzzlePieces": {
+    "0": {
+      "answer": "F",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/HSzLtsO2hoE",
+  "date": "2026-08-18",
+  "thumbnail": "https://i.ytimg.com/vi/HSzLtsO2hoE/maxresdefault.jpg",
+  "setterName": "Member: Eamonn S, Liam & Angas",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Newest member of' and 'knocks over'. One of these is a selection indicator naming the position of an important letter in neighbouring fodder. The other is an anagram indicator suggesting that an adjacent word is toppled and destroyed, with its component parts falling in a new order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          16
+        ],
+        [
+          23,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'staff' and 'store'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          17,
+          22
+        ],
+        [
+          35,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'branch and leaves area?', and our answer will be a word that this describes.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          41,
+          64
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 15025,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}

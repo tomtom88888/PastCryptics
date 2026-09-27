@@ -1,0 +1,94 @@
+{
+  "puzzleId": "733b8d44-28b1-4c26-b5ac-dea16729f9e0",
+  "letterRevealOrder": [
+    2,
+    0,
+    4,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "ery",
+      "type": null
+    },
+    {
+      "text": "nexperiend!",
+      "type": null
+    }
+  ],
+  "answer": "NOVICE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "V",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/3ObX57STk9o",
+  "date": "2026-08-19",
+  "thumbnail": "https://i.ytimg.com/vi/3ObX57STk9o/maxresdefault.jpg",
+  "setterName": "Member: nickoballer & Liam",
+  "hints": [
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is both definition and wordplay. So, our definition is 'ery nexperiend'. This is obviously completely weird; this clue is also a rebus clue, where the wordplay techniques are in the answer and their effect is in the clue. So, work out what our words should say (before they've been affected) - that'll be our definition, and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "The strange effect in this clue is a flag that this clue is a rebus - our wordplay is in our answer, and its effect is in the clue itself. We'll need to find an answer that describes how two normal words have been changed into these two almost-words (while also matching the clue's definition).",
+      "type": "wordplay",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 63499,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null
+  }
+}
