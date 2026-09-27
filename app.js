@@ -49,7 +49,8 @@ const progressKey = (date) => `pastcryptics:${date}`;
 function effectivePar(p) {
   if (p.date < COMMUNITY_PAR_START) return typeof p.par === "number" ? p.par : null;
   const d = p.parDetails;
-  if (d && typeof d.averagePar === "number" && (d.solveCount ?? 0) >= COMMUNITY_PAR_MIN_SOLVERS) return Math.round(d.averagePar);
+  // Imported puzzles carry an average par without a solver count.
+  if (d && typeof d.averagePar === "number" && (d.solveCount == null || d.solveCount >= COMMUNITY_PAR_MIN_SOLVERS)) return Math.round(d.averagePar);
   return null;
 }
 

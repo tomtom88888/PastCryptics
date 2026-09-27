@@ -8,6 +8,10 @@ on:
       ids:
         description: "Optional space-separated puzzle ids to fetch"
         required: false
+      backfill:
+        description: "Also backfill past puzzles from the Wayback Machine and minutecryptic.today"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -15,6 +19,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +28,11 @@ jobs:
       - name: Fetch puzzles
         env:
           IDS: ${{ github.event.inputs.ids }}
+          BACKFILL: ${{ github.event.inputs.backfill }}
         run: |
+          if [ "$BACKFILL" = "true" ]; then
+            python scripts/backfill.py
+          fi
           if [ -n "$IDS" ]; then
             python scripts/collect.py --id $IDS
           else
