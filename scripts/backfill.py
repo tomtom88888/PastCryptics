@@ -11,6 +11,7 @@ Sources, best first:
 
 Existing files are never overwritten by a lower-quality source.
 """
+import html
 import json
 import os
 import re
@@ -183,11 +184,139 @@ def minutecryptic_today():
     print(f"minutecryptic.today: added {added}")
 
 
+# ---------------------------------------------------------------- tryhardguides.com
+TRYHARD = "https://tryhardguides.com"
+
+
+def _text(fragment):
+    fragment = re.sub(r"<script.*?</script>|<style.*?</style>", " ", fragment, flags=re.S)
+    fragment = re.sub(r"<[^>]+>", " ", fragment)
+    return re.sub(r"\s+", " ", html.unescape(fragment)).strip()
+
+
+def _tryhard_posts():
+    """Yield (title_html, content_html, local_datetime) for every Minute Cryptic post."""
+    tags = get(f"{TRYHARD}/wp-json/wp/v2/tags?slug=minute-cryptic", timeout=30)
+    if tags:
+        tag_id = tags[0]["id"]
+        page = 1
+        while True:
+            posts = get(f"{TRYHARD}/wp-json/wp/v2/posts?tags={tag_id}&per_page=100&page={page}"
+                        "&_fields=date,title,content,link", timeout=60)
+            if not posts:
+                break
+            for post in posts:
+                yield post["title"]["rendered"], post["content"]["rendered"], post["date"]
+            page += 1
+        return
+    # REST API unavailable: fall back to crawling the tag pages
+    print("tryhard: REST API unavailable, crawling pages", flush=True)
+    page = 1
+    while True:
+        listing = get(f"{TRYHARD}/tag/minute-cryptic/page/{page}/", as_json=False, timeout=60)
+        if not listing:
+            break
+        for url in dict.fromkeys(re.findall(r'https://tryhardguides\.com/[a-z0-9-]+-minute-cryptic-answer/', listing)):
+            body = get(url, as_json=False, timeout=60)
+            if not body:
+                continue
+            title = re.search(r"<title>(.*?)</title>", body, re.S)
+            when = re.search(r'"datePublished":"([^"]+)"', body)
+            if title and when:
+                yield title.group(1), body, when.group(1)
+            time.sleep(0.5)
+        page += 1
+
+
+def _hint_type(text):
+    low = text.lower()
+    found = [(low.find(k), t) for k, t in (("definition", "definition"), ("indicator", "indicators"), ("fodder", "fodder")) if k in low]
+    return min(found)[1] if found else None
+
+
+def convert_tryhard(title_html, content_html, when):
+    clue = _text(title_html)
+    clue = re.sub(r"\s*[\u2013\u2014-]\s*Minute Cryptic Answer.*$", "", clue).strip()
+    text = _text(content_html)
+    m = re.search(r"The Answer is\W*([A-Z][A-Z' -]*[A-Z])\b", text)
+    if not clue or not m:
+        return None
+    answer = re.sub(r"\s+", " ", m.group(1)).strip()
+    # puzzles go live overnight; evening posts are for the next day's clue
+    stamp = when.replace("Z", "")[:19]
+    day = time.strptime(stamp[:10], "%Y-%m-%d")
+    hour = int(stamp[11:13]) if len(stamp) > 12 else 12
+    epoch = time.mktime(day) + (86400 if hour >= 15 else 0) + 7200
+    date = time.strftime("%Y-%m-%d", time.localtime(epoch))
+    hints, seen_types = [], set()
+    seg = content_html
+    a = seg.find("Helpful Hints")
+    b = seg.find("We hope that helps")
+    if a != -1:
+        seg = seg[a:b if b > a else None]
+        for para in re.findall(r"<(?:p|li)[^>]*>(.*?)</(?:p|li)>", seg, re.S):
+            para = _text(para)
+            typ = _hint_type(para)
+            if not para or not typ or typ in seen_types:
+                continue
+            seen_types.add(typ)
+            colour = {"indicators": "pink", "fodder": "yellow", "definition": "blue"}[typ]
+            hints.append({"text": para, "type": typ, "colour": colour, "highlighting": highlight_ranges(clue, para)})
+    order = {"indicators": 0, "fodder": 1, "definition": 2}
+    hints.sort(key=lambda h: order[h["type"]])
+    words = answer.split(" ")
+    letters = "".join(words)
+    return {
+        "puzzleId": None,
+        "date": date,
+        "clue": [{"text": w, "type": None} for w in clue.split(" ")],
+        "answer": answer,
+        "config": [len(w) for w in words],
+        "letterRevealOrder": reveal_order(len(letters)),
+        "hint": None,
+        "hints": hints,
+        "par": None,
+        "parDetails": None,
+        "setterName": None,
+        "explainerVideo": None,
+        "thumbnail": None,
+        "source": "tryhardguides.com",
+    }
+
+
+def _norm(s):
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
+def tryhard():
+    known = set()
+    for path in PUZZLE_DIR.glob("????-??-??.json"):
+        p = json.loads(path.read_text())
+        known.add(_norm(" ".join(c["text"] for c in p["clue"])))
+    added = total = 0
+    for title_html, content_html, when in _tryhard_posts():
+        total += 1
+        p = convert_tryhard(title_html, content_html, when)
+        if not p or _norm(" ".join(c["text"] for c in p["clue"])) in known:
+            continue
+        if existing_source(p["date"]) is not None:
+            print(f"  skip {p['date']} (date taken): {p['answer']}", flush=True)
+            continue
+        write(p)
+        known.add(_norm(" ".join(c["text"] for c in p["clue"])))
+        added += 1
+        print(f"  tryhard {p['date']} {p['answer']}", flush=True)
+    print(f"tryhardguides: {total} posts, added {added}", flush=True)
+
+
 def main():
     PUZZLE_DIR.mkdir(exist_ok=True)
-    which = sys.argv[1:] or ["today", "wayback"]
+    which = sys.argv[1:] or ["today", "tryhard"]
     if "today" in which:
         minutecryptic_today()
+        build_index()
+    if "tryhard" in which:
+        tryhard()
         build_index()
     if "wayback" in which:
         wayback()

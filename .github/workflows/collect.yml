@@ -9,7 +9,7 @@ on:
         description: "Optional space-separated puzzle ids to fetch"
         required: false
       backfill:
-        description: "Also backfill past puzzles from minutecryptic.today"
+        description: "Also backfill past puzzles from minutecryptic.today and tryhardguides.com"
         type: boolean
         default: false
 
@@ -31,7 +31,7 @@ jobs:
           BACKFILL: ${{ github.event.inputs.backfill }}
         run: |
           if [ "$BACKFILL" = "true" ]; then
-            python scripts/backfill.py today || echo "backfill finished with errors"
+            python scripts/backfill.py today tryhard || echo "backfill finished with errors"
           fi
           if [ -n "$IDS" ]; then
             python scripts/collect.py --id $IDS

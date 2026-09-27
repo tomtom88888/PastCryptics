@@ -281,7 +281,7 @@ function dotsHTML() {
     const cls = ["dot", kind === "HINT" ? "hintDot" : "", kind === "LETTER" ? "letterDot" : "", i === parIndex ? "parDot" : ""].join(" ");
     html += `<div class="progressSlot"><div class="${cls}"></div>${i === parIndex ? '<span class="parWord">par</span>' : ""}</div>`;
   }
-  const parNote = game.par == null && game.p.date >= COMMUNITY_PAR_START ? `<p class="noPar">No community par yet</p>` : "";
+  const parNote = game.par == null && game.p.date >= COMMUNITY_PAR_START && !game.p.source ? `<p class="noPar">No community par yet</p>` : "";
   return `<div class="progressDots${total > 12 ? " many" : ""}" aria-label="${game.help.length} help used${game.par != null ? `, par ${game.par}` : ""}">${html}</div>${parNote}`;
 }
 
