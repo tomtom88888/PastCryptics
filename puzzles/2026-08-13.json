@@ -1,0 +1,102 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 178,
+  "date": "2026-08-13",
+  "clue": [
+    {
+      "text": "Get",
+      "type": null
+    },
+    {
+      "text": "33%",
+      "type": null
+    },
+    {
+      "text": "off",
+      "type": null
+    },
+    {
+      "text": "any",
+      "type": null
+    },
+    {
+      "text": "delivery!",
+      "type": null
+    },
+    {
+      "text": "Link",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "bio?",
+      "type": null
+    }
+  ],
+  "answer": "GENE",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are '33% off' and 'delivery'. One of these is a deletion indicator suggesting that we shorten some neighbouring fodder by a certain amount. And the other is a homophone indicator guiding us to pay attention to what an adjacent word sounds like when it's pronounced, and to replace it with one or more soundalike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          11
+        ],
+        [
+          16,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Get' and 'any'. We'll use the letters of one of these with a guided substitution for the other to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          12,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Link in bio?', and the question mark flags that we'll need to think outside the box for this clue. Our answer will be a kind of 'link in bio', but not the one you'd see on a social media profile.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          26,
+          38
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Jojo! & Liam",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

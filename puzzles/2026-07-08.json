@@ -1,0 +1,110 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 142,
+  "date": "2026-07-08",
+  "clue": [
+    {
+      "text": "The",
+      "type": null
+    },
+    {
+      "text": "essence",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "simplicity",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "it",
+      "type": null
+    },
+    {
+      "text": "doesn't",
+      "type": null
+    },
+    {
+      "text": "need",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "be",
+      "type": null
+    },
+    {
+      "text": "said!",
+      "type": null
+    }
+  ],
+  "answer": "IMPLICIT",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'The essence of', and it's a selection indicator. Often 'essence' will point to the core or central letter of a word ('essence', 'core' and 'centre' all being synonyms). But another meaning of 'essence' is 'substance' - that which is not superficial - and it's used in this clue to indicate that we should select the internal letters of some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'simplicity'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'it doesn't need to be said', and our answer will be another way of expressing that idea.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          28,
+          54
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Bluejay",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

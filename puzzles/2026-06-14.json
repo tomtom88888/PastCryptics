@@ -1,0 +1,117 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 118,
+  "date": "2026-06-14",
+  "clue": [
+    {
+      "text": "Romans",
+      "type": null
+    },
+    {
+      "text": "blasted",
+      "type": null
+    },
+    {
+      "text": "stern",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "enemy",
+      "type": null
+    },
+    {
+      "text": "craft",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "variety",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "mortars",
+      "type": null
+    }
+  ],
+  "answer": "MASONRY",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'blasted' and 'stern of'. One of these is a selection indicator naming the position of an important letter in neighbouring fodder. The other is an anagram indicator - some neighbouring fodder has been destroyed and its letters have rearranged in the process.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          14
+        ],
+        [
+          15,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Romans' and 'enemy'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          24,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'craft with a variety of mortars', and our answer will be a kind of craft that uses a variety of mortars.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          30,
+          61
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Cory Calhoun",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

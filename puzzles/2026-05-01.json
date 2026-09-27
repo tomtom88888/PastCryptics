@@ -1,0 +1,96 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 75,
+  "date": "2026-05-01",
+  "clue": [
+    {
+      "text": "“Mister,",
+      "type": null
+    },
+    {
+      "text": "if",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "were",
+      "type": null
+    },
+    {
+      "text": "you!”",
+      "type": null
+    },
+    {
+      "text": "shouted",
+      "type": null
+    },
+    {
+      "text": "marshal",
+      "type": null
+    }
+  ],
+  "answer": "MUSTER",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'if...were', and 'shouted'. 'if... were' is an interesting kind of replacement indicator - we'll need to imagine what a word would look like if one of its parts were actually something else. And 'shouted' is a homophone indicator - we'll need to say a neighbouring word aloud and replace it with its sound-alike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          25,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Mister', and 'you'. We'll use these words to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          1,
+          7
+        ],
+        [
+          19,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'marshal', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Luc E",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

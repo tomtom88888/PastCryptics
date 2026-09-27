@@ -1,0 +1,87 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 813,
+  "date": "2026-09-16",
+  "clue": [
+    {
+      "text": "Vanilla?",
+      "type": null
+    },
+    {
+      "text": "Ugh!",
+      "type": null
+    },
+    {
+      "text": "Terrible",
+      "type": null
+    },
+    {
+      "text": "ingredient",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "one's",
+      "type": null
+    },
+    {
+      "text": "gag",
+      "type": null
+    },
+    {
+      "text": "reflex?",
+      "type": null
+    }
+  ],
+  "answer": "LAUGHTER",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Vanilla? Ugh! Terrible'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'one's gag reflex?' and note the question mark - it flags that our definition is a little stretchy. Our answer will be a word for a gag reflex (if you think outside the box).",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          38,
+          55
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Bluejay",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

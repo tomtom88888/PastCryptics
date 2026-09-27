@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 179,
+  "date": "2026-08-14",
+  "clue": [
+    {
+      "text": "Mike",
+      "type": null
+    },
+    {
+      "text": "Tyson",
+      "type": null
+    },
+    {
+      "text": "ear-chewing",
+      "type": null
+    },
+    {
+      "text": "habit",
+      "type": null
+    },
+    {
+      "text": "adopted",
+      "type": null
+    },
+    {
+      "text": "here",
+      "type": null
+    }
+  ],
+  "answer": "MONASTERY",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'chewing' and it's an anagram indicator - we'll need to be chewing up some neighbouring letters, breaking them up and rearranging them.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Mike', and 'Tyson ear'. We'll need to find a common short substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          5,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'habit adopted here', and our answer will be a place where someone takes on a habit.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          23,
+          41
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Johnny Quarrie & Angas",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

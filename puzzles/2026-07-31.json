@@ -1,0 +1,85 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 165,
+  "date": "2026-07-31",
+  "clue": [
+    {
+      "text": "Shouting",
+      "type": null
+    },
+    {
+      "text": "“$&%#!”",
+      "type": null
+    },
+    {
+      "text": "they",
+      "type": null
+    },
+    {
+      "text": "crash",
+      "type": null
+    },
+    {
+      "text": "loudly",
+      "type": null
+    }
+  ],
+  "answer": "CYMBALS",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Shouting', and it's a homophone indicator. We'll need to say aloud some neighbouring fodder (or its substitute) and replace it with its soundalike to reach our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is '$&%#!'. We'll need to substitute these with something that can represent them to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'they crash loudly', and our answer will be things that are known to crash loudly.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          17,
+          34
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: jojo!",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

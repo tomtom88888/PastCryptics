@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 56,
+  "date": "2026-04-12",
+  "clue": [
+    {
+      "text": "Great",
+      "type": null
+    },
+    {
+      "text": "Britain’s",
+      "type": null
+    },
+    {
+      "text": "currency",
+      "type": null
+    },
+    {
+      "text": "bracing",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "recession",
+      "type": null
+    }
+  ],
+  "answer": "PROFOUND",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'bracing' and 'recession'. 'bracing' is a containing indicator - one word will brace or externally support some other letters. And 'recession' (an act of retreat or motion away from) is a reversal indicator, guiding us to turn a word around.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          25,
+          32
+        ],
+        [
+          37,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Britain’s currency' and 'for'. We'll need to find a substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          24
+        ],
+        [
+          33,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Great', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: ThatObserver",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

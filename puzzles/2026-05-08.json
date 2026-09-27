@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 82,
+  "date": "2026-05-08",
+  "clue": [
+    {
+      "text": "Miner",
+      "type": null
+    },
+    {
+      "text": "found",
+      "type": null
+    },
+    {
+      "text": "quivering",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "dark",
+      "type": null
+    }
+  ],
+  "answer": "UNINFORMED",
+  "config": [
+    10
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'quivering' and it's an anagram indicator. Some nearby letters will be shaking around and their order will change.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Miner found'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'in the dark', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          22,
+          33
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Nate Mizelle",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

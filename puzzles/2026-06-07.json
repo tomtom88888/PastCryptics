@@ -1,0 +1,90 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 112,
+  "date": "2026-06-07",
+  "clue": [
+    {
+      "text": "Well,",
+      "type": null
+    },
+    {
+      "text": "content,",
+      "type": null
+    },
+    {
+      "text": "wonderful,",
+      "type": null
+    },
+    {
+      "text": "first",
+      "type": null
+    },
+    {
+      "text": "rate,",
+      "type": null
+    },
+    {
+      "text": "smashing!",
+      "type": null
+    }
+  ],
+  "answer": "WATER",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'first' and 'smashing'. One is an anagram indicator guiding us to break up a neighbouring word into pieces and rearrange them. The other is a selection indicator that names the position of an important letter in an adjacent word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          26,
+          31
+        ],
+        [
+          38,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'wonderful' and 'rate'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          24
+        ],
+        [
+          32,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Well content', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Bluejay",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

@@ -1,0 +1,119 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 143,
+  "date": "2026-07-09",
+  "clue": [
+    {
+      "text": "Weathered",
+      "type": null
+    },
+    {
+      "text": "tin",
+      "type": null
+    },
+    {
+      "text": "sign",
+      "type": null
+    },
+    {
+      "text": "adorning",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "outskirts",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Venice:",
+      "type": null
+    },
+    {
+      "text": "“Sinking",
+      "type": null
+    },
+    {
+      "text": "Capital”",
+      "type": null
+    }
+  ],
+  "answer": "INVESTING",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Weathered', 'adorning', and 'the outskirts of'. One of these is a selection indicator naming the positions of important letters in neighbouring fodder. Another is an anagram indicator - some nearby fodder will degrade, its structure will collapse and its letters will rearrange. And a third is a containing indicator telling us to put some fodder around the outside of other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          9
+        ],
+        [
+          19,
+          27
+        ],
+        [
+          28,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'tin sign' and 'Venice'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          18
+        ],
+        [
+          45,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Sinking Capital' and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          54,
+          69
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Steve Knight",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

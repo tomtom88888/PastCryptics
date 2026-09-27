@@ -1,0 +1,89 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 144,
+  "date": "2026-07-10",
+  "clue": [
+    {
+      "text": "Our",
+      "type": null
+    },
+    {
+      "text": "cousins",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "grandparents",
+      "type": null
+    },
+    {
+      "text": "playing",
+      "type": null
+    },
+    {
+      "text": "“Duck",
+      "type": null
+    },
+    {
+      "text": "Duck",
+      "type": null
+    },
+    {
+      "text": "Goose”?",
+      "type": null
+    }
+  ],
+  "answer": "APES",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'playing Duck Duck Goose', and it's a selection indicator (Duck Duck Goose is literally a game of selection and non-selection). If we apply this selection idea to our fodder we can arrive at our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": []
+    },
+    {
+      "text": "This clue's fodder is 'grandparents'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          16,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Our cousins', and our answer will be a word can represent that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Ben Stuart",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

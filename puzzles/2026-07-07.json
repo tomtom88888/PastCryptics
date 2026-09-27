@@ -1,0 +1,102 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 141,
+  "date": "2026-07-07",
+  "clue": [
+    {
+      "text": "Hitting",
+      "type": null
+    },
+    {
+      "text": "easy",
+      "type": null
+    },
+    {
+      "text": "targets",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "purchasing",
+      "type": null
+    },
+    {
+      "text": "over",
+      "type": null
+    },
+    {
+      "text": "2K",
+      "type": null
+    },
+    {
+      "text": "followers?",
+      "type": null
+    }
+  ],
+  "answer": "BULLYING",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'over' and it's a containing indicator - we'll take what precedes it and put it over or around what follows.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          35,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'purchasing' and '2K followers?', and we'll need to find substitutes for both of these. The substitute for 'purchasing' is a straightforward synonym, but we'll need to think outside the box to get the letters that substitute in for '2K followers?'.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          34
+        ],
+        [
+          40,
+          53
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Hitting easy targets', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          20
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Asaf Isser, Liam & Angas",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

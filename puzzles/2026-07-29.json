@@ -1,0 +1,109 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 163,
+  "date": "2026-07-29",
+  "clue": [
+    {
+      "text": "Pilot,",
+      "type": null
+    },
+    {
+      "text": "lost",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "geographical",
+      "type": null
+    },
+    {
+      "text": "misprint,",
+      "type": null
+    },
+    {
+      "text": "lands",
+      "type": null
+    },
+    {
+      "text": "at",
+      "type": null
+    },
+    {
+      "text": "sea",
+      "type": null
+    }
+  ],
+  "answer": "ARCHIPELAGO",
+  "config": [
+    11
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Pilot', 'lost from' and 'misprint'. One of these is a deletion indicator guiding us to remove one or more letters from some neighbouring fodder. Another is a selection indicator naming the position of an important letter in fodder. And a third is an anagram indicator - some adjacent letters will need to be written in a different order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          5
+        ],
+        [
+          7,
+          16
+        ],
+        [
+          30,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'geographical'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          17,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'lands at sea', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          52
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 4,
+    "solveCount": null
+  },
+  "setterName": "Member: Llion and Liam",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

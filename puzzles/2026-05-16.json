@@ -1,0 +1,118 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 90,
+  "date": "2026-05-16",
+  "clue": [
+    {
+      "text": "Westbound",
+      "type": null
+    },
+    {
+      "text": "lanes",
+      "type": null
+    },
+    {
+      "text": "clogged",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "car",
+      "type": null
+    },
+    {
+      "text": "show",
+      "type": null
+    },
+    {
+      "text": "regulars",
+      "type": null
+    },
+    {
+      "text": "every",
+      "type": null
+    },
+    {
+      "text": "summer,",
+      "type": null
+    },
+    {
+      "text": "perhaps",
+      "type": null
+    }
+  ],
+  "answer": "SEASONAL",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Westbound', 'clogged by', and 'regulars'. One of these is a selection indicator naming the positions of specific letters for us to focus on. Another is a containing indicator - some fodder will go inside other fodder. And a third is a reversal indicator instructing us to turn some fodder around.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          9
+        ],
+        [
+          16,
+          26
+        ],
+        [
+          36,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'lanes' and 'car show'. These letters are the ingredients of our answer - use them as instructed by the indicators to build a word that matches our definition.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          15
+        ],
+        [
+          27,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'every summer, perhaps', and our answer will be a category of which 'every summer' is an example",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          45,
+          66
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Abdul K",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

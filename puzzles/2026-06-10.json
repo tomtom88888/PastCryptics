@@ -1,0 +1,99 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 114,
+  "date": "2026-06-10",
+  "clue": [
+    {
+      "text": "Hit",
+      "type": null
+    },
+    {
+      "text": "between",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "eyes,",
+      "type": null
+    },
+    {
+      "text": "vocal",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "umpire",
+      "type": null
+    }
+  ],
+  "answer": "THUMP",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'between the' and 'vocal'. 'vocal' is a homophone indicator, guiding us to take a vocal version of a neighbouring word - say the word aloud and find its soundalike. And 'between the' is a hidden word indicator. Once we've solved what 'vocal' is doing, we'll look in between what it references to find our answer hiding.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          15
+        ],
+        [
+          22,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'eyes', and 'with umpire'. We'll use the letters of one with a specified substitute for the other to find our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          16,
+          20
+        ],
+        [
+          28,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Hit', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Ben Stuart",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

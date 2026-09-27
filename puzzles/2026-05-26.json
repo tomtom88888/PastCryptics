@@ -1,0 +1,114 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 100,
+  "date": "2026-05-26",
+  "clue": [
+    {
+      "text": "Managed",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "return",
+      "type": null
+    },
+    {
+      "text": "dog",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "shelter…",
+      "type": null
+    },
+    {
+      "text": "never",
+      "type": null
+    },
+    {
+      "text": "played",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    }
+  ],
+  "answer": "GOVERNED",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'to return', 'to shelter', and 'played with'. One of these is an anagram indicator - we'll need to manipulate some letters by rearranging them. Another is a containing indicator guiding us to house some letters inside others. And a third is a reversal indicator - turn some neighbouring letters around the other way.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          17
+        ],
+        [
+          22,
+          32
+        ],
+        [
+          40,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'dog' and 'never'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          18,
+          21
+        ],
+        [
+          34,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Managed', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: LCameron",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

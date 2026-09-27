@@ -1,0 +1,66 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 821,
+  "date": "2026-09-24",
+  "clue": [
+    {
+      "text": "The",
+      "type": null
+    },
+    {
+      "text": "Godfather",
+      "type": null
+    },
+    {
+      "text": "Part",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    }
+  ],
+  "answer": "EGO",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'The Godfather'. We'll use some of these letters to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'I', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          19,
+          20
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": null
+  },
+  "setterName": "Member: Tom Kaplan",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

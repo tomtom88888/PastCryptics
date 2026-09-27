@@ -1,0 +1,90 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 38,
+  "date": "2026-03-25",
+  "clue": [
+    {
+      "text": "Baby",
+      "type": null
+    },
+    {
+      "text": "shower",
+      "type": null
+    },
+    {
+      "text": "starts",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "unwrapping",
+      "type": null
+    },
+    {
+      "text": "mother’s",
+      "type": null
+    },
+    {
+      "text": "presents",
+      "type": null
+    }
+  ],
+  "answer": "BUMP",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'starts' and it's a selection indicator, guiding us to focus on the letters occupying specific positions in some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'by unwrapping mother’s presents'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          19,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Baby shower', and this is an example of an agent noun - nouns that identify the 'doer' of a verb. Cryptic writers use agent nouns in tricky ways; here, we're looking for something that SHOWS a baby - a baby shower!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Junaid W",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

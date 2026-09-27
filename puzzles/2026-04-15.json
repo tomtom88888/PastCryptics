@@ -1,0 +1,114 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 59,
+  "date": "2026-04-15",
+  "clue": [
+    {
+      "text": "City",
+      "type": null
+    },
+    {
+      "text": "block",
+      "type": null
+    },
+    {
+      "text": "shared",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "women",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "gnomes",
+      "type": null
+    },
+    {
+      "text": "beyond",
+      "type": null
+    },
+    {
+      "text": "Middle",
+      "type": null
+    },
+    {
+      "text": "Earth",
+      "type": null
+    }
+  ],
+  "answer": "ROME",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'block shared by', 'beyond', and 'Middle'. 'Middle' is a common selector highlighting a letter in some neighbouring fodder by naming its position. 'block shared by' is also a selector, but far less common. It's aiming to point out a collection or block of letters that are common to multiple pieces of fodder. 'beyond' is a simple repositioning indicator, showing us how to position one chunk of fodder relative to another.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          20
+        ],
+        [
+          38,
+          44
+        ],
+        [
+          45,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'women and gnomes' and 'Earth'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          21,
+          37
+        ],
+        [
+          52,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'City', and our answer will be a well-known city.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Liam Runnalls",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

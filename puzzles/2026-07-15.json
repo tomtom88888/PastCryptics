@@ -1,0 +1,123 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 149,
+  "date": "2026-07-15",
+  "clue": [
+    {
+      "text": "Scoop",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "lemon",
+      "type": null
+    },
+    {
+      "text": "gelato",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "twist",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "little",
+      "type": null
+    },
+    {
+      "text": "something",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "garden",
+      "type": null
+    }
+  ],
+  "answer": "GNOME",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Scoop of' and 'with a twist'. One of these is a hidden word indicator guiding us to take a subset of consecutive letters from some neighbouring fodder. The other is a reversal indicator - once we've selected our letters we'll need to turn them around to reach our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          22,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'lemon gelato'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'a little something from the garden', and our answer will be something fitting that description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          37,
+          71
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Members: Rusty Lee & Ben Stuart",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

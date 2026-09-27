@@ -1,0 +1,118 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 139,
+  "date": "2026-07-05",
+  "clue": [
+    {
+      "text": "One",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "many",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "board",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "witness",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "start",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "dawn",
+      "type": null
+    },
+    {
+      "text": "cycling?",
+      "type": null
+    }
+  ],
+  "answer": "PAWN",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'to witness', 'the start of', and 'cycling'. One of these is a selection indicator naming the position of one important letter to focus on in neighbouring fodder. Another is a homoglyph indicator guiding us to pay attention to what something looks like - to its shape. This homoglyph indicator is paired with a kind of transformation indicator - take that shape and transform it by putting a new spin on it. What letter does it look like when you've done that.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          21,
+          31
+        ],
+        [
+          32,
+          44
+        ],
+        [
+          50,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'dawn'. In one way or another, we'll use all of these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          45,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'One of many on board', and our answer will be something you find many of on a board.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          20
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Liam and Angas",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

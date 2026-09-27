@@ -1,0 +1,122 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 161,
+  "date": "2026-07-27",
+  "clue": [
+    {
+      "text": "5❤️",
+      "type": null
+    },
+    {
+      "text": "5♦️",
+      "type": null
+    },
+    {
+      "text": "2❤️",
+      "type": null
+    },
+    {
+      "text": "6♠️",
+      "type": null
+    },
+    {
+      "text": "—",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "pair",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "fives?",
+      "type": null
+    }
+  ],
+  "answer": "TOES",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are '5', '5', '2', and '6', and they're all selection indicators naming the positions of important letters in neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          1
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          8,
+          9
+        ],
+        [
+          12,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is '❤️', '♦️', '❤️', '♠️'. We'll use these symbols and the words they represent to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          1,
+          3
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          9,
+          11
+        ],
+        [
+          13,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'a pair of fives?', and the question mark flags that we need to think a little outside the box on this one. In a manner of speaking, our answer will represent a pair of fives.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          18,
+          34
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Members: Sakul R and Rusty Lee",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

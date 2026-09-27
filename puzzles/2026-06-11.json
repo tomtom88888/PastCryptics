@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 115,
+  "date": "2026-06-11",
+  "clue": [
+    {
+      "text": "Knit,",
+      "type": null
+    },
+    {
+      "text": "lace",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "darn",
+      "type": null
+    },
+    {
+      "text": "twelve",
+      "type": null
+    },
+    {
+      "text": "sheets",
+      "type": null
+    },
+    {
+      "text": "together?",
+      "type": null
+    }
+  ],
+  "answer": "CALENDAR",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Knit', and it's an anagram indicator. If we knit some neighbouring words, they will move over and under and around themselves, anagramming.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'lace' and 'darn'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          10
+        ],
+        [
+          15,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'twelve sheets together?'. We're looking for something comprising twelve sheets...",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          43
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Matt C with Liam",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

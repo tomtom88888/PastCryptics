@@ -1,0 +1,68 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 797,
+  "date": "2026-08-31",
+  "clue": [
+    {
+      "text": "Ironclad",
+      "type": null
+    },
+    {
+      "text": "Orc",
+      "type": null
+    },
+    {
+      "text": "army",
+      "type": null
+    }
+  ],
+  "answer": "FORCE",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Iron' and 'Orc'. We'll need to find a short substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          9,
+          12
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'army', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          13,
+          17
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": null
+  },
+  "setterName": "Member: willn",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

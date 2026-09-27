@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 800,
+  "date": "2026-09-03",
+  "clue": [
+    {
+      "text": "Eggs",
+      "type": null
+    },
+    {
+      "text": "squeezed",
+      "type": null
+    },
+    {
+      "text": "out",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "rooster?",
+      "type": null
+    },
+    {
+      "text": "That’s",
+      "type": null
+    },
+    {
+      "text": "unusual…",
+      "type": null
+    },
+    {
+      "text": "most",
+      "type": null
+    },
+    {
+      "text": "unusual",
+      "type": null
+    }
+  ],
+  "answer": "RAREST",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Eggs', and 'a rooster'. We'll need to find a classic cryptic substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          21,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'most unusual', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          48,
+          60
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Sean Rich",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

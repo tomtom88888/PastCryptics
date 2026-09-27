@@ -1,0 +1,79 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 809,
+  "date": "2026-09-12",
+  "clue": [
+    {
+      "text": "What's",
+      "type": null
+    },
+    {
+      "text": "more",
+      "type": null
+    },
+    {
+      "text": "attractive:",
+      "type": null
+    },
+    {
+      "text": "legs,",
+      "type": null
+    },
+    {
+      "text": "shoulders,",
+      "type": null
+    },
+    {
+      "text": "or",
+      "type": null
+    },
+    {
+      "text": "faces?",
+      "type": null
+    }
+  ],
+  "answer": "ALSO",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'attractive: legs, shoulders, or'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'What's more', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": null
+  },
+  "setterName": "Member: Bluejay",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

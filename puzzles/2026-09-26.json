@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 823,
+  "date": "2026-09-26",
+  "clue": [
+    {
+      "text": "Suspect’s",
+      "type": null
+    },
+    {
+      "text": "face",
+      "type": null
+    },
+    {
+      "text": "forgotten",
+      "type": null
+    },
+    {
+      "text": "when",
+      "type": null
+    },
+    {
+      "text": "recalling",
+      "type": null
+    },
+    {
+      "text": "details?",
+      "type": null
+    },
+    {
+      "text": "I'm,",
+      "type": null
+    },
+    {
+      "text": "uh,",
+      "type": null
+    },
+    {
+      "text": "embarrassed",
+      "type": null
+    }
+  ],
+  "answer": "HUMILIATED",
+  "config": [
+    10
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Suspect' and 'details? I'm, uh,'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          40,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'embarrassed', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          58,
+          69
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Cory Calhoun",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

@@ -1,0 +1,96 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 78,
+  "date": "2026-05-04",
+  "clue": [
+    {
+      "text": "Animal",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "farm",
+      "type": null
+    },
+    {
+      "text": "yard",
+      "type": null
+    },
+    {
+      "text": "–",
+      "type": null
+    },
+    {
+      "text": "headless",
+      "type": null
+    },
+    {
+      "text": "chicken?",
+      "type": null
+    }
+  ],
+  "answer": "COWARD",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'headless' and it's a deletion indicator. We'll need to hold onto some neighbouring fodder, just without its head (first) letter.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          24,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Animal from farm', and 'yard'. We'll need to find a common example of a farm animal and pair it with letters from 'yard' to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          16
+        ],
+        [
+          17,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'chicken', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Leah",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

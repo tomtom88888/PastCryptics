@@ -1,0 +1,89 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 40,
+  "date": "2026-03-27",
+  "clue": [
+    {
+      "text": "Forwarded",
+      "type": null
+    },
+    {
+      "text": "letters",
+      "type": null
+    },
+    {
+      "text": "twice",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "ice-cold",
+      "type": null
+    },
+    {
+      "text": "beer",
+      "type": null
+    },
+    {
+      "text": "distributor?",
+      "type": null
+    }
+  ],
+  "answer": "KEG",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Forwarded letters twice from', and it's doing two things. The first concept it's hinting at is that we need to move the letters in the fodder forward - those letters will be forwarded. But we're not moving them forward relative to each other - they're all moving forward (relative to every other letter in a famously ordered set of letters). The second idea is that these letters are forwarded in this way not once, but twice.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'ice'. We'll take these letters and use them to locate the letters of our answer, as guided by this clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          20,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'cold beer distributor', and our answer will be the name of something that distributes cold beer.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          54
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Cory Calhoun",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

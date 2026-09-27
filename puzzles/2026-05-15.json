@@ -1,0 +1,103 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 89,
+  "date": "2026-05-15",
+  "clue": [
+    {
+      "text": "Admission",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "“Long",
+      "type": null
+    },
+    {
+      "text": "time,",
+      "type": null
+    },
+    {
+      "text": "no",
+      "type": null
+    },
+    {
+      "text": "see”,",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "overheard",
+      "type": null
+    },
+    {
+      "text": "(5)",
+      "type": null
+    }
+  ],
+  "answer": "ENTRY",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'no' and 'overheard'. 'no' is a deletion indicator guiding us to remove what follows it from what precedes it. 'overheard' is a homophone indicator - say aloud some neighbouring fodder and replace it with its soundalike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          25,
+          27
+        ],
+        [
+          38,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Long time' and 'see you'. We'll need to find a substitute for 'Long time' - think words like 'epoch', 'age', 'decade', 'millennia', or _____. We'll need to use this substitute with the words 'see you' to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          14,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Admission', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Bluejay, Cory, Liam, Angas",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

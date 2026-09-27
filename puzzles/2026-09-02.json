@@ -1,0 +1,80 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 799,
+  "date": "2026-09-02",
+  "clue": [
+    {
+      "text": "Harvard",
+      "type": null
+    },
+    {
+      "text": "or",
+      "type": null
+    },
+    {
+      "text": "MIT",
+      "type": null
+    },
+    {
+      "text": "or",
+      "type": null
+    },
+    {
+      "text": "Yale",
+      "type": null
+    },
+    {
+      "text": "housing!",
+      "type": null
+    }
+  ],
+  "answer": "DORMITORY",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Harvard or MIT or Yale'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is the definition and the whole clue is the wordplay. So, our definition here is 'Harvard or MIT or Yale housing!', and our answer will be a word for the kind of housing you might find at those institutions.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          31
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": null
+  },
+  "setterName": "Member: Rusty Lee",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

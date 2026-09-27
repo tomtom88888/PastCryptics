@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 146,
+  "date": "2026-07-12",
+  "clue": [
+    {
+      "text": "Bob,",
+      "type": null
+    },
+    {
+      "text": "Deb",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "Jacob",
+      "type": null
+    },
+    {
+      "text": "all",
+      "type": null
+    },
+    {
+      "text": "have",
+      "type": null
+    },
+    {
+      "text": "these",
+      "type": null
+    },
+    {
+      "text": "kinks",
+      "type": null
+    }
+  ],
+  "answer": "BENDS",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'all have these' and it's asking us to recognise a pattern - what characteristic is shared by the parts of the fodder? It might be helpful to categorise this clue as a type of rebus, where you 'say what you see': the fodder all have ____!",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          19,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Bob, Deb and Jacob'. We'll use these words as the raw ingredients to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'kinks', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          34,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Liam Runnalls",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

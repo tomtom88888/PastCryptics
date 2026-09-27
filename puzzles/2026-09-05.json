@@ -1,0 +1,87 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 802,
+  "date": "2026-09-05",
+  "clue": [
+    {
+      "text": "Say,",
+      "type": null
+    },
+    {
+      "text": "why",
+      "type": null
+    },
+    {
+      "text": "are",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "jay-walking",
+      "type": null
+    },
+    {
+      "text": "around",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "judging",
+      "type": null
+    },
+    {
+      "text": "people?",
+      "type": null
+    }
+  ],
+  "answer": "JURY",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'why are you jay'. We'll use these words to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'judging people', and our answer will be a word for judging people.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          54
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": null
+  },
+  "setterName": "Member: Sakul R",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

@@ -1,0 +1,90 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 43,
+  "date": "2026-03-30",
+  "clue": [
+    {
+      "text": "Temp",
+      "type": null
+    },
+    {
+      "text": "receptionist",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "intern,",
+      "type": null
+    },
+    {
+      "text": "between",
+      "type": null
+    },
+    {
+      "text": "jobs?",
+      "type": null
+    }
+  ],
+  "answer": "STAND IN",
+  "config": [
+    5,
+    2
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'between jobs?' and it's a very particular kind of hidden word indicator - one that only really works with this clue. We'll need to look (inclusively) between the jobs in this clue to find our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          30,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'receptionist and intern'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Temp', and our answer will be another term for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Chris Paget",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

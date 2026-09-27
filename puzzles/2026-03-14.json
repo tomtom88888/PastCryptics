@@ -1,0 +1,105 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 27,
+  "date": "2026-03-14",
+  "clue": [
+    {
+      "text": "Rats",
+      "type": null
+    },
+    {
+      "text": "rolling",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "mud",
+      "type": null
+    },
+    {
+      "text": "splatter",
+      "type": null
+    },
+    {
+      "text": "it",
+      "type": null
+    },
+    {
+      "text": "over",
+      "type": null
+    },
+    {
+      "text": "dogs?",
+      "type": null
+    }
+  ],
+  "answer": "MUSTARD",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'rolling' and 'in'. One of these is a reversal indicator guiding us to turn a word over. The other is a containing letter - we'll need to put some fodder inside some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          12
+        ],
+        [
+          13,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Rats' and 'mud'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          16,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'splatter it over dogs?', and note the question mark indicating a little stretch here. This is a descriptive definition, and our answer will be something that is splattered over (a kind of) dogs.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          42
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: LCameron",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

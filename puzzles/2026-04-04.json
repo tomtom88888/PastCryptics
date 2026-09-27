@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 48,
+  "date": "2026-04-04",
+  "clue": [
+    {
+      "text": "Backboard",
+      "type": null
+    },
+    {
+      "text": "without",
+      "type": null
+    },
+    {
+      "text": "hoop",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "dull",
+      "type": null
+    }
+  ],
+  "answer": "DRAB",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Back' and 'without'. 'Back' could be a selection indicator telling us to take the 'back' letter of 'board', or it could be a reversal indicator guiding us to put something in the opposite direction. And 'without' is a deletion indicator - we'll need to delete some fodder from some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          4,
+          9
+        ],
+        [
+          10,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'board' and 'hoop'. We'll use the letters of one of these with a short substitute for the other to construct our answer, as guided by the clue's indicator(s). Hint: we'll need to think about what letter might correspond with a shape referenced in the clue.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          4,
+          9
+        ],
+        [
+          18,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'dull', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          26,
+          30
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Stuart B.",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

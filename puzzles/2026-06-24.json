@@ -1,0 +1,99 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 128,
+  "date": "2026-06-24",
+  "clue": [
+    {
+      "text": "Hermit",
+      "type": null
+    },
+    {
+      "text": "perhaps",
+      "type": null
+    },
+    {
+      "text": "returning",
+      "type": null
+    },
+    {
+      "text": "alone,",
+      "type": null
+    },
+    {
+      "text": "wandering",
+      "type": null
+    },
+    {
+      "text": "city",
+      "type": null
+    }
+  ],
+  "answer": "BARCELONA",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'returning' and 'wandering'. One of these is a reversal indicator - we'll take some nearby fodder (words in the clue or their substitute) and turn them/it around. The other is an anagram indicator suggesting some movement among neighbouring letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          24
+        ],
+        [
+          32,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Hermit perhaps' and 'alone'. We'll use the letters of one along with a substitute for the other to construct our answer, as guided by the clue's indicator(s). Note: 'perhaps' is a word that prompts us to think of a higher level category to which 'hermit' might belong as an example.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          14
+        ],
+        [
+          25,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'city', and our answer will be a well-known city.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          42,
+          46
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "David Astle",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

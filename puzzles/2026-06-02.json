@@ -1,0 +1,107 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 107,
+  "date": "2026-06-02",
+  "clue": [
+    {
+      "text": "Very",
+      "type": null
+    },
+    {
+      "text": "well",
+      "type": null
+    },
+    {
+      "text": "done,",
+      "type": null
+    },
+    {
+      "text": "but",
+      "type": null
+    },
+    {
+      "text": "occupied",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "texting",
+      "type": null
+    },
+    {
+      "text": "right",
+      "type": null
+    },
+    {
+      "text": "now…",
+      "type": null
+    }
+  ],
+  "answer": "BURNT",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'occupied by', and 'texting'. 'texting' is a kind of translation indicator where we have to translate some neighbouring fodder into text-speak. If you don't know much text-speak, feel free to look it up! And 'occupied by' is a containing indicator - some fodder will be occupied by and house other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          20,
+          31
+        ],
+        [
+          32,
+          39
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'but' and 'right now'. We'll need to find a specific kind of substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          16,
+          19
+        ],
+        [
+          40,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Very well done', and our answer will be a word that can also mean 'very well done', in certain contexts.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Sean Rich",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

@@ -1,0 +1,101 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 190,
+  "date": "2026-08-25",
+  "clue": [
+    {
+      "text": "Stylish",
+      "type": null
+    },
+    {
+      "text": "family",
+      "type": null
+    },
+    {
+      "text": "saying",
+      "type": null
+    },
+    {
+      "text": "\"au",
+      "type": null
+    },
+    {
+      "text": "revoir\"",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "French",
+      "type": null
+    },
+    {
+      "text": "friend",
+      "type": null
+    }
+  ],
+  "answer": "FLY",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'saying \"au revoir\" to' and 'French'. One of these is a deletion indicator - some fodder will need to bid farewell to some of its letters. The other is a translation indicator guiding us to translate a neighbouring word into a foreign language (see Course 3 for more on translation techniques).",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          36
+        ],
+        [
+          37,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'family' and 'friend'. We'll need to use the letters of one of these with a specified substitution for the other to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          14
+        ],
+        [
+          44,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Stylish', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Sean Rich",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

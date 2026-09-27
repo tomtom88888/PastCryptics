@@ -1,0 +1,120 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 109,
+  "date": "2026-06-04",
+  "clue": [
+    {
+      "text": "Roused",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "worker",
+      "type": null
+    },
+    {
+      "text": "striking",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "rights",
+      "type": null
+    },
+    {
+      "text": "won",
+      "type": null
+    },
+    {
+      "text": "at",
+      "type": null
+    },
+    {
+      "text": "last!",
+      "type": null
+    }
+  ],
+  "answer": "AWOKEN",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'striking' and 'at last'. One of these is a selection indicator, naming the position of one or more important letters in some neighbouring fodder. The other is a deletion indicator - we'll need to eliminate some fodder from other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          19,
+          27
+        ],
+        [
+          41,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'a', 'worker', 'rights', and 'won'. We'll need to find a short substitute for one of these and use it with the letters of the others to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          11
+        ],
+        [
+          12,
+          18
+        ],
+        [
+          30,
+          36
+        ],
+        [
+          37,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Roused', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: LCameron",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

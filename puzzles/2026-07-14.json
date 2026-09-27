@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 148,
+  "date": "2026-07-14",
+  "clue": [
+    {
+      "text": "Start",
+      "type": null
+    },
+    {
+      "text": "midday",
+      "type": null
+    },
+    {
+      "text": "meal",
+      "type": null
+    },
+    {
+      "text": "around",
+      "type": null
+    },
+    {
+      "text": "midday",
+      "type": null
+    }
+  ],
+  "answer": "LAUNCH",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'around' and 'mid'. One is a selection indicator naming the position of an important letter in nearby fodder. The other is a containing indicator - some fodder will go around the outside of some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          6,
+          9
+        ],
+        [
+          18,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'midday meal' and 'day'. We'll need to find a common substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          17
+        ],
+        [
+          28,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Start', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Luc E",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

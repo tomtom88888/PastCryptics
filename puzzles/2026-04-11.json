@@ -1,0 +1,106 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 55,
+  "date": "2026-04-11",
+  "clue": [
+    {
+      "text": "Liam",
+      "type": null
+    },
+    {
+      "text": "releases",
+      "type": null
+    },
+    {
+      "text": "answer,",
+      "type": null
+    },
+    {
+      "text": "declaring",
+      "type": null
+    },
+    {
+      "text": "\"Oh,",
+      "type": null
+    },
+    {
+      "text": "it's",
+      "type": null
+    },
+    {
+      "text": "rather",
+      "type": null
+    },
+    {
+      "text": "stretchy?\"",
+      "type": null
+    }
+  ],
+  "answer": "LIMO",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'releases' and 'declaring'. One is a deletion indicator - some fodder will be let go from some other fodder. The other is a homophone indicator flagging that we'll need to say some neighbouring fodder out loud and replace it with its sound-alike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          13
+        ],
+        [
+          22,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Liam', 'answer', and 'Oh'. We'll need to find one-letter substitutes for two of these and combine them with the letters of the third to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          14,
+          20
+        ],
+        [
+          33,
+          35
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'it's rather stretchy?', and the question mark is a small tip-off that the definition might be... well... rather stretchy (or punny). In this case, our answer will be something that's known to stretch, in a manner of speaking.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          37,
+          58
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Liam Runnalls",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

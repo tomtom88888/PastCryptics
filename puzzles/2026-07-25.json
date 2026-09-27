@@ -1,0 +1,115 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 159,
+  "date": "2026-07-25",
+  "clue": [
+    {
+      "text": "Science",
+      "type": null
+    },
+    {
+      "text": "teacher:",
+      "type": null
+    },
+    {
+      "text": "\"Essentially,",
+      "type": null
+    },
+    {
+      "text": "cooking",
+      "type": null
+    },
+    {
+      "text": "meth",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "extremely",
+      "type": null
+    },
+    {
+      "text": "risky”",
+      "type": null
+    }
+  ],
+  "answer": "CHEMISTRY",
+  "config": [
+    9
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Essentially', 'cooking' and 'extremely'. Two of these are selection indicators naming the positions of important letters in neighbouring fodder. The other is an anagram indicator suggesting manipulation - we'll need to rearrange some adjacent letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          29
+        ],
+        [
+          31,
+          38
+        ],
+        [
+          47,
+          56
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'teacher', 'meth is', and 'risky'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          15
+        ],
+        [
+          39,
+          46
+        ],
+        [
+          57,
+          62
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Science', and our answer will be a kind of science.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Jamie L",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

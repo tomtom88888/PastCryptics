@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 152,
+  "date": "2026-07-18",
+  "clue": [
+    {
+      "text": "FIFA",
+      "type": null
+    },
+    {
+      "text": "World",
+      "type": null
+    },
+    {
+      "text": "Cup",
+      "type": null
+    },
+    {
+      "text": "semifinals?",
+      "type": null
+    },
+    {
+      "text": "Good",
+      "type": null
+    },
+    {
+      "text": "excuse",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "miss",
+      "type": null
+    },
+    {
+      "text": "work!",
+      "type": null
+    }
+  ],
+  "answer": "FLU",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'semifinals?' and it's a selection indicator naming the positions of important letters in neighbouring fodder. If 'finals' refers to the final letters of multiple words, what might 'semifinals' refer to?",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'FIFA World Cup'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Good excuse to miss work', and our answer will be just that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          27,
+          51
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Ben Stuart",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

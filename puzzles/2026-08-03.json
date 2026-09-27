@@ -1,0 +1,126 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 168,
+  "date": "2026-08-03",
+  "clue": [
+    {
+      "text": "Nothing",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "vault",
+      "type": null
+    },
+    {
+      "text": "where",
+      "type": null
+    },
+    {
+      "text": "gold",
+      "type": null
+    },
+    {
+      "text": "should",
+      "type": null
+    },
+    {
+      "text": "be",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "it's",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "bit",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "shock",
+      "type": null
+    }
+  ],
+  "answer": "VOLT",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'in', and 'where... should be'. One of these is an unusual deletion indicator - something expected is absent. The other is a containing indicator guiding us to place some fodder within other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Nothing', 'vault', and 'gold'. We'll need to find common short substitutes for two of these and use them with the letters of the third to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          11,
+          16
+        ],
+        [
+          23,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'it's a bit of a shock', and our answer will be a word for something that's a shock.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          61
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: juggler",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

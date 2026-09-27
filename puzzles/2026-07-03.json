@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 137,
+  "date": "2026-07-03",
+  "clue": [
+    {
+      "text": "Roughly",
+      "type": null
+    },
+    {
+      "text": "sub-zero,",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "temperature",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "windswept",
+      "type": null
+    },
+    {
+      "text": "tundra",
+      "type": null
+    }
+  ],
+  "answer": "AROUND",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'sub... for... in' and 'windswept'. The first of these is a swapping idea - we'll need to 'sub' or substitute one letter for another in some fodder. The second indicator is an anagram indicator - some neighbouring fodder will be blown around and disturbed, and its letters will rearrange.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          11
+        ],
+        [
+          37,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'zero', 'temperature', and 'tundra'. We'll need to substitute two of these with short alternatives, using them with the letters of the third to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          16
+        ],
+        [
+          22,
+          33
+        ],
+        [
+          47,
+          53
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Roughly', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Liam Runnalls",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

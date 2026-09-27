@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 17,
+  "date": "2026-03-04",
+  "clue": [
+    {
+      "text": "Otto",
+      "type": null
+    },
+    {
+      "text": "(your",
+      "type": null
+    },
+    {
+      "text": "second",
+      "type": null
+    },
+    {
+      "text": "cousin",
+      "type": null
+    },
+    {
+      "text": "twice",
+      "type": null
+    },
+    {
+      "text": "removed)",
+      "type": null
+    },
+    {
+      "text": "crushed",
+      "type": null
+    },
+    {
+      "text": "audition",
+      "type": null
+    }
+  ],
+  "answer": "TRYOUT",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'second', 'twice removed', and 'crushed'. One of these is a selection indicator telling us which letter/s to focus on in some neighbouring fodder. Another is a deletion indicator guiding us to delete some fodder from other fodder. And a third is an anagram indicator - we'll need to mix up some letters into our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          17
+        ],
+        [
+          25,
+          38
+        ],
+        [
+          40,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Otto your', and 'cousin'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          18,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'audition', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          48,
+          56
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: AmritS",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

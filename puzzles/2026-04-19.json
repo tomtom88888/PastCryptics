@@ -1,0 +1,122 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 63,
+  "date": "2026-04-19",
+  "clue": [
+    {
+      "text": "Ordinary",
+      "type": null
+    },
+    {
+      "text": "guy",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "Istanbul",
+      "type": null
+    },
+    {
+      "text": "dared",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "assassinate",
+      "type": null
+    },
+    {
+      "text": "inaugural",
+      "type": null
+    },
+    {
+      "text": "emperor?",
+      "type": null
+    }
+  ],
+  "answer": "STANDARD",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'guy from', 'to assassinate', and 'inaugural'. One of these is a deletion indicator guiding us to remove some fodder from other fodder. The other two are kinds of selection indicator. 'inaugural' is a straightforward indicator, pointing out the position of one or more letters to select. 'guy from', on the other hand, doesn't point out position but meaning - we're looking at working with a guy from our neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          17
+        ],
+        [
+          33,
+          47
+        ],
+        [
+          48,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Istanbul', 'dared', and 'emperor'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s). Extra hint: you could also consider 'guy' to be part of the fodder (it's line ball whether we should describe it as fodder or indicator).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          12
+        ],
+        [
+          18,
+          26
+        ],
+        [
+          27,
+          32
+        ],
+        [
+          58,
+          65
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Ordinary', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Members: EmPee and DrSteve",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

@@ -1,0 +1,86 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 808,
+  "date": "2026-09-11",
+  "clue": [
+    {
+      "text": "It’s",
+      "type": null
+    },
+    {
+      "text": "ok",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "miscalculate",
+      "type": null
+    },
+    {
+      "text": "three",
+      "type": null
+    },
+    {
+      "text": "times",
+      "type": null
+    },
+    {
+      "text": "two?",
+      "type": null
+    }
+  ],
+  "answer": "THERE THERE",
+  "config": [
+    5,
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'three'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'It’s ok', and our answer will be another way of saying that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Lucy Sheppard",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

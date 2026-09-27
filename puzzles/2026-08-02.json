@@ -1,0 +1,122 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 167,
+  "date": "2026-08-02",
+  "clue": [
+    {
+      "text": "Tinkle",
+      "type": null
+    },
+    {
+      "text": "all",
+      "type": null
+    },
+    {
+      "text": "over",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "place",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "surprise",
+      "type": null
+    },
+    {
+      "text": "entry...",
+      "type": null
+    },
+    {
+      "text": "Maybe",
+      "type": null
+    },
+    {
+      "text": "knock",
+      "type": null
+    },
+    {
+      "text": "first?",
+      "type": null
+    }
+  ],
+  "answer": "SILENT K",
+  "config": [
+    6,
+    1
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'all over the place', after', and 'entry'. One of these is an anagram indicator guiding us to move the letters of a neighbouring word around, rearranging them. Another is a selection indicator naming the position of an important letter in neighbouring fodder. And 'after' is a repositioning indicator - we'll need to put what comes before it 'after' what follows.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          7,
+          25
+        ],
+        [
+          26,
+          31
+        ],
+        [
+          41,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Tinkle' and 'surprise'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          32,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Maybe knock first?', and there are two tricks at play here. Firstly, 'maybe' (like 'perhaps', or 'say') flags that we should look for a category to which the rest of the definition belongs as an example. And secondly, 'first' almost appears like it's a selection indicator... in the definition... Lean into that! What might 'knock first' be an example of?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          50,
+          68
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: jojo!",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

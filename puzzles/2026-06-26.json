@@ -1,0 +1,103 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 130,
+  "date": "2026-06-26",
+  "clue": [
+    {
+      "text": "Midwestern",
+      "type": null
+    },
+    {
+      "text": "farmer",
+      "type": null
+    },
+    {
+      "text": "wearing",
+      "type": null
+    },
+    {
+      "text": "“I",
+      "type": null
+    },
+    {
+      "text": "love",
+      "type": null
+    },
+    {
+      "text": "NY”?!",
+      "type": null
+    }
+  ],
+  "answer": "IRONY",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Midwestern' and 'wearing'. 'Midwestern' is a selection indicator naming the position of a specific letter in neighbouring fodder. It's open to being read a number of ways and you might need to try more than one approach. And 'wearing' is a containing indicator - some fodder will go inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          10
+        ],
+        [
+          18,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'farmer', 'I', 'love', and 'NY'. We'll use many of these letters along with a short substitute for one of them to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          1,
+          2
+        ],
+        [
+          11,
+          17
+        ],
+        [
+          29,
+          33
+        ],
+        [
+          34,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit which means that the whole clue is both the wordplay and the definition. Here, this clue is an example of our answer; a midwestern farmer wearing \"I love NY\" might be an example of _____.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          27,
+          36
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: TheFireMan & Angas",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

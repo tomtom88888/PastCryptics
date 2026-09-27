@@ -1,0 +1,100 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 111,
+  "date": "2026-06-06",
+  "clue": [
+    {
+      "text": "Starved",
+      "type": null
+    },
+    {
+      "text": "bear",
+      "type": null
+    },
+    {
+      "text": "acquires",
+      "type": null
+    },
+    {
+      "text": "craving",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "fast",
+      "type": null
+    },
+    {
+      "text": "food",
+      "type": null
+    }
+  ],
+  "answer": "BURGER",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Starved' and 'acquires'. One is a deletion indicator, alluding to the positions of letters to remove in neighbouring fodder. The other is a containing indicator - some fodder will go inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          13,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'bear' and 'craving'. We'll need to find a synonym for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          12
+        ],
+        [
+          22,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'fast food', and our answer will be a kind of fast food.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          34,
+          43
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: MonZ",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 105,
+  "date": "2026-05-31",
+  "clue": [
+    {
+      "text": "Screaming",
+      "type": null
+    },
+    {
+      "text": "half",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "weekend",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "ice",
+      "type": null
+    },
+    {
+      "text": "cream",
+      "type": null
+    }
+  ],
+  "answer": "SUNDAE",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Screaming' and it's a homophone indicator telling us to vocalise a neighbouring piece of fodder or its substitute.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'half the weekend'. Tricky fodder, because 'half the' looks so much like a selection indicator! We'll need to find a substitute for 'half the weekend' and use it with the clue's indicator(s) to reach our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          10,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'ice cream', and our answer will be a kind of ice cream treat!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          31,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Members: Hannah Mayanja and Rob D",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

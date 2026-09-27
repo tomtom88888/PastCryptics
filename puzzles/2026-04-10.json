@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 54,
+  "date": "2026-04-10",
+  "clue": [
+    {
+      "text": "Fraud",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "chairman",
+      "type": null
+    },
+    {
+      "text": "swapping",
+      "type": null
+    },
+    {
+      "text": "locks",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "organisation’s",
+      "type": null
+    },
+    {
+      "text": "banks",
+      "type": null
+    }
+  ],
+  "answer": "CONMAN",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'swapping... for', and 'banks'. One of these is a selection indicator focusing our attention on the positions of specific letters in some neighbouring fodder. The other is a kind of trading indicator - almost a deletion+containing indicator. We'll need to get rid of one element in some fodder and replace it with something else.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          52,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'chairman', 'locks', and 'organisation'. We'll use the letters of two of these along with a substitute for 'locks' to reach our answer, as guided by the clue's indicator. For our substitution, you'll need to think broadly about what 'locks' could represent.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          17
+        ],
+        [
+          27,
+          32
+        ],
+        [
+          37,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Fraud', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: James and Ollie",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

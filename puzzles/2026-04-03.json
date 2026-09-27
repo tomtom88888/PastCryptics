@@ -1,0 +1,103 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 47,
+  "date": "2026-04-03",
+  "clue": [
+    {
+      "text": "Downfall",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "listening",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "member",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "hive",
+      "type": null
+    },
+    {
+      "text": "mind",
+      "type": null
+    }
+  ],
+  "answer": "BRAIN",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators 'after' and 'listening to'. 'Listening to' is a homophone indicator - we'll need to say a word or its substitute aloud and find its sound-alike. And 'after' is a simple repositioning indicator, guiding us to place some fodder after some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          14
+        ],
+        [
+          15,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Downfall' and 'member of hive'. We'll need to replace both of these with substitutes (and then apply any indicators) to reach our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          28,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'mind', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          43,
+          47
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: basp",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

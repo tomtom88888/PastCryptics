@@ -1,0 +1,87 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 822,
+  "date": "2026-09-25",
+  "clue": [
+    {
+      "text": "Asks",
+      "type": null
+    },
+    {
+      "text": "“What",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "Spain",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "interrupting",
+      "type": null
+    },
+    {
+      "text": "siestas?”",
+      "type": null
+    }
+  ],
+  "answer": "REQUESTS",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'What' and 'siestas'. We'll need to find substitutes for both of these bits of fodder, with one of them guided by an indicator. We'll then use them to construct our answer, as guided by the clue's other indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          10
+        ],
+        [
+          36,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Asks', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Maple Doctor and Cory",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

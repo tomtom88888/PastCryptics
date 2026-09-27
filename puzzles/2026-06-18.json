@@ -1,0 +1,119 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 122,
+  "date": "2026-06-18",
+  "clue": [
+    {
+      "text": "Mermaid’s",
+      "type": null
+    },
+    {
+      "text": "heart",
+      "type": null
+    },
+    {
+      "text": "breaks",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "salmon",
+      "type": null
+    },
+    {
+      "text": "being",
+      "type": null
+    },
+    {
+      "text": "chopped",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "shark",
+      "type": null
+    },
+    {
+      "text": "bait?",
+      "type": null
+    }
+  ],
+  "answer": "LOANS",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'heart', 'breaks from' and 'being chopped up'. One of these is a selection indicator, naming the position of an important letter in neighbouring fodder. Another is an anagram indicator - some letters will be roughly segmented and won't retain their original form. And a third is a deletion indicator flagging that some fodder will depart other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          15
+        ],
+        [
+          16,
+          27
+        ],
+        [
+          35,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Mermaid' and 'salmon'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          28,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'shark bait?' and, with a bit of stretch (flagged by the question mark), our answer will be a kind of shark bait.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          56,
+          67
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Abdul K",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

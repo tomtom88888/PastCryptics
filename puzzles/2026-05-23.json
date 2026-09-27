@@ -1,0 +1,102 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 97,
+  "date": "2026-05-23",
+  "clue": [
+    {
+      "text": "Odd,",
+      "type": null
+    },
+    {
+      "text": "even,",
+      "type": null
+    },
+    {
+      "text": "odd,",
+      "type": null
+    },
+    {
+      "text": "even…",
+      "type": null
+    },
+    {
+      "text": "never-ending",
+      "type": null
+    },
+    {
+      "text": "game",
+      "type": null
+    }
+  ],
+  "answer": "DEER",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'even', 'odd', and 'ending', and they're all selection indicators naming the positions of letters in neighbouring fodder to hold onto.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          28,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Odd', 'even', and 'never'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          22,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'game', and our answer will be a kind of game.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          35,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Rusty",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

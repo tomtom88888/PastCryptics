@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 60,
+  "date": "2026-04-16",
+  "clue": [
+    {
+      "text": "WALL-E,",
+      "type": null
+    },
+    {
+      "text": "Monsters",
+      "type": null
+    },
+    {
+      "text": "Inc.,",
+      "type": null
+    },
+    {
+      "text": "Cars…",
+      "type": null
+    },
+    {
+      "text": "poorly",
+      "type": null
+    },
+    {
+      "text": "made?",
+      "type": null
+    }
+  ],
+  "answer": "LEMONS",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Inc.' and it's a hidden word indicator! On the surface, 'Inc.' appears to be an abbreviation of 'Incorporated', but in the wordplay we need to interpret it as the abbreviation for 'including' (a legitimate dictionary abbreviation). Some neighbouring fodder includes our answer in order, hiding.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'WALL-E, Monsters'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Cars… poorly made', and our answer will be a word that refers to poorly made cars.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          23,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Members: jojo! & Rusty",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

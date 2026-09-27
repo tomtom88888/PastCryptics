@@ -1,0 +1,81 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 16,
+  "date": "2026-03-03",
+  "clue": [
+    {
+      "text": "Bluebeard",
+      "type": null
+    },
+    {
+      "text": "selecting",
+      "type": null
+    },
+    {
+      "text": "squares",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "patch",
+      "type": null
+    }
+  ],
+  "answer": "BED",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'selecting squares', and it's a selection indicator (go figure!). Here, we'll need to select certain letters from neighbouring fodder, somehow identified as 'squares'.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Bluebeard'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'patch', and our answer will be another word for a certain kind of patch.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          32,
+          37
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Ally",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

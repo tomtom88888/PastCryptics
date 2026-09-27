@@ -1,0 +1,104 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 88,
+  "date": "2026-05-14",
+  "clue": [
+    {
+      "text": "Rocking",
+      "type": null
+    },
+    {
+      "text": "moccasins?",
+      "type": null
+    },
+    {
+      "text": "Corporate",
+      "type": null
+    },
+    {
+      "text": "style",
+      "type": null
+    },
+    {
+      "text": "guides",
+      "type": null
+    },
+    {
+      "text": "might",
+      "type": null
+    },
+    {
+      "text": "consider",
+      "type": null
+    },
+    {
+      "text": "it",
+      "type": null
+    },
+    {
+      "text": "unprofessional",
+      "type": null
+    }
+  ],
+  "answer": "COMIC SANS",
+  "config": [
+    5,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Rocking' and it's an anagram indicator. We'll be shocking, shaking, stunning, wobbling, bewildering, startling and disturbing some neighbouring fodder (all ideas embodied in 'rocking'), and it will rearrange as a result.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'moccasins'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Corporate style guides might consider it unprofessional', and our answer will is something notoriously unprofessional from a stylistic standpoint.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          19,
+          74
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Bumbling and Angas",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

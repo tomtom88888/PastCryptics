@@ -1,0 +1,106 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 169,
+  "date": "2026-08-04",
+  "clue": [
+    {
+      "text": "Halfway",
+      "type": null
+    },
+    {
+      "text": "across",
+      "type": null
+    },
+    {
+      "text": "Europe,",
+      "type": null
+    },
+    {
+      "text": "backpacking",
+      "type": null
+    },
+    {
+      "text": "500",
+      "type": null
+    },
+    {
+      "text": "miles",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "Nice?",
+      "type": null
+    }
+  ],
+  "answer": "RUDE",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Halfway across', 'back', and 'packing'. One of these is a selection indicator pointing out which letters in neighbouring fodder we should pay attention to. Another is a containing indicator - some fodder will contain other fodder. And a third is a reversal indicator guiding us to send some fodder backwards, reversing its order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          14
+        ],
+        [
+          23,
+          27
+        ],
+        [
+          27,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Europe' and '500'. We'll need to find a short substitute for one of these and use it with the letters of the other (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          21
+        ],
+        [
+          35,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'miles from Nice?', and it's more easily understood as 'miles from nice'. Our answer will be a word that describes this colloquial expression.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          39,
+          55
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: LCameron and Liam",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

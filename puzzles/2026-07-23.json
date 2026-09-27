@@ -1,0 +1,94 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 157,
+  "date": "2026-07-23",
+  "clue": [
+    {
+      "text": "This",
+      "type": null
+    },
+    {
+      "text": "clique",
+      "type": null
+    },
+    {
+      "text": "lacks",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "measure",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "intelligence",
+      "type": null
+    }
+  ],
+  "answer": "CLUE",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'lacks' and it's a deletion indicator guiding us to remove some fodder from other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'clique' and 'a measure of intelligence'. We'll use a substitute of one with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          11
+        ],
+        [
+          18,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'This', and our answer is self-referential. What could describe 'this'?",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Sean Rich",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

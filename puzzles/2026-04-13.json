@@ -1,0 +1,83 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 57,
+  "date": "2026-04-13",
+  "clue": [
+    {
+      "text": "Homebody",
+      "type": null
+    },
+    {
+      "text": "cut",
+      "type": null
+    },
+    {
+      "text": "short",
+      "type": null
+    },
+    {
+      "text": "island-hopping?",
+      "type": null
+    }
+  ],
+  "answer": "SNAIL",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'cut short' and 'hopping'. 'Cut short' is a deletion indicator guiding us to take some neighbouring fodder and delete a bit (keeping the rest). 'hopping' is an anagram indicator - not the most obvious one, and we could have gone with 'travels' as a safer option - but 'hopping' describes movement, activity and agitation, all good themes for an anagram indicator.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          18
+        ],
+        [
+          26,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'island'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          19,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Homebody', and the question mark on our clue is flagging that we should consider a pun. Our answer will be a homebody, of sorts.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Members: James & Ollie",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

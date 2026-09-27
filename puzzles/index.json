@@ -18,6 +18,44 @@
   "setter": "Member: Nicky"
  },
  {
+  "date": "2026-09-26",
+  "id": null,
+  "clue": "Suspect’s face forgotten when recalling details? I'm, uh, embarrassed",
+  "config": [
+   10
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-09-25",
+  "id": null,
+  "clue": "Asks “What in Spain is interrupting siestas?”",
+  "config": [
+   8
+  ],
+  "setter": "Member: Maple Doctor and Cory"
+ },
+ {
+  "date": "2026-09-24",
+  "id": null,
+  "clue": "The Godfather Part I",
+  "config": [
+   3
+  ],
+  "setter": "Member: Tom Kaplan"
+ },
+ {
+  "date": "2026-09-23",
+  "id": null,
+  "clue": "So, what anagram indicator can I ultimately use?",
+  "config": [
+   1,
+   4,
+   4
+  ],
+  "setter": "Member: Cole Baron"
+ },
+ {
   "date": "2026-09-22",
   "id": "0ccf8c38-95cc-4a10-8a0e-7eef053ac505",
   "clue": "Sold latticed pie past its expiration date?",
@@ -34,6 +72,53 @@
    6
   ],
   "setter": "Member: KevLoughrey & Angas"
+ },
+ {
+  "date": "2026-09-20",
+  "id": null,
+  "clue": "Early mode of transport from Revolutionary War found in drained canal?",
+  "config": [
+   5
+  ],
+  "setter": "Member: Kaldar"
+ },
+ {
+  "date": "2026-09-19",
+  "id": null,
+  "clue": "Something spiked spoiled lovely formal dance",
+  "config": [
+   10
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-09-18",
+  "id": null,
+  "clue": "Northwest evacuated?",
+  "config": [
+   2,
+   3,
+   4
+  ],
+  "setter": "Member: Tom K"
+ },
+ {
+  "date": "2026-09-17",
+  "id": null,
+  "clue": "The Origin of Species is Darwin's!",
+  "config": [
+   6
+  ],
+  "setter": "Member: Luna"
+ },
+ {
+  "date": "2026-09-16",
+  "id": null,
+  "clue": "Vanilla? Ugh! Terrible ingredient for one's gag reflex?",
+  "config": [
+   8
+  ],
+  "setter": "Member: Bluejay"
  },
  {
   "date": "2026-09-15",
@@ -63,6 +148,34 @@
   "setter": "Member: Rob D with Liam"
  },
  {
+  "date": "2026-09-12",
+  "id": null,
+  "clue": "What's more attractive: legs, shoulders, or faces?",
+  "config": [
+   4
+  ],
+  "setter": "Member: Bluejay"
+ },
+ {
+  "date": "2026-09-11",
+  "id": null,
+  "clue": "It’s ok to miscalculate three times two?",
+  "config": [
+   5,
+   5
+  ],
+  "setter": "Member: Lucy Sheppard"
+ },
+ {
+  "date": "2026-09-10",
+  "id": null,
+  "clue": "Grandpa spent $1000 bringing back hair. Maybe he's lonely?",
+  "config": [
+   6
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
   "date": "2026-09-09",
   "id": "12de25a5-019a-4ac1-9d9d-9181a4b616e1",
   "clue": "Cat on a leash locked up without a key",
@@ -81,11 +194,56 @@
   "setter": "Liam Runnalls"
  },
  {
+  "date": "2026-09-07",
+  "id": null,
+  "clue": "Bucketload of chickens from local KFC, fried and calorie-free?",
+  "config": [
+   5
+  ],
+  "setter": "Member: Drew B"
+ },
+ {
   "date": "2026-09-06",
   "id": "1b4b11da-4ae1-4993-83e0-de5cfc28be1a",
   "clue": "Item initially dispensed by server!",
   "config": [
    5
+  ],
+  "setter": "Member: Rusty Lee"
+ },
+ {
+  "date": "2026-09-05",
+  "id": null,
+  "clue": "Say, why are you jay-walking around and judging people?",
+  "config": [
+   4
+  ],
+  "setter": "Member: Sakul R"
+ },
+ {
+  "date": "2026-09-04",
+  "id": null,
+  "clue": "Start halfway and stop halfway and flip halfway?",
+  "config": [
+   9
+  ],
+  "setter": "Member: Cheesy Penguin"
+ },
+ {
+  "date": "2026-09-03",
+  "id": null,
+  "clue": "Eggs squeezed out by a rooster? That’s unusual… most unusual",
+  "config": [
+   6
+  ],
+  "setter": "Member: Sean Rich"
+ },
+ {
+  "date": "2026-09-02",
+  "id": null,
+  "clue": "Harvard or MIT or Yale housing!",
+  "config": [
+   9
   ],
   "setter": "Member: Rusty Lee"
  },
@@ -99,6 +257,15 @@
   "setter": "Member: Justin"
  },
  {
+  "date": "2026-08-31",
+  "id": null,
+  "clue": "Ironclad Orc army",
+  "config": [
+   5
+  ],
+  "setter": "Member: willn"
+ },
+ {
   "date": "2026-08-30",
   "id": "084bf928-b9c3-49d1-8d28-0f90c8b044a2",
   "clue": "Building full of suits chooses fraud, appallingly?",
@@ -108,6 +275,15 @@
    5
   ],
   "setter": "Member: AJChristo4"
+ },
+ {
+  "date": "2026-08-29",
+  "id": null,
+  "clue": "Bible's central motto: turning the other cheek(s)?",
+  "config": [
+   6
+  ],
+  "setter": "Member: Kimbsy"
  },
  {
   "date": "2026-08-28",
@@ -137,6 +313,15 @@
   "setter": "Member: Bluejay"
  },
  {
+  "date": "2026-08-25",
+  "id": null,
+  "clue": "Stylish family saying \"au revoir\" to French friend",
+  "config": [
+   3
+  ],
+  "setter": "Member: Sean Rich"
+ },
+ {
   "date": "2026-08-24",
   "id": "80864269-fea5-4ab9-a549-a1ade8e944a1",
   "clue": "Child flies military aircraft, gaining ground on the slower pilots",
@@ -144,6 +329,15 @@
    7
   ],
   "setter": "Member: Luc E"
+ },
+ {
+  "date": "2026-08-23",
+  "id": null,
+  "clue": "Yo yo-yo yo! Ha!",
+  "config": [
+   4
+  ],
+  "setter": "Member: Waxon"
  },
  {
   "date": "2026-08-22",
@@ -218,6 +412,42 @@
   "setter": "Member: Fire"
  },
  {
+  "date": "2026-08-14",
+  "id": null,
+  "clue": "Mike Tyson ear-chewing habit adopted here",
+  "config": [
+   9
+  ],
+  "setter": "Member: Johnny Quarrie & Angas"
+ },
+ {
+  "date": "2026-08-13",
+  "id": null,
+  "clue": "Get 33% off any delivery! Link in bio?",
+  "config": [
+   4
+  ],
+  "setter": "Member: Jojo! & Liam"
+ },
+ {
+  "date": "2026-08-12",
+  "id": null,
+  "clue": "Wedding band starts to rap... It's not good!",
+  "config": [
+   4
+  ],
+  "setter": "Member: THE KAGE"
+ },
+ {
+  "date": "2026-08-11",
+  "id": null,
+  "clue": "Flies buzzing with twice the energy, still focused on just me",
+  "config": [
+   6
+  ],
+  "setter": "Member: jojo!"
+ },
+ {
   "date": "2026-08-10",
   "id": "655f40ae-18d4-4eb6-98b8-c3892096e8bf",
   "clue": "Pentagon covers up touch-and-go situation?",
@@ -261,6 +491,1394 @@
    6
   ],
   "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-08-05",
+  "id": null,
+  "clue": "Big fans of bananas eat \"boring grapes\"",
+  "config": [
+   5,
+   4
+  ],
+  "setter": "Member: Ben Stuart & Liam"
+ },
+ {
+  "date": "2026-08-04",
+  "id": null,
+  "clue": "Halfway across Europe, backpacking 500 miles from Nice?",
+  "config": [
+   4
+  ],
+  "setter": "Member: LCameron and Liam"
+ },
+ {
+  "date": "2026-08-03",
+  "id": null,
+  "clue": "Nothing in vault where gold should be - it's a bit of a shock",
+  "config": [
+   4
+  ],
+  "setter": "Member: juggler"
+ },
+ {
+  "date": "2026-08-02",
+  "id": null,
+  "clue": "Tinkle all over the place after surprise entry... Maybe knock first?",
+  "config": [
+   6,
+   1
+  ],
+  "setter": "Member: jojo!"
+ },
+ {
+  "date": "2026-08-01",
+  "id": null,
+  "clue": "Ran out of ranch dressing as we went back for something to snack on",
+  "config": [
+   6
+  ],
+  "setter": "Member: Jack Porter"
+ },
+ {
+  "date": "2026-07-31",
+  "id": null,
+  "clue": "Shouting “$&%#!” they crash loudly",
+  "config": [
+   7
+  ],
+  "setter": "Member: jojo!"
+ },
+ {
+  "date": "2026-07-30",
+  "id": null,
+  "clue": "Bergamot herbal extract for bodybuilder?",
+  "config": [
+   6
+  ],
+  "setter": "Member: Ben Stuart"
+ },
+ {
+  "date": "2026-07-29",
+  "id": null,
+  "clue": "Pilot, lost from geographical misprint, lands at sea",
+  "config": [
+   11
+  ],
+  "setter": "Member: Llion and Liam"
+ },
+ {
+  "date": "2026-07-28",
+  "id": null,
+  "clue": "Homeless? Say, you and I can trade places in deluxe retreat!",
+  "config": [
+   6
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-07-27",
+  "id": null,
+  "clue": "5❤️ 5♦️ 2❤️ 6♠️ — a pair of fives?",
+  "config": [
+   4
+  ],
+  "setter": "Members: Sakul R and Rusty Lee"
+ },
+ {
+  "date": "2026-07-26",
+  "id": null,
+  "clue": "Husband-to-be steals grandma's heart... and money!",
+  "config": [
+   7
+  ],
+  "setter": "Member: Tiptonyan"
+ },
+ {
+  "date": "2026-07-25",
+  "id": null,
+  "clue": "Science teacher: \"Essentially, cooking meth is extremely risky”",
+  "config": [
+   9
+  ],
+  "setter": "Member: Jamie L"
+ },
+ {
+  "date": "2026-07-23",
+  "id": null,
+  "clue": "This clique lacks a measure of intelligence",
+  "config": [
+   4
+  ],
+  "setter": "Member: Sean Rich"
+ },
+ {
+  "date": "2026-07-22",
+  "id": null,
+  "clue": "After golf, he picked up ball and tee, then left?",
+  "config": [
+   5
+  ],
+  "setter": "Member: amos"
+ },
+ {
+  "date": "2026-07-21",
+  "id": null,
+  "clue": "Ancient vampire scurrying before first light",
+  "config": [
+   8
+  ],
+  "setter": "Member: Moley"
+ },
+ {
+  "date": "2026-07-20",
+  "id": null,
+  "clue": "Repeating pattern from interstellar satellite – intelligence, say?",
+  "config": [
+   4
+  ],
+  "setter": "Members: MarkelSC, SakulR & Cory"
+ },
+ {
+  "date": "2026-07-19",
+  "id": null,
+  "clue": "Mum’s sister getting into Hinge, swiping right and ghosting?",
+  "config": [
+   8
+  ],
+  "setter": "Member: Saintonge & Liam"
+ },
+ {
+  "date": "2026-07-18",
+  "id": null,
+  "clue": "FIFA World Cup semifinals? Good excuse to miss work!",
+  "config": [
+   3
+  ],
+  "setter": "Member: Ben Stuart"
+ },
+ {
+  "date": "2026-07-17",
+  "id": null,
+  "clue": "“Amputee climber got past treacherous drop!” you heard documentary maker say",
+  "config": [
+   8
+  ],
+  "setter": "Member: Sean Rich"
+ },
+ {
+  "date": "2026-07-16",
+  "id": null,
+  "clue": "Arthur’s divided over the shape of Camelot’s table for some time?",
+  "config": [
+   4
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-07-15",
+  "id": null,
+  "clue": "Scoop of lemon gelato with a twist - a little something from the garden",
+  "config": [
+   5
+  ],
+  "setter": "Members: Rusty Lee & Ben Stuart"
+ },
+ {
+  "date": "2026-07-14",
+  "id": null,
+  "clue": "Start midday meal around midday",
+  "config": [
+   6
+  ],
+  "setter": "Member: Luc E"
+ },
+ {
+  "date": "2026-07-13",
+  "id": null,
+  "clue": "Magnificent ring found in ruins of Isengard",
+  "config": [
+   9
+  ],
+  "setter": "Member: Bill Lash"
+ },
+ {
+  "date": "2026-07-12",
+  "id": null,
+  "clue": "Bob, Deb and Jacob all have these kinks",
+  "config": [
+   5
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-07-10",
+  "id": null,
+  "clue": "Our cousins and grandparents playing “Duck Duck Goose”?",
+  "config": [
+   4
+  ],
+  "setter": "Member: Ben Stuart"
+ },
+ {
+  "date": "2026-07-09",
+  "id": null,
+  "clue": "Weathered tin sign adorning the outskirts of Venice: “Sinking Capital”",
+  "config": [
+   9
+  ],
+  "setter": "Steve Knight"
+ },
+ {
+  "date": "2026-07-08",
+  "id": null,
+  "clue": "The essence of simplicity - it doesn't need to be said!",
+  "config": [
+   8
+  ],
+  "setter": "Member: Bluejay"
+ },
+ {
+  "date": "2026-07-07",
+  "id": null,
+  "clue": "Hitting easy targets by purchasing over 2K followers?",
+  "config": [
+   8
+  ],
+  "setter": "Member: Asaf Isser, Liam & Angas"
+ },
+ {
+  "date": "2026-07-06",
+  "id": null,
+  "clue": "Smithers shaken up after Mr Burns argument",
+  "config": [
+   6
+  ],
+  "setter": "Member: Dan Caleb"
+ },
+ {
+  "date": "2026-07-05",
+  "id": null,
+  "clue": "One of many on board to witness the start of dawn cycling?",
+  "config": [
+   4
+  ],
+  "setter": "Liam and Angas"
+ },
+ {
+  "date": "2026-07-04",
+  "id": null,
+  "clue": "First bit of margarine sent back for butter",
+  "config": [
+   3
+  ],
+  "setter": "Member: BG"
+ },
+ {
+  "date": "2026-07-03",
+  "id": null,
+  "clue": "Roughly sub-zero, for temperature in windswept tundra",
+  "config": [
+   6
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-07-02",
+  "id": null,
+  "clue": "In public? Kissing? Ew!",
+  "config": [
+   3
+  ],
+  "setter": "Member: Bumbling"
+ },
+ {
+  "date": "2026-07-01",
+  "id": null,
+  "clue": "Overly bright veils spurned by glum bride",
+  "config": [
+   5
+  ],
+  "setter": "Steve Knight & Liam"
+ },
+ {
+  "date": "2026-06-30",
+  "id": null,
+  "clue": "Leather arrangement pulling an equine's head!",
+  "config": [
+   6
+  ],
+  "setter": "Member: Juggler"
+ },
+ {
+  "date": "2026-06-29",
+  "id": null,
+  "clue": "Pulls back sword after heart to heart exchange with beast?",
+  "config": [
+   5
+  ],
+  "setter": "Member: jojo!"
+ },
+ {
+  "date": "2026-06-28",
+  "id": null,
+  "clue": "Path between what looks like a pair of snakes & rocks",
+  "config": [
+   5
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-06-27",
+  "id": null,
+  "clue": "Recycle threadbare jumper",
+  "config": [
+   4
+  ],
+  "setter": "Angela Woff"
+ },
+ {
+  "date": "2026-06-26",
+  "id": null,
+  "clue": "Midwestern farmer wearing “I love NY”?!",
+  "config": [
+   5
+  ],
+  "setter": "Member: TheFireMan & Angas"
+ },
+ {
+  "date": "2026-06-25",
+  "id": null,
+  "clue": "Graphic content written right-to-left in hieroglyphics",
+  "config": [
+   4
+  ],
+  "setter": "Member: Noah Eliot"
+ },
+ {
+  "date": "2026-06-24",
+  "id": null,
+  "clue": "Hermit perhaps returning alone, wandering city",
+  "config": [
+   9
+  ],
+  "setter": "David Astle"
+ },
+ {
+  "date": "2026-06-22",
+  "id": null,
+  "clue": "Patient ran into toilet, avoiding first of incisions",
+  "config": [
+   8
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-06-21",
+  "id": null,
+  "clue": "Sharing salad - you don’t have to eat it!",
+  "config": [
+   7
+  ],
+  "setter": "Member: LCameron & Liam"
+ },
+ {
+  "date": "2026-06-20",
+  "id": null,
+  "clue": "To-Do: firstly, find recipe; secondly, make scones; thirdly, feast lustily",
+  "config": [
+   6
+  ],
+  "setter": "Member: Rusty Lee & Angas"
+ },
+ {
+  "date": "2026-06-18",
+  "id": null,
+  "clue": "Mermaid’s heart breaks from salmon being chopped up for shark bait?",
+  "config": [
+   5
+  ],
+  "setter": "Member: Abdul K"
+ },
+ {
+  "date": "2026-06-17",
+  "id": null,
+  "clue": "Possessor of riches is possessed by riches too",
+  "config": [
+   5
+  ],
+  "setter": "Member: Juggler"
+ },
+ {
+  "date": "2026-06-16",
+  "id": null,
+  "clue": "My bad mood exposed by follow-up remark",
+  "config": [
+   4
+  ],
+  "setter": "Steve Knight"
+ },
+ {
+  "date": "2026-06-15",
+  "id": null,
+  "clue": "Hammerhead can’t see angler’s line… it’s hooked!",
+  "config": [
+   6
+  ],
+  "setter": "Member: LCameron and Liam"
+ },
+ {
+  "date": "2026-06-14",
+  "id": null,
+  "clue": "Romans blasted stern of enemy craft with a variety of mortars",
+  "config": [
+   7
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-06-13",
+  "id": null,
+  "clue": "I’m trapped by make-believe walls!",
+  "config": [
+   4
+  ],
+  "setter": "Member: WREG"
+ },
+ {
+  "date": "2026-06-11",
+  "id": null,
+  "clue": "Knit, lace and darn twelve sheets together?",
+  "config": [
+   8
+  ],
+  "setter": "Member: Matt C with Liam"
+ },
+ {
+  "date": "2026-06-10",
+  "id": null,
+  "clue": "Hit between the eyes, vocal with umpire",
+  "config": [
+   5
+  ],
+  "setter": "Member: Ben Stuart"
+ },
+ {
+  "date": "2026-06-08",
+  "id": null,
+  "clue": "Retraced DNA obtained by saliva to castle grounds?",
+  "config": [
+   7
+  ],
+  "setter": "Member: Cole Baron"
+ },
+ {
+  "date": "2026-06-07",
+  "id": null,
+  "clue": "Well, content, wonderful, first rate, smashing!",
+  "config": [
+   5
+  ],
+  "setter": "Member: Bluejay"
+ },
+ {
+  "date": "2026-06-06",
+  "id": null,
+  "clue": "Starved bear acquires craving for fast food",
+  "config": [
+   6
+  ],
+  "setter": "Member: MonZ"
+ },
+ {
+  "date": "2026-06-04",
+  "id": null,
+  "clue": "Roused by a worker striking - rights won at last!",
+  "config": [
+   6
+  ],
+  "setter": "Member: LCameron"
+ },
+ {
+  "date": "2026-06-03",
+  "id": null,
+  "clue": "Loyal members organised in order to form a union?",
+  "config": [
+   5
+  ],
+  "setter": "Member: MashedPoNateo"
+ },
+ {
+  "date": "2026-06-02",
+  "id": null,
+  "clue": "Very well done, but occupied by texting right now…",
+  "config": [
+   5
+  ],
+  "setter": "Member: Sean Rich"
+ },
+ {
+  "date": "2026-06-01",
+  "id": null,
+  "clue": "Recalibration reveals the scale of the cosmos?",
+  "config": [
+   5
+  ],
+  "setter": "Member: Jack Snipe"
+ },
+ {
+  "date": "2026-05-31",
+  "id": null,
+  "clue": "Screaming half the weekend for ice cream",
+  "config": [
+   6
+  ],
+  "setter": "Members: Hannah Mayanja and Rob D"
+ },
+ {
+  "date": "2026-05-30",
+  "id": null,
+  "clue": "Assemble Avengers to Stark monument?",
+  "config": [
+   10
+  ],
+  "setter": "Member: SBM"
+ },
+ {
+  "date": "2026-05-28",
+  "id": null,
+  "clue": "Boat's life-ring goes overboard after orca swings flipper?",
+  "config": [
+   7
+  ],
+  "setter": "Member: Tiptonyan"
+ },
+ {
+  "date": "2026-05-27",
+  "id": null,
+  "clue": "Grow closer to Hannah, with time shared between 8 and 10?",
+  "config": [
+   8
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-05-26",
+  "id": null,
+  "clue": "Managed to return dog to shelter… never played with",
+  "config": [
+   8
+  ],
+  "setter": "Member: LCameron"
+ },
+ {
+  "date": "2026-05-25",
+  "id": null,
+  "clue": "Mike's neighbours secure a place in Charlie's neighbours' flat",
+  "config": [
+   5
+  ],
+  "setter": "Members: Baldasano and Ben Stuart"
+ },
+ {
+  "date": "2026-05-24",
+  "id": null,
+  "clue": "Swimming group’s pool cleared of pee after second such evacuation?",
+  "config": [
+   6
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-05-23",
+  "id": null,
+  "clue": "Odd, even, odd, even… never-ending game",
+  "config": [
+   4
+  ],
+  "setter": "Member: Rusty"
+ },
+ {
+  "date": "2026-05-22",
+  "id": null,
+  "clue": "Midrange van crashed into circular intersection?",
+  "config": [
+   4,
+   7
+  ],
+  "setter": "Member: Winston"
+ },
+ {
+  "date": "2026-05-21",
+  "id": null,
+  "clue": "Praise the Trinity at the end of spiritual retreats with the Right Reverend",
+  "config": [
+   4
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-05-20",
+  "id": null,
+  "clue": "Caught up in plot, he’ll overreact!",
+  "config": [
+   7
+  ],
+  "setter": "Member: Rusty Lee"
+ },
+ {
+  "date": "2026-05-19",
+  "id": null,
+  "clue": "Fussy spouse leaves United States to get bread in Mexico?",
+  "config": [
+   4
+  ],
+  "setter": "Member: MarkelSC"
+ },
+ {
+  "date": "2026-05-18",
+  "id": null,
+  "clue": "Becoming aware of what toothpaste on a cake is?",
+  "config": [
+   8
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-05-17",
+  "id": null,
+  "clue": "Place 1st of everyone at the end of \"Ugly-Stupid Contest\"",
+  "config": [
+   7
+  ],
+  "setter": "Member: mattLOLd"
+ },
+ {
+  "date": "2026-05-16",
+  "id": null,
+  "clue": "Westbound lanes clogged by car show regulars every summer, perhaps",
+  "config": [
+   8
+  ],
+  "setter": "Member: Abdul K"
+ },
+ {
+  "date": "2026-05-15",
+  "id": null,
+  "clue": "Admission of “Long time, no see”, you overheard (5)",
+  "config": [
+   5
+  ],
+  "setter": "Member: Bluejay, Cory, Liam, Angas"
+ },
+ {
+  "date": "2026-05-14",
+  "id": null,
+  "clue": "Rocking moccasins? Corporate style guides might consider it unprofessional",
+  "config": [
+   5,
+   4
+  ],
+  "setter": "Member: Bumbling and Angas"
+ },
+ {
+  "date": "2026-05-13",
+  "id": null,
+  "clue": "What keeps Romeo and Juliet apart in stark injustice!",
+  "config": [
+   3
+  ],
+  "setter": "Member: Cole Baron"
+ },
+ {
+  "date": "2026-05-12",
+  "id": null,
+  "clue": "Vanessa has straightened curls and centre parting — for me that’s basic",
+  "config": [
+   7
+  ],
+  "setter": "Member: Winston"
+ },
+ {
+  "date": "2026-05-11",
+  "id": null,
+  "clue": "Boundless fun awaits in lively ballroom as couples leave for dance",
+  "config": [
+   5
+  ],
+  "setter": "Member: Mary R Kiang with Cory & Liam"
+ },
+ {
+  "date": "2026-05-10",
+  "id": null,
+  "clue": "Dominic, shortly after Lewis rejected Ellie, confessed to Prudence",
+  "config": [
+   6
+  ],
+  "setter": "Member: angel_shaaark"
+ },
+ {
+  "date": "2026-05-09",
+  "id": null,
+  "clue": "Brief glimpse of streaker, frontally tackled by halfback",
+  "config": [
+   5
+  ],
+  "setter": "Member: Greg Lewis and Liam"
+ },
+ {
+  "date": "2026-05-08",
+  "id": null,
+  "clue": "Miner found quivering in the dark",
+  "config": [
+   10
+  ],
+  "setter": "Member: Nate Mizelle"
+ },
+ {
+  "date": "2026-05-07",
+  "id": null,
+  "clue": "Short on time, Anthony ignores directions to old shipping address",
+  "config": [
+   4
+  ],
+  "setter": "Member: Andrew Phelps"
+ },
+ {
+  "date": "2026-05-06",
+  "id": null,
+  "clue": "A cat's head poked into nest! Ready wings for descent!",
+  "config": [
+   8
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-05-05",
+  "id": null,
+  "clue": "They’re supplied by vessels traversing Bermuda Triangle",
+  "config": [
+   5
+  ],
+  "setter": "Member: Ryan Mayer & Liam"
+ },
+ {
+  "date": "2026-05-04",
+  "id": null,
+  "clue": "Animal from farm yard – headless chicken?",
+  "config": [
+   6
+  ],
+  "setter": "Member: Leah"
+ },
+ {
+  "date": "2026-05-03",
+  "id": null,
+  "clue": "Double-shot of rum? Toss it back! Mmmm…",
+  "config": [
+   6
+  ],
+  "setter": "Member: Mikayla Pillstrom"
+ },
+ {
+  "date": "2026-05-02",
+  "id": null,
+  "clue": "Theoretical mix-up? C'est la vie!",
+  "config": [
+   11
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-05-01",
+  "id": null,
+  "clue": "“Mister, if I were you!” shouted marshal",
+  "config": [
+   6
+  ],
+  "setter": "Member: Luc E"
+ },
+ {
+  "date": "2026-04-30",
+  "id": null,
+  "clue": "Lamb's clothing returned by wolf in front of goat - a sheepish exchange?",
+  "config": [
+   8
+  ],
+  "setter": "Member: Eric Mason"
+ },
+ {
+  "date": "2026-04-29",
+  "id": null,
+  "clue": "Guy extremely forgetful in recut version of ‘Memento’",
+  "config": [
+   8
+  ],
+  "setter": "Cory & Angas"
+ },
+ {
+  "date": "2026-04-28",
+  "id": null,
+  "clue": "Stretch opposite spring taut to avoid starter humming on and off",
+  "config": [
+   6
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-04-27",
+  "id": null,
+  "clue": "Elk and baby bear return to cave",
+  "config": [
+   6
+  ],
+  "setter": "Member: WREG"
+ },
+ {
+  "date": "2026-04-26",
+  "id": null,
+  "clue": "Squealed excitedly, releasing ad for next book",
+  "config": [
+   6
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-04-25",
+  "id": null,
+  "clue": "Involved in sex activities? Bang on!",
+  "config": [
+   5
+  ],
+  "setter": "Member: Rusty Lee"
+ },
+ {
+  "date": "2026-04-24",
+  "id": null,
+  "clue": "Raised resounding toast, long before dark?",
+  "config": [
+   5
+  ],
+  "setter": "Member: SnekActual"
+ },
+ {
+  "date": "2026-04-23",
+  "id": null,
+  "clue": "Initial word from monarchy: \"Troubled after the disappearance of Charles II”?",
+  "config": [
+   7
+  ],
+  "setter": "Member: Celery"
+ },
+ {
+  "date": "2026-04-22",
+  "id": null,
+  "clue": "Dictator's hasty, ranting from time to time?",
+  "config": [
+   6
+  ],
+  "setter": "Member: MarkelSC"
+ },
+ {
+  "date": "2026-04-21",
+  "id": null,
+  "clue": "Party leader backtracked, opening parts of the Strait of Hormuz?",
+  "config": [
+   4
+  ],
+  "setter": "Members: Elsie & Taylor"
+ },
+ {
+  "date": "2026-04-20",
+  "id": null,
+  "clue": "Heavy sculpture of Jesus, facing out across Brazilian city?",
+  "config": [
+   7
+  ],
+  "setter": "Member: Abdul K and Liam"
+ },
+ {
+  "date": "2026-04-19",
+  "id": null,
+  "clue": "Ordinary guy from Istanbul dared to assassinate inaugural emperor?",
+  "config": [
+   8
+  ],
+  "setter": "Members: EmPee and DrSteve"
+ },
+ {
+  "date": "2026-04-18",
+  "id": null,
+  "clue": "She’s pregnant with octuplets! Various heads to push",
+  "config": [
+   5
+  ],
+  "setter": "Member: Hannah M"
+ },
+ {
+  "date": "2026-04-17",
+  "id": null,
+  "clue": "Twice-cooked meat for partner",
+  "config": [
+   8
+  ],
+  "setter": "Member: bixarrio"
+ },
+ {
+  "date": "2026-04-16",
+  "id": null,
+  "clue": "WALL-E, Monsters Inc., Cars… poorly made?",
+  "config": [
+   6
+  ],
+  "setter": "Members: jojo! & Rusty"
+ },
+ {
+  "date": "2026-04-15",
+  "id": null,
+  "clue": "City block shared by women and gnomes beyond Middle Earth",
+  "config": [
+   4
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-04-14",
+  "id": null,
+  "clue": "Suffering from Gran’s back-splitting yoga twist",
+  "config": [
+   5
+  ],
+  "setter": "Member: LCameron"
+ },
+ {
+  "date": "2026-04-13",
+  "id": null,
+  "clue": "Homebody cut short island-hopping?",
+  "config": [
+   5
+  ],
+  "setter": "Members: James & Ollie"
+ },
+ {
+  "date": "2026-04-12",
+  "id": null,
+  "clue": "Great Britain’s currency bracing for recession",
+  "config": [
+   8
+  ],
+  "setter": "Member: ThatObserver"
+ },
+ {
+  "date": "2026-04-11",
+  "id": null,
+  "clue": "Liam releases answer, declaring \"Oh, it's rather stretchy?\"",
+  "config": [
+   4
+  ],
+  "setter": "Liam Runnalls"
+ },
+ {
+  "date": "2026-04-10",
+  "id": null,
+  "clue": "Fraud by chairman swapping locks for organisation’s banks",
+  "config": [
+   6
+  ],
+  "setter": "Member: James and Ollie"
+ },
+ {
+  "date": "2026-04-09",
+  "id": null,
+  "clue": "Most of rapper’s remixed beats rock?",
+  "config": [
+   5
+  ],
+  "setter": "Member: Tyler Y"
+ },
+ {
+  "date": "2026-04-08",
+  "id": null,
+  "clue": "Old Yeller shot at the end by owner - biting starts to cause rabies infection",
+  "config": [
+   4,
+   5
+  ],
+  "setter": "Member: Winston"
+ },
+ {
+  "date": "2026-04-07",
+  "id": null,
+  "clue": "Affordable government housing blocks… that are surprisingly expensive?",
+  "config": [
+   4
+  ],
+  "setter": "Member: Drew"
+ },
+ {
+  "date": "2026-04-06",
+  "id": null,
+  "clue": "Notice couples in less happy moods. Better to be single?",
+  "config": [
+   4
+  ],
+  "setter": "Member: AaronH and Liam"
+ },
+ {
+  "date": "2026-04-05",
+  "id": null,
+  "clue": "Raising agent for pear crumble - not egg free?",
+  "config": [
+   6
+  ],
+  "setter": "Member: Luc E"
+ },
+ {
+  "date": "2026-04-04",
+  "id": null,
+  "clue": "Backboard without hoop is dull",
+  "config": [
+   4
+  ],
+  "setter": "Member: Stuart B."
+ },
+ {
+  "date": "2026-04-03",
+  "id": null,
+  "clue": "Downfall after listening to member of hive mind",
+  "config": [
+   5
+  ],
+  "setter": "Member: basp"
+ },
+ {
+  "date": "2026-04-02",
+  "id": null,
+  "clue": "Hare no longer laughing, with tortoise halfway to a comeback",
+  "config": [
+   6
+  ],
+  "setter": "Member: Eamonn S"
+ },
+ {
+  "date": "2026-04-01",
+  "id": null,
+  "clue": "Very relaxed from patchwork quilt covers, 3-2-1 narcolepsy!",
+  "config": [
+   8
+  ],
+  "setter": "Member: Ally"
+ },
+ {
+  "date": "2026-03-31",
+  "id": null,
+  "clue": "Adhering to etiquette, people in the play exit at intervals",
+  "config": [
+   8
+  ],
+  "setter": "Member: Bluejay"
+ },
+ {
+  "date": "2026-03-30",
+  "id": null,
+  "clue": "Temp receptionist and intern, between jobs?",
+  "config": [
+   5,
+   2
+  ],
+  "setter": "Member: Chris Paget"
+ },
+ {
+  "date": "2026-03-29",
+  "id": null,
+  "clue": "Self-proclaimed inspector",
+  "config": [
+   3
+  ],
+  "setter": "Member: max"
+ },
+ {
+  "date": "2026-03-28",
+  "id": null,
+  "clue": "Attends wild paternity reveal?",
+  "config": [
+   3,
+   4
+  ],
+  "setter": "Member: Mitch Roberts"
+ },
+ {
+  "date": "2026-03-27",
+  "id": null,
+  "clue": "Forwarded letters twice from ice-cold beer distributor?",
+  "config": [
+   3
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-03-26",
+  "id": null,
+  "clue": "It's agreed upon: he's out of there at day's end",
+  "config": [
+   6
+  ],
+  "setter": "Member: Simon"
+ },
+ {
+  "date": "2026-03-25",
+  "id": null,
+  "clue": "Baby shower starts by unwrapping mother’s presents",
+  "config": [
+   4
+  ],
+  "setter": "Member: Junaid W"
+ },
+ {
+  "date": "2026-03-24",
+  "id": null,
+  "clue": "Bad loser taking loss like a bad loser?",
+  "config": [
+   4
+  ],
+  "setter": "Member: Bluejay"
+ },
+ {
+  "date": "2026-03-23",
+  "id": null,
+  "clue": "Returning a little cappuccino, men mansplain a way to remember the order",
+  "config": [
+   8
+  ],
+  "setter": "Member: Dr W"
+ },
+ {
+  "date": "2026-03-22",
+  "id": null,
+  "clue": "Rap hit covered by string ensemble? Finally, cool material for conductor!",
+  "config": [
+   8
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-03-21",
+  "id": null,
+  "clue": "Learn 1970s-style dance music! $5 off per beginner!",
+  "config": [
+   8
+  ],
+  "setter": "Cory Calhoun"
+ },
+ {
+  "date": "2026-03-20",
+  "id": null,
+  "clue": "“Downright ditching me!” Housemate moves into vacant sublet?",
+  "config": [
+   9
+  ],
+  "setter": "Member: bgsulz"
+ },
+ {
+  "date": "2026-03-19",
+  "id": null,
+  "clue": "P.S. Cuddles! I love you! Utterly devoted",
+  "config": [
+   5
+  ],
+  "setter": "Members: James & Ollie"
+ },
+ {
+  "date": "2026-03-18",
+  "id": null,
+  "clue": "Spaceman shoos away both parents sneaking aboard at liftoff",
+  "config": [
+   6
+  ],
+  "setter": "Member: Kjersti C and Liam"
+ },
+ {
+  "date": "2026-03-17",
+  "id": null,
+  "clue": "Abstract art genius makes a reproducible scribble",
+  "config": [
+   9
+  ],
+  "setter": "Lowdown"
+ },
+ {
+  "date": "2026-03-16",
+  "id": null,
+  "clue": "Close friends secretly videotape as I nap? Odd!",
+  "config": [
+   4,
+   2,
+   1,
+   3
+  ],
+  "setter": "Member: Winston"
+ },
+ {
+  "date": "2026-03-15",
+  "id": null,
+  "clue": "A vehicle behind another vehicle!",
+  "config": [
+   7
+  ],
+  "setter": "Member: Happy"
+ },
+ {
+  "date": "2026-03-14",
+  "id": null,
+  "clue": "Rats rolling in mud splatter it over dogs?",
+  "config": [
+   7
+  ],
+  "setter": "Member: LCameron"
+ },
+ {
+  "date": "2026-03-13",
+  "id": null,
+  "clue": "Middle-aged couple exhausted from crazy mileage accumulated over holiday",
+  "config": [
+   5
+  ],
+  "setter": "Member: Chris Paget"
+ },
+ {
+  "date": "2026-03-12",
+  "id": null,
+  "clue": "Car weaved into his rear parking spaces?",
+  "config": [
+   6
+  ],
+  "setter": "Member: Johnny Quarrie"
+ },
+ {
+  "date": "2026-03-11",
+  "id": null,
+  "clue": "Caretaker watching ‘Scrubs’ with nurses starts to take inspiration",
+  "config": [
+   6
+  ],
+  "setter": "Member: Sean Rich"
+ },
+ {
+  "date": "2026-03-10",
+  "id": null,
+  "clue": "Consequence of misusing debit card!",
+  "config": [
+   3,
+   6
+  ],
+  "setter": "Member: Rusty"
+ },
+ {
+  "date": "2026-03-09",
+  "id": null,
+  "clue": "Fabled beauty of chameleon dropping camouflage briefly",
+  "config": [
+   5
+  ],
+  "setter": "Member: Bluejay"
+ },
+ {
+  "date": "2026-03-08",
+  "id": null,
+  "clue": "Blemish turning part of white rose yellow",
+  "config": [
+   7
+  ],
+  "setter": "Member: Kaldar"
+ },
+ {
+  "date": "2026-03-07",
+  "id": null,
+  "clue": "No hiding from dinosaur rampaging halfway across the globe?",
+  "config": [
+   6
+  ],
+  "setter": "Members: James & Ollie"
+ },
+ {
+  "date": "2026-03-06",
+  "id": null,
+  "clue": "Highbrow couple to start breakfast, digging into Froot Loops, perhaps",
+  "config": [
+   8
+  ],
+  "setter": "Member: maya00 with Liam"
+ },
+ {
+  "date": "2026-03-05",
+  "id": null,
+  "clue": "Early plea entered, charge overturned & case dismissed for plot involving axes",
+  "config": [
+   5
+  ],
+  "setter": "Member: Jason Ulloa"
+ },
+ {
+  "date": "2026-03-04",
+  "id": null,
+  "clue": "Otto (your second cousin twice removed) crushed audition",
+  "config": [
+   6
+  ],
+  "setter": "Member: AmritS"
+ },
+ {
+  "date": "2026-03-03",
+  "id": null,
+  "clue": "Bluebeard selecting squares for patch",
+  "config": [
+   3
+  ],
+  "setter": "Member: Ally"
+ },
+ {
+  "date": "2026-03-02",
+  "id": null,
+  "clue": "Creepy stalker from Los Angeles follows stars, wants our bodyguards gone?",
+  "config": [
+   9
+  ],
+  "setter": "Liam Runnalls & Cory Calhoun"
+ },
+ {
+  "date": "2026-03-01",
+  "id": null,
+  "clue": "I’m bald, clutching wobbly cane, and prone to falling over",
+  "config": [
+   10
+  ],
+  "setter": "Member: Max C"
+ },
+ {
+  "date": "2026-02-28",
+  "id": null,
+  "clue": "“Let him bleed!” - prisoner. “Prick!” - guard.",
+  "config": [
+   7
+  ],
+  "setter": "Member: Emily Caldarelli with Angas"
+ },
+ {
+  "date": "2026-02-27",
+  "id": null,
+  "clue": "You, me and everyone possibly in favour of love among nuns",
+  "config": [
+   8
+  ],
+  "setter": "Member: LumiPing"
+ },
+ {
+  "date": "2026-02-26",
+  "id": null,
+  "clue": "A follower starts to lose faith about UFO crop circle hoax?",
+  "config": [
+   5
+  ],
+  "setter": "Member: Nate Yungman"
  },
  {
   "date": "2024-11-30",

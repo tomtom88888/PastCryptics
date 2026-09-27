@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 138,
+  "date": "2026-07-04",
+  "clue": [
+    {
+      "text": "First",
+      "type": null
+    },
+    {
+      "text": "bit",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "margarine",
+      "type": null
+    },
+    {
+      "text": "sent",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "butter",
+      "type": null
+    }
+  ],
+  "answer": "RAM",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'First bit of' and 'sent back'. One of these is a selection indicator referring to the positions of important letters in neighbouring fodder. The other is a reversal indicator - we'll need to read some key letters backwards.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          12
+        ],
+        [
+          23,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'margarine'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'butter', and our answer will be a butter of sorts.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          37,
+          43
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: BG",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

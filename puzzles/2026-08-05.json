@@ -1,0 +1,100 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 170,
+  "date": "2026-08-05",
+  "clue": [
+    {
+      "text": "Big",
+      "type": null
+    },
+    {
+      "text": "fans",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "bananas",
+      "type": null
+    },
+    {
+      "text": "eat",
+      "type": null
+    },
+    {
+      "text": "\"boring",
+      "type": null
+    },
+    {
+      "text": "grapes\"",
+      "type": null
+    }
+  ],
+  "answer": "GREAT APES",
+  "config": [
+    5,
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'boring' and it's a container. Some fodder is boring or drilling into some other fodder, which will go around the outside of it, containing it.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          25,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'eat' and 'grapes'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          20,
+          23
+        ],
+        [
+          32,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Big fans of bananas'. A playful definition, to be sure - but our answer is known for being big fans of bananas!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          19
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Ben Stuart & Liam",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

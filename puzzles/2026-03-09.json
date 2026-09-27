@@ -1,0 +1,99 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 22,
+  "date": "2026-03-09",
+  "clue": [
+    {
+      "text": "Fabled",
+      "type": null
+    },
+    {
+      "text": "beauty",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "chameleon",
+      "type": null
+    },
+    {
+      "text": "dropping",
+      "type": null
+    },
+    {
+      "text": "camouflage",
+      "type": null
+    },
+    {
+      "text": "briefly",
+      "type": null
+    }
+  ],
+  "answer": "HELEN",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'dropping' and 'briefly'. 'Briefly' is a truncation or abbreviation indicator - these aren't common, and they tell us to find a common short version of a neighbouring word. 'Dropping' is a deletion indicator - we'll need to drop something from a nearby word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          27,
+          35
+        ],
+        [
+          47,
+          54
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'chameleon' and 'camouflage'. We'll use these words to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          17,
+          26
+        ],
+        [
+          36,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Fabled beauty', and our answer will be a legendary or fabled beauty.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          13
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Bluejay",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

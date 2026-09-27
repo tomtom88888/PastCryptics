@@ -1,0 +1,95 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 134,
+  "date": "2026-06-30",
+  "clue": [
+    {
+      "text": "Leather",
+      "type": null
+    },
+    {
+      "text": "arrangement",
+      "type": null
+    },
+    {
+      "text": "pulling",
+      "type": null
+    },
+    {
+      "text": "an",
+      "type": null
+    },
+    {
+      "text": "equine's",
+      "type": null
+    },
+    {
+      "text": "head!",
+      "type": null
+    }
+  ],
+  "answer": "HALTER",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'arrangement', 'pulling an', and 'head'. One of these is an anagram indicator guiding us to organise the letters of a neighbouring word by putting them in a new order. Another is a selection indicator naming the position of an important letter in neighbouring fodder. And a third is a deletion indicator - we'll need to remove one letter from some fodder to reach our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          19
+        ],
+        [
+          20,
+          30
+        ],
+        [
+          40,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Leather' and 'equine'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          31,
+          37
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit - the whole clue is both the definition and wordplay. So, our answer will be a name for a leather arrangement pulling an equine's head.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Juggler",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

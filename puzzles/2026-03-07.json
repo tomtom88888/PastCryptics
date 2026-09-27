@@ -1,0 +1,108 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 20,
+  "date": "2026-03-07",
+  "clue": [
+    {
+      "text": "No",
+      "type": null
+    },
+    {
+      "text": "hiding",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "dinosaur",
+      "type": null
+    },
+    {
+      "text": "rampaging",
+      "type": null
+    },
+    {
+      "text": "halfway",
+      "type": null
+    },
+    {
+      "text": "across",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "globe?",
+      "type": null
+    }
+  ],
+  "answer": "RADIUS",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'hiding from' and 'rampaging'. One's a deletion indicator - we'll need to delete some fodder from some other fodder. And the other is an anagram indicator, guiding us to move some letters chaotically around, anagramming them to reach our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          3,
+          14
+        ],
+        [
+          24,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'No' and 'dinosaur'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          2
+        ],
+        [
+          15,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'halfway across the globe?', and the question mark is telling us that this is a slightly stretchy definition. You'll need to think outside the box (or... some other shape?) to see how our answer can mean 'halfway across the globe'.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          34,
+          59
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Members: James & Ollie",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

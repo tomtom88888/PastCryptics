@@ -1,0 +1,84 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 164,
+  "date": "2026-07-30",
+  "clue": [
+    {
+      "text": "Bergamot",
+      "type": null
+    },
+    {
+      "text": "herbal",
+      "type": null
+    },
+    {
+      "text": "extract",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "bodybuilder?",
+      "type": null
+    }
+  ],
+  "answer": "MOTHER",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'extract' and it's a hidden word indicator. Take an extract from some neighbouring fodder and you might just take our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          16,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Bergamot herbal'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'bodybuilder?', and the question mark flags that we'll need to think outside the box for this one. Our answer will be a bodybuilder, of sorts.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          28,
+          40
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Ben Stuart",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

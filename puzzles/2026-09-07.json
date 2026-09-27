@@ -1,0 +1,92 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 804,
+  "date": "2026-09-07",
+  "clue": [
+    {
+      "text": "Bucketload",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "chickens",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "local",
+      "type": null
+    },
+    {
+      "text": "KFC,",
+      "type": null
+    },
+    {
+      "text": "fried",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "calorie-free?",
+      "type": null
+    }
+  ],
+  "answer": "FLOCK",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'local KFC' and 'calorie'. We'll need to find a substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          28,
+          37
+        ],
+        [
+          49,
+          56
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Bucketload of chickens' - a slightly playful definition, as flagged by the question mark at the end of our clue. Our answer will be, in a way, a word for a bucketload of chickens.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          22
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Drew B",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

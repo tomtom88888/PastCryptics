@@ -1,0 +1,67 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 789,
+  "date": "2026-08-23",
+  "clue": [
+    {
+      "text": "Yo",
+      "type": null
+    },
+    {
+      "text": "yo-yo",
+      "type": null
+    },
+    {
+      "text": "yo!",
+      "type": null
+    },
+    {
+      "text": "Ha!",
+      "type": null
+    }
+  ],
+  "answer": "AHOY",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'yo! Ha!'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Yo', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          2
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 0,
+    "solveCount": null
+  },
+  "setterName": "Member: Waxon",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

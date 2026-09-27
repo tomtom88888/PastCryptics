@@ -1,0 +1,90 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 129,
+  "date": "2026-06-25",
+  "clue": [
+    {
+      "text": "Graphic",
+      "type": null
+    },
+    {
+      "text": "content",
+      "type": null
+    },
+    {
+      "text": "written",
+      "type": null
+    },
+    {
+      "text": "right-to-left",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "hieroglyphics",
+      "type": null
+    }
+  ],
+  "answer": "GORE",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'written right-to-left' and 'in'. One of these is a reversal indicator suggesting that we should read some letters backwards. The other is a hidden word indicator - our answer will be found hidden inside some fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          16,
+          37
+        ],
+        [
+          38,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'hieroglyphics'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          41,
+          54
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Graphic content', and our answer will be a word for a kind of graphic content.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          15
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Noah Eliot",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

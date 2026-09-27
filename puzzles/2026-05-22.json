@@ -1,0 +1,98 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 96,
+  "date": "2026-05-22",
+  "clue": [
+    {
+      "text": "Midrange",
+      "type": null
+    },
+    {
+      "text": "van",
+      "type": null
+    },
+    {
+      "text": "crashed",
+      "type": null
+    },
+    {
+      "text": "into",
+      "type": null
+    },
+    {
+      "text": "circular",
+      "type": null
+    },
+    {
+      "text": "intersection?",
+      "type": null
+    }
+  ],
+  "answer": "VENN DIAGRAM",
+  "config": [
+    4,
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'crashed' and it's an anagram indicator. Some neighbouring letters have crashed, a destructive act that reshapes those letters into a new form. 'into' could be interpreted as part of this anagram indicator - letters are 'crashed into' - or just a linking word between the wordplay and the definition - the crashing will transform letters 'into' an answer matching our definition.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          20
+        ],
+        [
+          21,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Midrange van'. We'll use these letters to form our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'circular intersection?', and the question mark is priming us to think a little more laterally than we normally might. Our answer will be a kind of circular intersection.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          26,
+          48
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 4,
+    "solveCount": null
+  },
+  "setterName": "Member: Winston",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

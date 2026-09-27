@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 21,
+  "date": "2026-03-08",
+  "clue": [
+    {
+      "text": "Blemish",
+      "type": null
+    },
+    {
+      "text": "turning",
+      "type": null
+    },
+    {
+      "text": "part",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "white",
+      "type": null
+    },
+    {
+      "text": "rose",
+      "type": null
+    },
+    {
+      "text": "yellow",
+      "type": null
+    }
+  ],
+  "answer": "EYESORE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'turning', and 'part of'. One of these is a hidden word indicator guiding us to concentrate on only a segment of some neighbouring fodder. The other is a reversal indicator - we'll need to turn some letters back-to-front to find our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          15
+        ],
+        [
+          16,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'white rose yellow'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Blemish', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Kaldar",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

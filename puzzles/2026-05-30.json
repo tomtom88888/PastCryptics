@@ -1,0 +1,88 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 104,
+  "date": "2026-05-30",
+  "clue": [
+    {
+      "text": "Assemble",
+      "type": null
+    },
+    {
+      "text": "Avengers",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "Stark",
+      "type": null
+    },
+    {
+      "text": "monument?",
+      "type": null
+    }
+  ],
+  "answer": "GRAVESTONE",
+  "config": [
+    10
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Assemble' and it's an anagram indicator. We'll need to take the letters of some neighbouring fodder and assemble them to construct our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Avengers to'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Stark monument?', and our answer will be a kind of stark monument.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          21,
+          36
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: SBM",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

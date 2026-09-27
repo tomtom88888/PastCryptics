@@ -1,0 +1,106 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 65,
+  "date": "2026-04-21",
+  "clue": [
+    {
+      "text": "Party",
+      "type": null
+    },
+    {
+      "text": "leader",
+      "type": null
+    },
+    {
+      "text": "backtracked,",
+      "type": null
+    },
+    {
+      "text": "opening",
+      "type": null
+    },
+    {
+      "text": "parts",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "Strait",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Hormuz?",
+      "type": null
+    }
+  ],
+  "answer": "HOST",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'backtracked', and 'opening parts of'. One of these is a selection indicator, highlighting specific letters for us to pay attention to. The other is a reversal indicator - we'll need to step through some fodder in reverse order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          24
+        ],
+        [
+          26,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'the Strait of Hormuz'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          43,
+          63
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Party leader'. Our answer will be a word that describes a kind of party leader, and the question mark on the end suggests that we might need to think slightly out of the box.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Members: Elsie & Taylor",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

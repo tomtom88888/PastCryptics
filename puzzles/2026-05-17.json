@@ -1,0 +1,113 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 91,
+  "date": "2026-05-17",
+  "clue": [
+    {
+      "text": "Place",
+      "type": null
+    },
+    {
+      "text": "1st",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "everyone",
+      "type": null
+    },
+    {
+      "text": "at",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "end",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "\"Ugly-Stupid",
+      "type": null
+    },
+    {
+      "text": "Contest\"",
+      "type": null
+    }
+  ],
+  "answer": "DISPUTE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Place… at the end of', ‘1st of’, and ‘ugly’. One of these is a selection indicator that names the position of a specific letter to focus on. Another is an anagram indicator - we’ll need to disfigure a word by rearranging it. And a third is a repositioning indicator, telling us where to put some fodder relative to other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          6,
+          12
+        ],
+        [
+          37,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'everyone' and 'Stupid'. We’ll use these letters to construct our answer, as guided by the clue’s indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          21
+        ],
+        [
+          42,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Contest', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          49,
+          56
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: mattLOLd",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

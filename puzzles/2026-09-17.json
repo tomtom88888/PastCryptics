@@ -1,0 +1,85 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 814,
+  "date": "2026-09-17",
+  "clue": [
+    {
+      "text": "The",
+      "type": null
+    },
+    {
+      "text": "Origin",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Species",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "Darwin's!",
+      "type": null
+    }
+  ],
+  "answer": "THESIS",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'The', 'Species', and 'is'. In this clue, two of these words are going straight in our answer with no substitution or even letter manipulation. And the third is providing one or more of its letters to our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          14,
+          21
+        ],
+        [
+          22,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "This clue is a partial &lit, meaning that the whole clue is the definition (and only part of the clue is the wordplay). So, our definition here is 'The Origin of Species is Darwin's!' and it's a definition by example. Darwin's work - The Origin of Species - is his ______.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          34
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Luna",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

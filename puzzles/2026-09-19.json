@@ -1,0 +1,85 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 816,
+  "date": "2026-09-19",
+  "clue": [
+    {
+      "text": "Something",
+      "type": null
+    },
+    {
+      "text": "spiked",
+      "type": null
+    },
+    {
+      "text": "spoiled",
+      "type": null
+    },
+    {
+      "text": "lovely",
+      "type": null
+    },
+    {
+      "text": "formal",
+      "type": null
+    },
+    {
+      "text": "dance",
+      "type": null
+    }
+  ],
+  "answer": "VOLLEYBALL",
+  "config": [
+    10
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'lovely' and 'formal dance'. We'll need to find a substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          25,
+          31
+        ],
+        [
+          32,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Something spiked'. Our answer will be something that can be spiked.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          16
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Cory Calhoun",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

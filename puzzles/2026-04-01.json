@@ -1,0 +1,110 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 45,
+  "date": "2026-04-01",
+  "clue": [
+    {
+      "text": "Very",
+      "type": null
+    },
+    {
+      "text": "relaxed",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "patchwork",
+      "type": null
+    },
+    {
+      "text": "quilt",
+      "type": null
+    },
+    {
+      "text": "covers,",
+      "type": null
+    },
+    {
+      "text": "3-2-1",
+      "type": null
+    },
+    {
+      "text": "narcolepsy!",
+      "type": null
+    }
+  ],
+  "answer": "TRANQUIL",
+  "config": [
+    8
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'patchwork', 'covers', and '3-2-1'. One of these is a selection indicator, guiding us to focus on certain letters in neighbouring fodder by drawing attention to their position. Another is an anagram indicator - we'll need to piece together some letters in a different order. And the remaining indicator is a container: some fodder will go around some other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          18,
+          27
+        ],
+        [
+          34,
+          40
+        ],
+        [
+          42,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'quilt', and 'narcolepsy'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          28,
+          33
+        ],
+        [
+          48,
+          58
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Very relaxed', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Ally",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

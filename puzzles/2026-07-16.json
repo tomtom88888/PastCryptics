@@ -1,0 +1,118 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 150,
+  "date": "2026-07-16",
+  "clue": [
+    {
+      "text": "Arthur’s",
+      "type": null
+    },
+    {
+      "text": "divided",
+      "type": null
+    },
+    {
+      "text": "over",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "shape",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "Camelot’s",
+      "type": null
+    },
+    {
+      "text": "table",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "some",
+      "type": null
+    },
+    {
+      "text": "time?",
+      "type": null
+    }
+  ],
+  "answer": "HOUR",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'divided', 'over', and 'the shape of'. One of these is a selection indicator flagging that instead of taking all the letters of a neighbouring word, we need to take just a fraction. Another is a containing indicator - some letters will go around some other fodder. And a third is a homoglyph indicator guiding us to pay attention to what an item in the clue looks like and to find a lookalike letter.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          16
+        ],
+        [
+          17,
+          21
+        ],
+        [
+          22,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Arthur' and 'Camelot’s table'. We'll need to substitute one of these with a representative letter and use it with the letters of the other (or some of them) to construct our answer - all as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          6
+        ],
+        [
+          35,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'some time', and our answer will be a word that represents some time.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          55,
+          64
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Liam Runnalls",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

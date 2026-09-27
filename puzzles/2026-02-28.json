@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 13,
+  "date": "2026-02-28",
+  "clue": [
+    {
+      "text": "“Let",
+      "type": null
+    },
+    {
+      "text": "him",
+      "type": null
+    },
+    {
+      "text": "bleed!”",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "prisoner.",
+      "type": null
+    },
+    {
+      "text": "“Prick!”",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "guard.",
+      "type": null
+    }
+  ],
+  "answer": "THIMBLE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'prisoner', and it's a hidden word indicator. Our answer is a prisoner, captured within neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          19,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Let him bleed'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is '“Prick!” - guard', or, stripping away the punctuation, 'prick guard'. Our answer will be something that fits that description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          29,
+          45
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Emily Caldarelli with Angas",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

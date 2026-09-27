@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 807,
+  "date": "2026-09-10",
+  "clue": [
+    {
+      "text": "Grandpa",
+      "type": null
+    },
+    {
+      "text": "spent",
+      "type": null
+    },
+    {
+      "text": "$1000",
+      "type": null
+    },
+    {
+      "text": "bringing",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    },
+    {
+      "text": "hair.",
+      "type": null
+    },
+    {
+      "text": "Maybe",
+      "type": null
+    },
+    {
+      "text": "he's",
+      "type": null
+    },
+    {
+      "text": "lonely?",
+      "type": null
+    }
+  ],
+  "answer": "PARIAH",
+  "config": [
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's fodder is 'Grandpa', '$1000', and 'hair'. We'll need to find a substitute for one of these and use it with the letters of the others to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          14,
+          19
+        ],
+        [
+          34,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Maybe he's lonely?', and our answer will be someone on the outside - someone who might be lonely.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          40,
+          58
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Liam Runnalls",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

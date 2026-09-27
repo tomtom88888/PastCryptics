@@ -1,0 +1,119 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 156,
+  "date": "2026-07-22",
+  "clue": [
+    {
+      "text": "After",
+      "type": null
+    },
+    {
+      "text": "golf,",
+      "type": null
+    },
+    {
+      "text": "he",
+      "type": null
+    },
+    {
+      "text": "picked",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "ball",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "tee,",
+      "type": null
+    },
+    {
+      "text": "then",
+      "type": null
+    },
+    {
+      "text": "left?",
+      "type": null
+    }
+  ],
+  "answer": "HOTEL",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'picked up' and 'then'. 'picked up' is a containing indicator - some fodder will pick up and contain other fodder. And 'then' is a simple reference to position - what comes before it is followed by what comes after: this then that.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          24
+        ],
+        [
+          39,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'he', 'ball', 'tee', and 'left'. We'll need to find common cryptic substitutes for three of these and use them with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          12,
+          14
+        ],
+        [
+          25,
+          29
+        ],
+        [
+          34,
+          37
+        ],
+        [
+          44,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'After golf', and our answer will be something found after golf. FYI, this is a pretty tricky definition, especially if you're somewhat new to cryptics.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          10
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: amos",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

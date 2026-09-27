@@ -1,0 +1,105 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 113,
+  "date": "2026-06-08",
+  "clue": [
+    {
+      "text": "Retraced",
+      "type": null
+    },
+    {
+      "text": "DNA",
+      "type": null
+    },
+    {
+      "text": "obtained",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "saliva",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "castle",
+      "type": null
+    },
+    {
+      "text": "grounds?",
+      "type": null
+    }
+  ],
+  "answer": "SANDPIT",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Retraced' and 'obtained by'. One is a containing indicator - some fodder will go inside other fodder. And the other is a reversal indicator guiding us to make some words go back over themselves, reversing their order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          13,
+          24
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'DNA' and 'saliva'. We'll need to find a synonym for one of these and use it with the letters of the others to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          12
+        ],
+        [
+          25,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'castle grounds?', and the question mark is prompting us to think a little outside the box on this one. Our answer will be grounds in which castles are commonly found.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          35,
+          50
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Cole Baron",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

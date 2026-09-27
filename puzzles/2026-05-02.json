@@ -1,0 +1,84 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 76,
+  "date": "2026-05-02",
+  "clue": [
+    {
+      "text": "Theoretical",
+      "type": null
+    },
+    {
+      "text": "mix-up?",
+      "type": null
+    },
+    {
+      "text": "C'est",
+      "type": null
+    },
+    {
+      "text": "la",
+      "type": null
+    },
+    {
+      "text": "vie!",
+      "type": null
+    }
+  ],
+  "answer": "SPECULATIVE",
+  "config": [
+    11
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'mix' and it's an anagram indicator. We'll need to mix and rearrange some neighbouring letters to get our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          15
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'up C'est la vie'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": []
+    },
+    {
+      "text": "Our definition here is 'Theoretical', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 4,
+    "solveCount": null
+  },
+  "setterName": "Cory Calhoun",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

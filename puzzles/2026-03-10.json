@@ -1,0 +1,83 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 23,
+  "date": "2026-03-10",
+  "clue": [
+    {
+      "text": "Consequence",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "misusing",
+      "type": null
+    },
+    {
+      "text": "debit",
+      "type": null
+    },
+    {
+      "text": "card!",
+      "type": null
+    }
+  ],
+  "answer": "BAD CREDIT",
+  "config": [
+    3,
+    6
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    1,
+    3,
+    5,
+    7
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'misusing', and it's an anagram indicator - if you misuse something, you treat it in an unintended way. We'll need to treat some neighbouring letters in an unintended way by reordering them - that's how we'll find this clue's answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'debit card'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue is a partial &lit, a variant of an &lit. Instead of the whole clue being both wordplay and definition (like an &lit), here the whole clue is the definition and only part of the clue is the wordplay. So, our answer will be a possible consequence of misusing one's debit card.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Rusty",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

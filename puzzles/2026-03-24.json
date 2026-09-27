@@ -1,0 +1,106 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 37,
+  "date": "2026-03-24",
+  "clue": [
+    {
+      "text": "Bad",
+      "type": null
+    },
+    {
+      "text": "loser",
+      "type": null
+    },
+    {
+      "text": "taking",
+      "type": null
+    },
+    {
+      "text": "loss",
+      "type": null
+    },
+    {
+      "text": "like",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "bad",
+      "type": null
+    },
+    {
+      "text": "loser?",
+      "type": null
+    }
+  ],
+  "answer": "SORE",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Bad' and 'taking'. 'Bad' is an anagram indicator - a neighbouring word will go bad or off and its letters will be disordered. 'taking' could be a containing indicator (some fodder is taking some letters within itself), but here it's a deletion indicator - we are taking something from some fodder, deleting it.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          10,
+          16
+        ],
+        [
+          29,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'loser' and 'loss'. We'll use the letters of loser along with a single-letter substitute for 'loss' to reach our answer. Hint: when you suffer a loss, you \"take the ___\".",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          4,
+          9
+        ],
+        [
+          17,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'like a bad loser?', and our answer will be a classic description for a bad loser.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          22,
+          39
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Bluejay",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

@@ -1,0 +1,81 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 136,
+  "date": "2026-07-02",
+  "clue": [
+    {
+      "text": "In",
+      "type": null
+    },
+    {
+      "text": "public?",
+      "type": null
+    },
+    {
+      "text": "Kissing?",
+      "type": null
+    },
+    {
+      "text": "Ew!",
+      "type": null
+    }
+  ],
+  "answer": "ICK",
+  "config": [
+    3
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'In', and it's a hidden word indicator. Our answer will be hiding, in order, 'in' some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          2
+        ],
+        [
+          15,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'public? Kissing'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          3,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Ew', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          22
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: Bumbling",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

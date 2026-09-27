@@ -1,0 +1,97 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 160,
+  "date": "2026-07-26",
+  "clue": [
+    {
+      "text": "Husband-to-be",
+      "type": null
+    },
+    {
+      "text": "steals",
+      "type": null
+    },
+    {
+      "text": "grandma's",
+      "type": null
+    },
+    {
+      "text": "heart...",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "money!",
+      "type": null
+    }
+  ],
+  "answer": "FINANCE",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'steals' and 'heart'. One of these is a selection indicator naming the position of an important letter in neighbouring fodder. The other is a containing indicator - some fodder will take other fodder into itself, surrounding it.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          20
+        ],
+        [
+          31,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Husband-to-be' and 'grandma'. We'll need to find a synonym for one of these and use it with one or more letters from the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          13
+        ],
+        [
+          21,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'money', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          44,
+          49
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Tiptonyan",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

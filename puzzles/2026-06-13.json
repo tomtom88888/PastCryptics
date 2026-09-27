@@ -1,0 +1,85 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 117,
+  "date": "2026-06-13",
+  "clue": [
+    {
+      "text": "I’m",
+      "type": null
+    },
+    {
+      "text": "trapped",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "make-believe",
+      "type": null
+    },
+    {
+      "text": "walls!",
+      "type": null
+    }
+  ],
+  "answer": "MIME",
+  "config": [
+    4
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicators are 'trapped by' and 'walls'. One of these is a selection indicator naming the positions of important letters in neighbouring fodder. And the other is a containing indicator - some fodder will go inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          14
+        ],
+        [
+          28,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'I’m' and 'make-believe'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          15,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit - the whole clue is the definition and the whole clue is the wordplay. So, our answer will be someone that's trapped by make-believe walls!",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Member: WREG",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

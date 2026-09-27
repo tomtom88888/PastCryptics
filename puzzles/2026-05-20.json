@@ -1,0 +1,84 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 94,
+  "date": "2026-05-20",
+  "clue": [
+    {
+      "text": "Caught",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "plot,",
+      "type": null
+    },
+    {
+      "text": "he’ll",
+      "type": null
+    },
+    {
+      "text": "overreact!",
+      "type": null
+    }
+  ],
+  "answer": "OTHELLO",
+  "config": [
+    7
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    6,
+    1,
+    3,
+    5
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Caught up in' and it's a hidden word indicator. Our answer is absorbed, entangled, or involved in some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'plot, he’ll overreact'. We'll need to use these letters to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning the whole clue is the definition and the whole clue is the wordplay. So, here, our answer is someone caught up in a plot who overreacts.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": []
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": null
+  },
+  "setterName": "Member: Rusty Lee",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}

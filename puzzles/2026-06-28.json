@@ -1,0 +1,115 @@
+{
+  "puzzleId": null,
+  "puzzleNumber": 132,
+  "date": "2026-06-28",
+  "clue": [
+    {
+      "text": "Path",
+      "type": null
+    },
+    {
+      "text": "between",
+      "type": null
+    },
+    {
+      "text": "what",
+      "type": null
+    },
+    {
+      "text": "looks",
+      "type": null
+    },
+    {
+      "text": "like",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "pair",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "snakes",
+      "type": null
+    },
+    {
+      "text": "&",
+      "type": null
+    },
+    {
+      "text": "rocks",
+      "type": null
+    }
+  ],
+  "answer": "SWAYS",
+  "config": [
+    5
+  ],
+  "letterRevealOrder": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "hint": null,
+  "hints": [
+    {
+      "text": "This clue's indicator is 'between', and 'what looks like'. One of these is a homoglyph indicator - we'll need to pay attention to the appearance of some neighbouring fodder and replace it with one or more lookalike letters. The other is a containing indicator guiding us to place some fodder inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          12
+        ],
+        [
+          13,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Path' and 'a pair of snakes'. We'll need to find substitutes for both of these - one a synonym, the other something else.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ],
+        [
+          29,
+          45
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'rocks', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          48,
+          53
+        ]
+      ]
+    }
+  ],
+  "par": null,
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": null
+  },
+  "setterName": "Cory Calhoun",
+  "explainerVideo": null,
+  "thumbnail": null,
+  "source": "minutecryptic.today"
+}
