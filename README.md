@@ -29,8 +29,9 @@ The Minute Cryptic API has no archive endpoint. You can only get **today's** puz
 - **Automatically:** `.github/workflows/collect.yml` runs every 6 hours. It saves the current puzzle and commits it. You can also run it by hand from the Actions tab and optionally give it puzzle ids.
 - **By id:** `python3 scripts/collect.py --id <uuid> [<uuid> ...]`
 - **From saved JSON:** `python3 scripts/collect.py --import some-puzzle.json`. This accepts a single puzzle or a list of puzzles.
+- **Backfill:** run the collect workflow with *backfill* ticked, or run `python3 scripts/backfill.py today`. This imports real past clues, with the official hint texts, from [minutecryptic.today](https://minutecryptic.today). `python3 scripts/backfill.py wayback` also tries Wayback Machine snapshots of the official API. That's slow, so it isn't part of the workflow. Official puzzles are never overwritten by imported ones.
 - **Rebuild the index only:** `python3 scripts/collect.py --index-only`
 
 ## Credits
 
-The clues, hints and explainer videos are by the Minute Cryptic team and their setters. The seed puzzles came from the public [is2ac2/minute_cryptic_cli](https://github.com/is2ac2/minute_cryptic_cli) history and from sample responses in [D3codes/WordPlay](https://github.com/D3codes/WordPlay).
+The clues, hints and explainer videos are by the Minute Cryptic team and their setters. Most past puzzles come from [minutecryptic.today](https://minutecryptic.today). The seed puzzles came from the public [is2ac2/minute_cryptic_cli](https://github.com/is2ac2/minute_cryptic_cli) history and from sample responses in [D3codes/WordPlay](https://github.com/D3codes/WordPlay).
