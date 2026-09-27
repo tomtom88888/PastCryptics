@@ -5,6 +5,7 @@ import re, sys, urllib.request, urllib.error
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
 urls = sys.argv[1].split()
 full = sys.argv[2] if len(sys.argv) > 2 else ""
+pat = sys.argv[3] if len(sys.argv) > 3 else ""
 for url in urls:
     print(f"\n######## {url}")
     try:
@@ -16,6 +17,11 @@ for url in urls:
         print("HTTP", e.code); continue
     except Exception as e:
         print("ERR", e); continue
+    if pat:
+        found = sorted(set(re.findall(pat, body)))
+        print("matches:", len(found))
+        for f in found[:400]: print("  M", f[:300])
+        continue
     if full and full in url:
         print(body[:60000]); continue
     links = sorted(set(re.findall(r'(?:href|src)="([^"#]+)"', body)))

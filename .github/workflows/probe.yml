@@ -9,6 +9,9 @@ on:
       full:
         description: "Print full body for URLs containing this substring"
         required: false
+      grep:
+        description: "Regex; print unique matches instead of summary"
+        required: false
 
 permissions:
   contents: read
@@ -21,4 +24,5 @@ jobs:
       - env:
           URLS: ${{ github.event.inputs.urls }}
           FULL: ${{ github.event.inputs.full }}
-        run: python3 scripts/probe.py "$URLS" "$FULL"
+          GREP: ${{ github.event.inputs.grep }}
+        run: python3 scripts/probe.py "$URLS" "$FULL" "$GREP"
