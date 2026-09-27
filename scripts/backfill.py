@@ -12,6 +12,7 @@ Sources, best first:
 Existing files are never overwritten by a lower-quality source.
 """
 import json
+import os
 import re
 import sys
 import time
@@ -57,35 +58,43 @@ def write(puzzle):
 
 
 # ---------------------------------------------------------------- Wayback
+WAYBACK_BUDGET = float(os.environ.get("WAYBACK_MINUTES", "40")) * 60
+
+
 def wayback():
-    ids, snapshots = set(), {}
+    start, added, tried = time.time(), 0, 0
     for host in ("www.minutecryptic.com", "minutecryptic.com"):
         url = ("https://web.archive.org/cdx/search/cdx?" + urllib.parse.urlencode({
             "url": f"{host}/api/daily_puzzle/", "matchType": "prefix", "output": "json",
-            "fl": "timestamp,original,statuscode", "filter": "statuscode:200", "collapse": "digest",
+            "fl": "timestamp,original", "filter": "statuscode:200", "collapse": "timestamp:8",
         }))
         rows = get(url, timeout=180, tries=5) or []
-        print(f"wayback {host}: {max(len(rows) - 1, 0)} captures")
-        for ts, original, _ in rows[1:]:
-            snap = get(f"https://web.archive.org/web/{ts}id_/{original}", timeout=90, tries=3)
-            if isinstance(snap, dict):
-                snap = snap.get("puzzle", snap)
-                if snap.get("puzzleId") and snap.get("date"):
-                    ids.add(snap["puzzleId"])
-                    snapshots[snap["puzzleId"]] = snap
-            time.sleep(1)
-    added = 0
-    for pid in sorted(ids):
-        fresh = get(f"{API_BASE}/id/{pid}", timeout=30) or snapshots[pid]
-        fresh = fresh.get("puzzle", fresh)
-        if not (fresh.get("date") and fresh.get("answer") and fresh.get("clue")):
-            continue
-        if existing_source(fresh["date"]) == "official":
-            continue
-        write(clean(fresh))
-        added += 1
-        print(f"  official {fresh['date']} {fresh['answer']}")
-    print(f"wayback: added {added}")
+        rows = [r for r in rows[1:] if "/par/" not in r[1]]
+        print(f"wayback {host}: {len(rows)} daily captures", flush=True)
+        for ts, original in rows:
+            if time.time() - start > WAYBACK_BUDGET:
+                print("wayback: time budget used up", flush=True)
+                break
+            day = f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}"
+            # a capture usually holds that day's puzzle (or a neighbour's across time zones)
+            if all(existing_source(d) == "official" for d in (day,)):
+                continue
+            tried += 1
+            snap = get(f"https://web.archive.org/web/{ts}id_/{original}", timeout=45, tries=2)
+            if not isinstance(snap, dict):
+                continue
+            snap = snap.get("puzzle", snap)
+            pid = snap.get("puzzleId")
+            fresh = (get(f"{API_BASE}/id/{pid}", timeout=30, tries=2) if pid else None) or snap
+            fresh = fresh.get("puzzle", fresh)
+            if not (fresh.get("date") and fresh.get("answer") and fresh.get("clue")):
+                continue
+            if existing_source(fresh["date"]) == "official":
+                continue
+            write(clean(fresh))
+            added += 1
+            print(f"  official {fresh['date']} {fresh['answer']}", flush=True)
+    print(f"wayback: tried {tried} captures, added {added}", flush=True)
 
 
 # ---------------------------------------------------------------- minutecryptic.today
@@ -168,7 +177,7 @@ def minutecryptic_today():
                 continue
             write(convert_today(p))
             added += 1
-            print(f"  today {p['puzzle_date']} {p['answer']} ({difficulty})")
+            print(f"  today {p['puzzle_date']} {p['answer']} ({difficulty})", flush=True)
             time.sleep(0.5)
         print(f"minutecryptic.today {difficulty}: done ({len(seen)} seen so far)")
     print(f"minutecryptic.today: added {added}")
@@ -176,11 +185,12 @@ def minutecryptic_today():
 
 def main():
     PUZZLE_DIR.mkdir(exist_ok=True)
-    which = sys.argv[1:] or ["wayback", "today"]
-    if "wayback" in which:
-        wayback()
+    which = sys.argv[1:] or ["today", "wayback"]
     if "today" in which:
         minutecryptic_today()
+        build_index()
+    if "wayback" in which:
+        wayback()
     build_index()
 
 

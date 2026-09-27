@@ -31,7 +31,7 @@ jobs:
           BACKFILL: ${{ github.event.inputs.backfill }}
         run: |
           if [ "$BACKFILL" = "true" ]; then
-            python scripts/backfill.py
+            python scripts/backfill.py || echo "backfill finished with errors"
           fi
           if [ -n "$IDS" ]; then
             python scripts/collect.py --id $IDS
@@ -39,8 +39,10 @@ jobs:
             python scripts/collect.py
           fi
       - name: Commit new puzzles
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/collect.py --index-only
           git add puzzles
           git diff --cached --quiet || (git commit -m "Archive puzzles $(date -u +%F)" && git push)
