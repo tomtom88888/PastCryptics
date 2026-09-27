@@ -1,0 +1,114 @@
+{
+  "puzzleId": "88ac4992-c632-4cf8-aede-03921a4cd8f7",
+  "letterRevealOrder": [
+    1,
+    3,
+    0,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Performances",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "‘Inside",
+      "type": null
+    },
+    {
+      "text": "Out’",
+      "type": null
+    },
+    {
+      "text": "cast",
+      "type": null
+    }
+  ],
+  "answer": "ACTS",
+  "puzzlePieces": {
+    "0": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/iClzU9Ag5Vs",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/Z0GdGBt8bUs",
+      "thumbnail": "https://i.ytimg.com/vi/Z0GdGBt8bUs/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-28",
+  "thumbnail": "https://i.ytimg.com/vi/iClzU9Ag5Vs/maxresdefault.jpg",
+  "setterName": "Member: Saintonge",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Inside Out' and it's a swapping indicator. We need to take some letters of our fodder and swap them with some other letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'cast'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          29,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Performances', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 3422,
+    "anonSolverCount": 1644,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}

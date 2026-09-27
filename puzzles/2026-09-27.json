@@ -1,0 +1,135 @@
+{
+  "puzzleId": "b7a2c692-d6f0-4930-86df-653121e81727",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    6,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Re:",
+      "type": null
+    },
+    {
+      "text": "COVID",
+      "type": null
+    },
+    {
+      "text": "variant",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "start",
+      "type": null
+    },
+    {
+      "text": "social",
+      "type": null
+    },
+    {
+      "text": "distancing?",
+      "type": null
+    }
+  ],
+  "answer": "DIVORCE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "V",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/S5qLv1G4Y_Y",
+  "extraExplainerVideos": [],
+  "date": "2026-09-27",
+  "thumbnail": "https://i.ytimg.com/vi/S5qLv1G4Y_Y/maxresdefault.jpg",
+  "setterName": "Member: Nicky",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'variant', and it's an anagram indicator. We'll need to vary the order of the letters in some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Re: COVID'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'start social distancing?' with the question mark implying some stretchiness.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          44
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 72576,
+    "anonSolverCount": 60670,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
