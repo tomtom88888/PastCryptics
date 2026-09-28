@@ -1,0 +1,156 @@
+{
+  "puzzleId": "09a0cc5e-dd7f-47d1-ae51-f1d01043910c",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    3,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Annual",
+      "type": null
+    },
+    {
+      "text": "migrants",
+      "type": null
+    },
+    {
+      "text": "head",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "Germany,",
+      "type": null
+    },
+    {
+      "text": "then",
+      "type": null
+    },
+    {
+      "text": "south",
+      "type": null
+    },
+    {
+      "text": "into,",
+      "type": null
+    },
+    {
+      "text": "say,",
+      "type": null
+    },
+    {
+      "text": "Tripoli?",
+      "type": null
+    }
+  ],
+  "answer": "GEESE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/5XFcPNBaSGg",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/eY_p5a77yaE",
+      "thumbnail": "https://i.ytimg.com/vi/eY_p5a77yaE/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-29",
+  "thumbnail": "https://i.ytimg.com/vi/5XFcPNBaSGg/maxresdefault.jpg",
+  "setterName": "Liam and Cory",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'head to', 'into', and 'say'. One of these is a containing indicator, telling us to put some fodder into other fodder. Another is a selection indicator, naming the position of a particular letter in neighbouring fodder. There's also a homophone indicator, instructing us to speak some fodder aloud and convert that into letters - and there's some stretchiness involved here, hence the question mark.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          16,
+          23
+        ],
+        [
+          44,
+          48
+        ],
+        [
+          50,
+          53
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Germany', 'south', and 'Tripoli'. We'll use substitutions for two of these, with some guidance from the indicator(s), and combine them with letter(s) from the remaining fodder to construct our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          32
+        ],
+        [
+          38,
+          43
+        ],
+        [
+          55,
+          63
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Annual migrants', and our answer will be a group that could be described this way.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          15
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 156,
+    "anonSolverCount": 145,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
