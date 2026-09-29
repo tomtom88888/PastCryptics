@@ -94,7 +94,7 @@
   "setterName": "Liam and Cory",
   "hints": [
     {
-      "text": "This clue's indicators are 'head to', 'into', and 'say'. One of these is a containing indicator, telling us to put some fodder into other fodder. Another is a selection indicator, naming the position of a particular letter in neighbouring fodder. There's also a homophone indicator, instructing us to speak some fodder aloud and convert that into letters - and there's some stretchiness involved here, hence the question mark.",
+      "text": "This clue's indicators are 'head to', 'then', 'into', and 'say'. One is a containing indicator, telling us to put some fodder into other fodder. Another is a selection indicator, naming the position of a particular letter in nearby fodder. There is a positional indicator that shows us the order we need to use our fodder. There's also a homophone indicator, telling us to speak some fodder aloud and convert that into letters - and there's some stretchiness involved here, hence the question mark.",
       "type": "indicators",
       "colour": "pink",
       "highlighting": [
@@ -103,12 +103,16 @@
           23
         ],
         [
+          33,
+          37
+        ],
+        [
           44,
-          48
+          49
         ],
         [
           50,
-          53
+          54
         ]
       ]
     },
@@ -145,8 +149,8 @@
   ],
   "parDetails": {
     "averagePar": 2,
-    "solveCount": 8232,
-    "anonSolverCount": 4063,
+    "solveCount": 22201,
+    "anonSolverCount": 18216,
     "medianSolveTimeSeconds": null,
     "solveTimeP33Seconds": null,
     "solveTimeP67Seconds": null,
