@@ -1,0 +1,134 @@
+{
+  "puzzleId": "bdd8d69e-8d37-493c-8780-a91bcadf4242",
+  "letterRevealOrder": [
+    3,
+    1,
+    5,
+    0,
+    2,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Pyramid",
+      "type": null
+    },
+    {
+      "text": "blocks",
+      "type": null
+    },
+    {
+      "text": "passage",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "tourist",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "e-scooter",
+      "type": null
+    }
+  ],
+  "answer": "STONES",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/K4J0IA11eaU",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/2hiKxSqDWnU",
+      "thumbnail": "https://i.ytimg.com/vi/2hiKxSqDWnU/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-09-30",
+  "thumbnail": "https://i.ytimg.com/vi/K4J0IA11eaU/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'passage of' and it's a hidden word indicator. Our answer will be found within a passage of some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          15,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'tourist on e-scooter'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          26,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Pyramid blocks', and our answer is a word for blocks used in pyramid construction.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 142,
+    "anonSolverCount": 49,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
