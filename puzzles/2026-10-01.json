@@ -1,0 +1,167 @@
+{
+  "puzzleId": "87587786-6bf4-4490-99a7-6c2223baa6a8",
+  "letterRevealOrder": [
+    2,
+    0,
+    6,
+    4,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Spirits",
+      "type": null
+    },
+    {
+      "text": "kept",
+      "type": null
+    },
+    {
+      "text": "low",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "these",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "back",
+      "type": null
+    },
+    {
+      "text": "losses",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "swimming",
+      "type": null
+    },
+    {
+      "text": "races",
+      "type": null
+    }
+  ],
+  "answer": "CELLARS",
+  "puzzlePieces": {
+    "0": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/dpIcr1RMEjE",
+  "extraExplainerVideos": [],
+  "date": "2026-10-01",
+  "thumbnail": "https://i.ytimg.com/vi/dpIcr1RMEjE/maxresdefault.jpg",
+  "setterName": "Member: Cole Baron",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'back to back', 'in', and 'swimming'. One of these is a repetition indicator, telling us to use some neighbouring fodder twice, in this case after applying a substitution. There is also an anagram indicator, telling us that the letters of a neighbouring word will move around. The third is a containing indicator, telling us to put some fodder within other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          26,
+          38
+        ],
+        [
+          46,
+          48
+        ],
+        [
+          49,
+          57
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'losses' and 'races'. We'll use the letters of one with a short substitute for the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          39,
+          45
+        ],
+        [
+          58,
+          63
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Spirits kept low by these', and our answer will be things known for keeping spirits low.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          25
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 91,
+    "anonSolverCount": 92,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
