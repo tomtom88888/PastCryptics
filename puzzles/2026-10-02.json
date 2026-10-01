@@ -77,8 +77,8 @@
   "explainerVideo": "https://youtu.be/VqRl5U3l7Ko",
   "extraExplainerVideos": [
     {
-      "videoUrl": "https://youtu.be/hhEmoHrsH18",
-      "thumbnail": "https://i.ytimg.com/vi/hhEmoHrsH18/maxresdefault.jpg"
+      "videoUrl": "https://youtu.be/JV7NMnyfStM",
+      "thumbnail": "https://i.ytimg.com/vi/JV7NMnyfStM/maxresdefault.jpg"
     }
   ],
   "date": "2026-10-02",
@@ -109,9 +109,9 @@
     }
   ],
   "parDetails": {
-    "averagePar": 2,
-    "solveCount": 122,
-    "anonSolverCount": 47,
+    "averagePar": 3,
+    "solveCount": 6462,
+    "anonSolverCount": 3831,
     "medianSolveTimeSeconds": null,
     "solveTimeP33Seconds": null,
     "solveTimeP67Seconds": null,
