@@ -1,0 +1,121 @@
+{
+  "puzzleId": "90a7d230-c6b6-4b09-b9d1-a5e9bac8284f",
+  "letterRevealOrder": [
+    5,
+    1,
+    3,
+    0,
+    6,
+    2,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Struggle",
+      "type": null
+    },
+    {
+      "text": "between",
+      "type": null
+    },
+    {
+      "text": "content",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "context?",
+      "type": null
+    }
+  ],
+  "answer": "CONTEST",
+  "puzzlePieces": {
+    "0": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/VqRl5U3l7Ko",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/hhEmoHrsH18",
+      "thumbnail": "https://i.ytimg.com/vi/hhEmoHrsH18/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-02",
+  "thumbnail": "https://i.ytimg.com/vi/VqRl5U3l7Ko/maxresdefault.jpg",
+  "setterName": "Member: Jes",
+  "hints": [
+    {
+      "text": "This clue is a double definition – two definitions to the same answer and no wordplay. One of the definitions is 'Struggle'. Our answer will be another word for that, while also matching with the other definition.",
+      "type": "definition 1",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "This clue is a double definition – two definitions to the same answer and no wordplay. One of the definitions is 'between content and context?', and pay attention to the question mark – this definition requires lateral thinking. Find a word that could be described as being 'between content and context?', while also matching with the other definition.",
+      "type": "definition 2",
+      "colour": "blue",
+      "highlighting": [
+        [
+          9,
+          37
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 122,
+    "anonSolverCount": 47,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
