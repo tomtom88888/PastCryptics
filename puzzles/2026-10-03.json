@@ -1,0 +1,108 @@
+{
+  "puzzleId": "97d20687-967a-4403-aa61-04cc48054a66",
+  "letterRevealOrder": [
+    0,
+    2,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Certainly",
+      "type": null
+    },
+    {
+      "text": "ends",
+      "type": null
+    },
+    {
+      "text": "justify",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "means",
+      "type": null
+    }
+  ],
+  "answer": "YES",
+  "puzzlePieces": {
+    "0": {
+      "answer": "Y",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    3
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/HqoNkip76Rs",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/kBTlu5Y9CNk",
+      "thumbnail": "https://i.ytimg.com/vi/kBTlu5Y9CNk/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-03",
+  "thumbnail": "https://i.ytimg.com/vi/HqoNkip76Rs/maxresdefault.jpg",
+  "setterName": "Member: Ben Stuart",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'ends'. It's a selection indicator directing our attention to particular letters from neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'justify the means'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Certainly', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          9
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 145,
+    "anonSolverCount": 14,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
