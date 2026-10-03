@@ -1,0 +1,184 @@
+{
+  "puzzleId": "7d092fb0-df31-4398-a201-050aa1456e37",
+  "letterRevealOrder": [
+    8,
+    0,
+    4,
+    6,
+    2,
+    7,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "“Poorly",
+      "type": null
+    },
+    {
+      "text": "handles",
+      "type": null
+    },
+    {
+      "text": "meat",
+      "type": null
+    },
+    {
+      "text": "sandwiches!”",
+      "type": null
+    },
+    {
+      "text": "–",
+      "type": null
+    },
+    {
+      "text": "bistro",
+      "type": null
+    },
+    {
+      "text": "exposed",
+      "type": null
+    },
+    {
+      "text": "by",
+      "type": null
+    },
+    {
+      "text": "press",
+      "type": null
+    },
+    {
+      "text": "at",
+      "type": null
+    },
+    {
+      "text": "last",
+      "type": null
+    }
+  ],
+  "answer": "MISTREATS",
+  "puzzlePieces": {
+    "0": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    9
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/FZk_sr0uNmQ",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/8js4ui2NwsQ",
+      "thumbnail": "https://i.ytimg.com/vi/8js4ui2NwsQ/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-04",
+  "thumbnail": "https://i.ytimg.com/vi/FZk_sr0uNmQ/maxresdefault.jpg",
+  "setterName": "Cory Calhoun",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'sandwiches', 'exposed', and 'at last'. One of these is a deletion indicator, telling us to remove the outer letters of some fodder. Another is a containing indicator instructing us to enclose some fodder within some other fodder. There is also a selection indicator which points to an important letter in some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          21,
+          31
+        ],
+        [
+          43,
+          50
+        ],
+        [
+          60,
+          67
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'meat', 'bistro', and 'press'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          16,
+          20
+        ],
+        [
+          36,
+          42
+        ],
+        [
+          54,
+          59
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Poorly handles', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          1,
+          15
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 73,
+    "anonSolverCount": 11,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
