@@ -1,0 +1,162 @@
+{
+  "puzzleId": "91ba1c40-fec9-4160-a8a1-3100c831cee0",
+  "letterRevealOrder": [
+    2,
+    4,
+    6,
+    0,
+    3,
+    7,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Costumier",
+      "type": null
+    },
+    {
+      "text": "lost",
+      "type": null
+    },
+    {
+      "text": "three",
+      "type": null
+    },
+    {
+      "text": "coats",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "jewellery",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "dryer?",
+      "type": null
+    }
+  ],
+  "answer": "TUMBLING",
+  "puzzlePieces": {
+    "0": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    8
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/H7jpdF-2Bkk",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/0odWZPg2XU4",
+      "thumbnail": "https://i.ytimg.com/vi/0odWZPg2XU4/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-06",
+  "thumbnail": "https://i.ytimg.com/vi/H7jpdF-2Bkk/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'lost' and 'three coats'. One of these is a deletion indicator, suggesting some fodder will no longer be present. The other is a selection indicator alluding to the positions of important letters in a neighbouring word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          10,
+          14
+        ],
+        [
+          15,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Costumier' and 'jewellery'. We'll need to find a substitute for one of these along with the letters of the other (or some of them) to construct our answer as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          9
+        ],
+        [
+          31,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'in the dryer?', and our answer will be a word that could describe something in the dryer. Some lateral thinking is required, as signified by the question mark.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          41,
+          54
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 633,
+    "anonSolverCount": 71,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
