@@ -1,0 +1,168 @@
+{
+  "puzzleId": "5ef6f9dc-8af5-47b5-a05d-8b37269bf232",
+  "letterRevealOrder": [
+    2,
+    6,
+    0,
+    10,
+    4,
+    8,
+    1,
+    5,
+    9,
+    3,
+    7
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Conditions",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "entry",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "Ironwomen",
+      "type": null
+    },
+    {
+      "text": "v.",
+      "type": null
+    },
+    {
+      "text": "Ironmen",
+      "type": null
+    },
+    {
+      "text": "tournament",
+      "type": null
+    }
+  ],
+  "answer": "ENVIRONMENT",
+  "puzzlePieces": {
+    "0": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "V",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "10": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    11
+  ],
+  "par": 4,
+  "explainerVideo": "https://youtu.be/5-CGiGhbMrA",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/EalOLx86-24",
+      "thumbnail": "https://i.ytimg.com/vi/EalOLx86-24/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-07",
+  "thumbnail": "https://i.ytimg.com/vi/5-CGiGhbMrA/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'entry in', and it's a hidden word indicator. Just as an entry can be part of something larger (like a diary), our answer will form part of some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Ironwomen v. Ironmen tournament'. We'll use these letters (or some of them) to reach our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          23,
+          54
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Conditions', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          10
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 2400,
+    "anonSolverCount": 1091,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
