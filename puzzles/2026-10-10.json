@@ -1,0 +1,168 @@
+{
+  "puzzleId": "de2547fe-4129-4bab-b9e5-68a46ece5190",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    6,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Lie",
+      "type": null
+    },
+    {
+      "text": "about",
+      "type": null
+    },
+    {
+      "text": "rear",
+      "type": null
+    },
+    {
+      "text": "dashcam",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "reversing",
+      "type": null
+    },
+    {
+      "text": "vehicle",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "smashing",
+      "type": null
+    }
+  ],
+  "answer": "SUBLIME",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/TS_Fp_bV4lQ",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/OhAlSIMEIn4",
+      "thumbnail": "https://i.ytimg.com/vi/OhAlSIMEIn4/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-10",
+  "thumbnail": "https://i.ytimg.com/vi/TS_Fp_bV4lQ/maxresdefault.jpg",
+  "setterName": "Member: Patrick K & Liam",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'about', 'rear', 'after' and 'reversing'. One is a reversal indicator, telling us that the order of the letters in some neighbouring fodder will reverse. Another is a containing indicator, guiding us to place some fodder outside other fodder. There is also a repositioning indicator, showing us the order in which to arrange our fodder. And there is a selection indicator, pointing to an important letter in neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          9
+        ],
+        [
+          10,
+          14
+        ],
+        [
+          23,
+          28
+        ],
+        [
+          29,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Lie', 'dashcam', and 'vehicle'. We'll use the letters (or some of them) of two of these, along with a short substitute for the other, to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          15,
+          22
+        ],
+        [
+          39,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'smashing', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          51,
+          59
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 224,
+    "anonSolverCount": 61,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
