@@ -1,0 +1,117 @@
+{
+  "puzzleId": "a12743fb-dbef-498b-90d9-0647f921e03f",
+  "letterRevealOrder": [
+    4,
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Handful",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "diamonds",
+      "type": null
+    },
+    {
+      "text": "put",
+      "type": null
+    },
+    {
+      "text": "down",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "drain",
+      "type": null
+    }
+  ],
+  "answer": "FLUSH",
+  "puzzlePieces": {
+    "0": {
+      "answer": "F",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/3NdJmf10aGI",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/yNKS9f8cY1E",
+      "thumbnail": "https://i.ytimg.com/vi/yNKS9f8cY1E/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-11",
+  "thumbnail": "https://i.ytimg.com/vi/3NdJmf10aGI/maxresdefault.jpg",
+  "setterName": "Member: archimicarus",
+  "hints": [
+    {
+      "text": "This clue is a double definition - two definitions to the same answer and no wordplay. One of the definitions is 'Handful of diamonds'. Our answer will be something that could be described this way, while also matching with the other definition.",
+      "type": "definition 1",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "This clue is a double definition - two definitions to the same answer and no wordplay. One of the definitions is 'put down the drain'. Our answer will be another way of saying that, while also matching with the other definition.",
+      "type": "definition 2",
+      "colour": "blue",
+      "highlighting": [
+        [
+          20,
+          38
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 133,
+    "anonSolverCount": 29,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
