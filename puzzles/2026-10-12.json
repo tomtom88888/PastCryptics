@@ -1,0 +1,150 @@
+{
+  "puzzleId": "103d582e-9886-460c-8dc0-ad0737b4b359",
+  "letterRevealOrder": [
+    1,
+    5,
+    3,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Odds",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "guys",
+      "type": null
+    },
+    {
+      "text": "accepting",
+      "type": null
+    },
+    {
+      "text": "defeat",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "photo",
+      "type": null
+    },
+    {
+      "text": "finish?",
+      "type": null
+    }
+  ],
+  "answer": "GLOSSY",
+  "puzzlePieces": {
+    "0": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "Y",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/tfD5iMxd7Zw",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/pwcBFaLvqkQ",
+      "thumbnail": "https://i.ytimg.com/vi/pwcBFaLvqkQ/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-12",
+  "thumbnail": "https://i.ytimg.com/vi/tfD5iMxd7Zw/maxresdefault.jpg",
+  "setterName": "Member: Sean Rich",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Odds of' and 'accepting'. One is a selection indicator, directing our attention to particular letters from neighbouring fodder. The other is a containing indicator, telling us that some fodder will take other fodder inside it.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          7
+        ],
+        [
+          13,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'guys' and 'defeat'. We'll use the letters from one (or some of them), along with a substitute for the other, to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          12
+        ],
+        [
+          23,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'a photo finish?', and the question mark suggests we'll need to think a little laterally about what a photo finish might be.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          48
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 128,
+    "anonSolverCount": 42,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
