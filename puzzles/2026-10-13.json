@@ -1,0 +1,121 @@
+{
+  "puzzleId": "2302519f-0ce5-4973-8cd2-71a20a82c5a7",
+  "letterRevealOrder": [
+    3,
+    5,
+    1,
+    0,
+    2,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "threw",
+      "type": null
+    },
+    {
+      "text": "contaminated",
+      "type": null
+    },
+    {
+      "text": "waste",
+      "type": null
+    },
+    {
+      "text": "away",
+      "type": null
+    }
+  ],
+  "answer": "WITHER",
+  "puzzlePieces": {
+    "0": {
+      "answer": "W",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/-uiNQoDjrIo",
+  "extraExplainerVideos": [],
+  "date": "2026-10-13",
+  "thumbnail": "https://i.ytimg.com/vi/-uiNQoDjrIo/maxresdefault.jpg",
+  "setterName": "Member: Bluejay",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'contaminated', and it's an anagram indicator. Some neighbouring fodder has been contaminated or tainted, causing its letters to rearrange.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          20
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'I threw'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'waste away', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          21,
+          31
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 904,
+    "anonSolverCount": 125,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
