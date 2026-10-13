@@ -69,7 +69,12 @@
   ],
   "par": 2,
   "explainerVideo": "https://youtu.be/-uiNQoDjrIo",
-  "extraExplainerVideos": [],
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/jQ694U4eIA8",
+      "thumbnail": "https://i.ytimg.com/vi/jQ694U4eIA8/maxresdefault.jpg"
+    }
+  ],
   "date": "2026-10-13",
   "thumbnail": "https://i.ytimg.com/vi/-uiNQoDjrIo/maxresdefault.jpg",
   "setterName": "Member: Bluejay",
@@ -110,8 +115,8 @@
   ],
   "parDetails": {
     "averagePar": 1,
-    "solveCount": 13536,
-    "anonSolverCount": 6026,
+    "solveCount": 61220,
+    "anonSolverCount": 50244,
     "medianSolveTimeSeconds": null,
     "solveTimeP33Seconds": null,
     "solveTimeP67Seconds": null,
