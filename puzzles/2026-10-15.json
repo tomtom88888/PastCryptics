@@ -1,0 +1,164 @@
+{
+  "puzzleId": "7a06fe1f-700a-4619-9167-121b3eff9f13",
+  "letterRevealOrder": [
+    0,
+    6,
+    2,
+    4,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Are",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "okay",
+      "type": null
+    },
+    {
+      "text": "recording",
+      "type": null
+    },
+    {
+      "text": "rap",
+      "type": null
+    },
+    {
+      "text": "about",
+      "type": null
+    },
+    {
+      "text": "overcoming",
+      "type": null
+    },
+    {
+      "text": "obstacles",
+      "type": null
+    },
+    {
+      "text": "on",
+      "type": null
+    },
+    {
+      "text": "the",
+      "type": null
+    },
+    {
+      "text": "streets?",
+      "type": null
+    }
+  ],
+  "answer": "PARKOUR",
+  "puzzlePieces": {
+    "0": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "K",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/6_dGo7HJc_w",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/6MG4tJxlnR8",
+      "thumbnail": "https://i.ytimg.com/vi/6MG4tJxlnR8/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-15",
+  "thumbnail": "https://i.ytimg.com/vi/6_dGo7HJc_w/maxresdefault.jpg",
+  "setterName": "Member: Bluejay",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'recording' and 'about'. One is a reversal indicator, telling us that the letters of some nearby fodder need to be written in reverse order. The other is a homophone indicator, telling us to consider how some neighbouring fodder sounds and replace it with its soundalike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          22
+        ],
+        [
+          27,
+          32
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Are you okay' and 'rap'. We'll use the letters of one, along with a substitute for the other, to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          12
+        ],
+        [
+          23,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'overcoming obstacles on the streets?', and our answer will be a word that could describe this, with the question mark implying some stretchiness.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          69
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 105,
+    "anonSolverCount": 6,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
