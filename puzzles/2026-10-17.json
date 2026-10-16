@@ -1,0 +1,154 @@
+{
+  "puzzleId": "ba819e62-7e8b-4df4-8681-b05db434bb63",
+  "letterRevealOrder": [
+    3,
+    7,
+    5,
+    1,
+    0,
+    4,
+    2,
+    6
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Fudge:",
+      "type": null
+    },
+    {
+      "text": "best",
+      "type": null
+    },
+    {
+      "text": "idea",
+      "type": null
+    },
+    {
+      "text": "when",
+      "type": null
+    },
+    {
+      "text": "you",
+      "type": null
+    },
+    {
+      "text": "have",
+      "type": null
+    },
+    {
+      "text": "high",
+      "type": null
+    },
+    {
+      "text": "blood",
+      "type": null
+    },
+    {
+      "text": "sugar?",
+      "type": null
+    }
+  ],
+  "answer": "DIABETES",
+  "puzzlePieces": {
+    "0": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    8
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/orJ8Z1AB2Lk",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/kLMp_mwyOqo",
+      "thumbnail": "https://i.ytimg.com/vi/kLMp_mwyOqo/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-17",
+  "thumbnail": "https://i.ytimg.com/vi/orJ8Z1AB2Lk/maxresdefault.jpg",
+  "setterName": "Member: Rob D",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Fudge', and it's an anagram indicator. We'll need to 'fudge' (or mess up) some neighbouring fodder, rearranging its letters to reach our answer.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'best idea'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          7,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'when you have high blood sugar?', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          17,
+          48
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 74,
+    "anonSolverCount": 6,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
