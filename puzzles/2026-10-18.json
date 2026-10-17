@@ -1,0 +1,136 @@
+{
+  "puzzleId": "43839abf-9a1b-4ef1-84be-9b391ad8e158",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    1,
+    5,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Oh",
+      "type": null
+    },
+    {
+      "text": "well.",
+      "type": null
+    },
+    {
+      "text": "Cry",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "undo",
+      "type": null
+    },
+    {
+      "text": "tie",
+      "type": null
+    }
+  ],
+  "answer": "SO BE IT",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    2,
+    2,
+    2
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/IZMbkjkA-kw",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/5oTpB77rhTA",
+      "thumbnail": "https://i.ytimg.com/vi/5oTpB77rhTA/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-18",
+  "thumbnail": "https://i.ytimg.com/vi/IZMbkjkA-kw/maxresdefault.jpg",
+  "setterName": "Member: Deccan",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'undo', and it's a reversal indicator. When we undo something, we reverse an action – and here, we'll need to reverse the order of the letters in some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Cry' and 'tie'. We'll need to find a common substitute for one of these, then use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          12
+        ],
+        [
+          22,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Oh well', and our answer will be another way of saying that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 9,
+    "anonSolverCount": 2,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
