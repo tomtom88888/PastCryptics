@@ -1,0 +1,163 @@
+{
+  "puzzleId": "a9462578-6f1c-4fc9-8077-80c7278de184",
+  "letterRevealOrder": [
+    6,
+    4,
+    0,
+    10,
+    2,
+    8,
+    1,
+    7,
+    3,
+    9,
+    5,
+    11
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Cash",
+      "type": null
+    },
+    {
+      "text": "lost",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "‘em",
+      "type": null
+    },
+    {
+      "text": "recklessly!",
+      "type": null
+    }
+  ],
+  "answer": "SLOT MACHINES",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "10": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "11": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4,
+    8
+  ],
+  "par": 4,
+  "explainerVideo": "https://youtu.be/-5HpWIca3jk",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/9iRnEBpOrAc",
+      "thumbnail": "https://i.ytimg.com/vi/9iRnEBpOrAc/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-20",
+  "thumbnail": "https://i.ytimg.com/vi/-5HpWIca3jk/maxresdefault.jpg",
+  "setterName": "Member: aleks",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'recklessly', and it's an anagram indicator. Some neighbouring fodder has been handled recklessly, causing its letters to be thrown into disarray.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          27
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Cash lost in ‘em'. We'll use these letters to construct our answer, as guided by the clue's indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is both definition and wordplay. So, our definition here is 'Cash lost in ‘em recklessly!', and our answer will be something that fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          28
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 286,
+    "anonSolverCount": 21,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}

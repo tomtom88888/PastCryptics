@@ -1,5 +1,15 @@
 [
  {
+  "date": "2026-10-20",
+  "id": "a9462578-6f1c-4fc9-8077-80c7278de184",
+  "clue": "Cash lost in ‘em recklessly!",
+  "config": [
+   4,
+   8
+  ],
+  "setter": "Member: aleks"
+ },
+ {
   "date": "2026-10-19",
   "id": "56c669e7-19b4-435f-8131-1051d4a21f4c",
   "clue": "Wrap, burger, rice and tofu - all 50% off",
