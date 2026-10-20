@@ -1,0 +1,152 @@
+{
+  "puzzleId": "1f5485a1-9b76-4875-b202-7d334052cce5",
+  "letterRevealOrder": [
+    1,
+    7,
+    3,
+    5,
+    0,
+    6,
+    2,
+    8,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Being",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "Rome,",
+      "type": null
+    },
+    {
+      "text": "“X”",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "ten,",
+      "type": null
+    },
+    {
+      "text": "certainly",
+      "type": null
+    }
+  ],
+  "answer": "EXISTENCE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "X",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    9
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/vb7oBIs8Av0",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/53bHKmfUuB4",
+      "thumbnail": "https://i.ytimg.com/vi/53bHKmfUuB4/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-21",
+  "thumbnail": "https://i.ytimg.com/vi/vb7oBIs8Av0/maxresdefault.jpg",
+  "setterName": "Member: Asaf Isser",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'in', and it's a hidden word indicator. Our answer will be hiding within some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          6,
+          8
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Rome, “X” is ten, certainly'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          9,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Being', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 96,
+    "anonSolverCount": 5,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
