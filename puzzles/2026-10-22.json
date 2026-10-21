@@ -1,0 +1,140 @@
+{
+  "puzzleId": "8e31c43d-ace5-4e01-9fd3-47933f629970",
+  "letterRevealOrder": [
+    3,
+    1,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Donation",
+      "type": null
+    },
+    {
+      "text": "boxes",
+      "type": null
+    },
+    {
+      "text": "are",
+      "type": null
+    },
+    {
+      "text": "said",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "be",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "scam",
+      "type": null
+    }
+  ],
+  "answer": "GRIFT",
+  "puzzlePieces": {
+    "0": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "F",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/MGnSeeV93c8",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/cfNAkYbzpKc",
+      "thumbnail": "https://i.ytimg.com/vi/cfNAkYbzpKc/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-22",
+  "thumbnail": "https://i.ytimg.com/vi/MGnSeeV93c8/maxresdefault.jpg",
+  "setterName": "Member: Rusty Lee",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'boxes' and 'said'. One is a containing indicator, telling us to pack some fodder inside other fodder. The other is a homophone indicator, telling us to consider how some neighbouring fodder sounds and replace it with its soundalike.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          14
+        ],
+        [
+          19,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Donation' and 'are'. We'll need to find substitutes for both of these and use them to construct our answer, as guided by the clue's indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          15,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'a scam', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          30,
+          36
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 76,
+    "anonSolverCount": 10,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
