@@ -99,26 +99,26 @@
       "highlighting": [
         [
           0,
-          7
+          5
         ]
       ]
     },
     {
-      "text": "Our definition here is 'ongoing court battle', and our answer will be a word for that.",
+      "text": "Our definition here is 'ongoing court battle?', and our answer will be another way of describing that.",
       "type": "definition",
       "colour": "blue",
       "highlighting": [
         [
           27,
-          47
+          48
         ]
       ]
     }
   ],
   "parDetails": {
-    "averagePar": 1,
-    "solveCount": 75,
-    "anonSolverCount": 3,
+    "averagePar": 2,
+    "solveCount": 1749,
+    "anonSolverCount": 772,
     "medianSolveTimeSeconds": null,
     "solveTimeP33Seconds": null,
     "solveTimeP67Seconds": null,
