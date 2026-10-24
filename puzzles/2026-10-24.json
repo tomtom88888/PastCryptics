@@ -82,7 +82,7 @@
   "setterName": "Members: Rusty Lee & D.B. Cooper",
   "hints": [
     {
-      "text": "This clue's indicator is 'switching sides', and it's a swapping indicator, telling us to exchange the positions of certain letters in neighbouring fodder.",
+      "text": "This clue's indicator is 'switching sides', and it's a swapping indicator, telling us to exchange certain letters in neighbouring fodder.",
       "type": "indicators",
       "colour": "pink",
       "highlighting": [
@@ -117,8 +117,8 @@
   ],
   "parDetails": {
     "averagePar": 2,
-    "solveCount": 18047,
-    "anonSolverCount": 13523,
+    "solveCount": 40858,
+    "anonSolverCount": 38253,
     "medianSolveTimeSeconds": null,
     "solveTimeP33Seconds": null,
     "solveTimeP67Seconds": null,
