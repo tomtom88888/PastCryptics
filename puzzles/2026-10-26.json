@@ -1,0 +1,126 @@
+{
+  "puzzleId": "33f84f17-b033-4c8c-806f-3f9e1a85c296",
+  "letterRevealOrder": [
+    2,
+    0,
+    3,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Pop",
+      "type": null
+    },
+    {
+      "text": "duos",
+      "type": null
+    },
+    {
+      "text": "leading",
+      "type": null
+    },
+    {
+      "text": "song",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "dance",
+      "type": null
+    }
+  ],
+  "answer": "SODA",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/iApqe-PwCU0",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/YaZsuM91Kpg",
+      "thumbnail": "https://i.ytimg.com/vi/YaZsuM91Kpg/maxresdefault.jpg"
+    },
+    {
+      "videoUrl": "https://youtu.be/CgJz03E-u7o",
+      "thumbnail": "https://i.ytimg.com/vi/CgJz03E-u7o/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-26",
+  "thumbnail": "https://i.ytimg.com/vi/iApqe-PwCU0/maxresdefault.jpg",
+  "setterName": "Member: Jack Snipe",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'duos leading' - a selection indicator naming the positions of important letters in neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'song' and 'dance'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          17,
+          21
+        ],
+        [
+          26,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Pop', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 95,
+    "anonSolverCount": 10,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
