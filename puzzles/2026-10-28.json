@@ -1,0 +1,136 @@
+{
+  "puzzleId": "4a106f3a-e9a0-47b7-b2f0-fd124bf8accf",
+  "letterRevealOrder": [
+    0,
+    4,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Easy",
+      "type": null
+    },
+    {
+      "text": "modes",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "Scrabble,",
+      "type": null
+    },
+    {
+      "text": "Bananagrams,",
+      "type": null
+    },
+    {
+      "text": "Chess,",
+      "type": null
+    },
+    {
+      "text": "Pictionary",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "cryptics?",
+      "type": null
+    }
+  ],
+  "answer": "BASIC",
+  "puzzlePieces": {
+    "0": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/qcPfbZO_4fw",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/osh_4uh5dvY",
+      "thumbnail": "https://i.ytimg.com/vi/osh_4uh5dvY/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-28",
+  "thumbnail": "https://i.ytimg.com/vi/qcPfbZO_4fw/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'modes for', and it's a kind of selection indicator, and a pretty non-standard one at that. We'll need to think about what 'modes' could mean in relation to the letters of the neighbouring words.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          5,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Scrabble, Bananagrams, Chess, Pictionary and cryptics'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          68
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Easy', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 100,
+    "anonSolverCount": 8,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
