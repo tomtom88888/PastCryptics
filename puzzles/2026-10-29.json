@@ -1,0 +1,110 @@
+{
+  "puzzleId": "733a2f36-6687-4f6f-a6e4-9ea5f902cadb",
+  "letterRevealOrder": [
+    2,
+    0,
+    3,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Pretty",
+      "type": null
+    },
+    {
+      "text": "far-fetched",
+      "type": null
+    },
+    {
+      "text": "information",
+      "type": null
+    }
+  ],
+  "answer": "FAIR",
+  "puzzlePieces": {
+    "0": {
+      "answer": "F",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/ZLOU7t3Zb0I",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/tKJ9ND_pTQI",
+      "thumbnail": "https://i.ytimg.com/vi/tKJ9ND_pTQI/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-29",
+  "thumbnail": "https://i.ytimg.com/vi/ZLOU7t3Zb0I/maxresdefault.jpg",
+  "setterName": "Member: D. B. Cooper",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'fetched', and it's a containing indicator. Some fodder will be gathered up by other fodder and held within.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'far' and 'information'. We'll use the letters of one, along with a short substitution for the other, to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          7,
+          10
+        ],
+        [
+          19,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Pretty', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 132,
+    "anonSolverCount": 19,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
