@@ -1,0 +1,138 @@
+{
+  "puzzleId": "8efe3320-cf00-4593-a9c0-e2c3ce9be353",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Fix",
+      "type": null
+    },
+    {
+      "text": "broadcast",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "replay",
+      "type": null
+    },
+    {
+      "text": "is",
+      "type": null
+    },
+    {
+      "text": "delayed?",
+      "type": null
+    }
+  ],
+  "answer": "REPAIR",
+  "puzzlePieces": {
+    "0": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/Tjvq7zPoOIg",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/1p7bsGNk0B4",
+      "thumbnail": "https://i.ytimg.com/vi/1p7bsGNk0B4/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-30",
+  "thumbnail": "https://i.ytimg.com/vi/Tjvq7zPoOIg/maxresdefault.jpg",
+  "setterName": "Member: TrippyLG",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'after' and 'is delayed?'. One is a repositioning indicator, showing us the order in which to arrange our fodder. The other is a deletion indicator, suggesting that some fodder needs to be deleted from other fodder. The question mark suggests that some lateral thinking is required here.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          14,
+          19
+        ],
+        [
+          27,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'broadcast' and 'replay'. We'll need to find a common substitution for one of these, along with the letters of the other, to construct our answer as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          4,
+          13
+        ],
+        [
+          20,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Fix', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 110,
+    "anonSolverCount": 12,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}

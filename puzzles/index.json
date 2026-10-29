@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-30",
+  "id": "8efe3320-cf00-4593-a9c0-e2c3ce9be353",
+  "clue": "Fix broadcast after replay is delayed?",
+  "config": [
+   6
+  ],
+  "setter": "Member: TrippyLG"
+ },
+ {
   "date": "2026-10-29",
   "id": "733a2f36-6687-4f6f-a6e4-9ea5f902cadb",
   "clue": "Pretty far-fetched information",
