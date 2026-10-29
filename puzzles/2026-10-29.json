@@ -57,7 +57,7 @@
   ],
   "date": "2026-10-29",
   "thumbnail": "https://i.ytimg.com/vi/ZLOU7t3Zb0I/maxresdefault.jpg",
-  "setterName": "Member: D. B. Cooper",
+  "setterName": "Member: D.B. Cooper",
   "hints": [
     {
       "text": "This clue's indicator is 'fetched', and it's a containing indicator. Some fodder will be gathered up by other fodder and held within.",
@@ -99,8 +99,8 @@
   ],
   "parDetails": {
     "averagePar": 2,
-    "solveCount": 7691,
-    "anonSolverCount": 4374,
+    "solveCount": 21135,
+    "anonSolverCount": 20605,
     "medianSolveTimeSeconds": null,
     "solveTimeP33Seconds": null,
     "solveTimeP67Seconds": null,
