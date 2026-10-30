@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-31",
+  "id": "31a9679b-5fd7-43fe-9062-ca37fd54063d",
+  "clue": "Old snob rattled and shook tin for a bank deposit?",
+  "config": [
+   5
+  ],
+  "setter": "Member: D.B. Cooper with Liam"
+ },
+ {
   "date": "2026-10-30",
   "id": "8efe3320-cf00-4593-a9c0-e2c3ce9be353",
   "clue": "Fix broadcast after replay is delayed?",

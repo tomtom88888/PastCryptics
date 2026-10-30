@@ -1,0 +1,148 @@
+{
+  "puzzleId": "31a9679b-5fd7-43fe-9062-ca37fd54063d",
+  "letterRevealOrder": [
+    1,
+    3,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Old",
+      "type": null
+    },
+    {
+      "text": "snob",
+      "type": null
+    },
+    {
+      "text": "rattled",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "shook",
+      "type": null
+    },
+    {
+      "text": "tin",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "bank",
+      "type": null
+    },
+    {
+      "text": "deposit?",
+      "type": null
+    }
+  ],
+  "answer": "BLOOD",
+  "puzzlePieces": {
+    "0": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/tz-Wqt3r020",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/AEov3hbyPYY",
+      "thumbnail": "https://i.ytimg.com/vi/AEov3hbyPYY/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-10-31",
+  "thumbnail": "https://i.ytimg.com/vi/tz-Wqt3r020/maxresdefault.jpg",
+  "setterName": "Member: D.B. Cooper with Liam",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'rattled' and 'shook'. One is an anagram indicator, telling us that the letters of neighbouring fodder have been upset and put into a new order. The other is a deletion indicator, suggesting that certain fodder has been gotten rid of.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          16
+        ],
+        [
+          21,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Old snob' and 'tin'. We'll need to find a common substitute for one of these and use it with the letters of the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          27,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'a bank deposit?', and our answer will be something that fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          35,
+          50
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 129,
+    "anonSolverCount": 42,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
