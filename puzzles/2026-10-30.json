@@ -127,8 +127,8 @@
   ],
   "parDetails": {
     "averagePar": 3,
-    "solveCount": 74824,
-    "anonSolverCount": 73301,
+    "solveCount": 84851,
+    "anonSolverCount": 84205,
     "medianSolveTimeSeconds": null,
     "solveTimeP33Seconds": null,
     "solveTimeP67Seconds": null,
