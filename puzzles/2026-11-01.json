@@ -1,0 +1,122 @@
+{
+  "puzzleId": "0275cf05-cb7b-4c86-900f-937d53cc4027",
+  "letterRevealOrder": [
+    1,
+    3,
+    0,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Doomscrolling",
+      "type": null
+    },
+    {
+      "text": "has",
+      "type": null
+    },
+    {
+      "text": "become",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "state",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "mind",
+      "type": null
+    }
+  ],
+  "answer": "MOOD",
+  "puzzlePieces": {
+    "0": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/KyLNNIr28tw",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/SyOQtmrAjJQ",
+      "thumbnail": "https://i.ytimg.com/vi/SyOQtmrAjJQ/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-01",
+  "thumbnail": "https://i.ytimg.com/vi/KyLNNIr28tw/maxresdefault.jpg",
+  "setterName": "Member: D.B. Cooper",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'scrolling', and it's a reversal indicator. Like a scroll of paper, some neighbouring fodder will coil or wind back on itself, reversing the order of its letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Doom'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'a state of mind', and our answer will be another word for that. 'Has become' is simply a linking phrase, connecting the wordplay to the definition.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          25,
+          40
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 139,
+    "anonSolverCount": 84,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
