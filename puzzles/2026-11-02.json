@@ -1,0 +1,128 @@
+{
+  "puzzleId": "c8c9650d-1561-4b69-ab97-24bdcca8ec94",
+  "letterRevealOrder": [
+    1,
+    3,
+    2,
+    0,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "The",
+      "type": null
+    },
+    {
+      "text": "spun-around",
+      "type": null
+    },
+    {
+      "text": "unlimited",
+      "type": null
+    },
+    {
+      "text": "sign!",
+      "type": null
+    }
+  ],
+  "answer": "EIGHT",
+  "puzzlePieces": {
+    "0": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/WPsvonSl1MY",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/FAbxTBlSWZY",
+      "thumbnail": "https://i.ytimg.com/vi/FAbxTBlSWZY/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-02",
+  "thumbnail": "https://i.ytimg.com/vi/WPsvonSl1MY/maxresdefault.jpg",
+  "setterName": "Member: WREG",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'spun', 'around' and 'unlimited'. One is a deletion indicator specifying the positions of letters to remove from neighbouring fodder. Another is a reversal indicator telling us to turn some neighbouring fodder back to front. There is also a containing indicator telling us to put some fodder inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          8
+        ],
+        [
+          9,
+          15
+        ],
+        [
+          16,
+          25
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'The' and 'sign'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          26,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is both definition and wordplay. Our definition here is 'The spun-around unlimited sign!', and our answer will be something that fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          31
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 325,
+    "anonSolverCount": 44,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
