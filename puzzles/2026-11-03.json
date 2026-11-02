@@ -1,0 +1,182 @@
+{
+  "puzzleId": "218158f8-ac8d-4c0e-92f7-0ff0f86aeaae",
+  "letterRevealOrder": [
+    4,
+    2,
+    0,
+    10,
+    8,
+    6,
+    1,
+    9,
+    3,
+    11,
+    5,
+    7
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Single",
+      "type": null
+    },
+    {
+      "text": "title",
+      "type": null
+    },
+    {
+      "text": "track",
+      "type": null
+    },
+    {
+      "text": "from",
+      "type": null
+    },
+    {
+      "text": "album:",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "demo",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "sell",
+      "type": null
+    },
+    {
+      "text": "exclusively",
+      "type": null
+    }
+  ],
+  "answer": "MADEMOISELLE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "10": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "11": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    12
+  ],
+  "par": 4,
+  "explainerVideo": "https://youtu.be/S0iMuRphi7E",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/7EtC3CiHDRk",
+      "thumbnail": "https://i.ytimg.com/vi/7EtC3CiHDRk/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-03",
+  "thumbnail": "https://i.ytimg.com/vi/S0iMuRphi7E/maxresdefault.jpg",
+  "setterName": "Member: Ben Stuart",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'track from', and it's a hidden word indicator. A track can represent part of a larger work, and here our answer will form part of some neighbouring fodder, hiding within its letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          13,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'album: a demo I sell exclusively'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          56
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Single title', and our answer will be a word that fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 922,
+    "anonSolverCount": 200,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
