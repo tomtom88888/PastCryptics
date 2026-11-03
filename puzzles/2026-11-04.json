@@ -1,0 +1,104 @@
+{
+  "puzzleId": "6322f49c-9874-4f81-acfa-e9ace8e2e350",
+  "letterRevealOrder": [
+    2,
+    0,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Tear",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "clown",
+      "type": null
+    }
+  ],
+  "answer": "OAF",
+  "puzzlePieces": {
+    "0": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "F",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    3
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/6PGzF-9HBXc",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/loNN--EzQNA",
+      "thumbnail": "https://i.ytimg.com/vi/loNN--EzQNA/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-04",
+  "thumbnail": "https://i.ytimg.com/vi/6PGzF-9HBXc/maxresdefault.jpg",
+  "setterName": "Member: Ej Weisfogel",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Tear', and it's an anagram indicator. We'll need to tear apart some neighbouring fodder and rearrange its letters into a new order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'of a'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'clown', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          10,
+          15
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 681,
+    "anonSolverCount": 145,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
