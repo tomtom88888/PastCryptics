@@ -1,0 +1,160 @@
+{
+  "puzzleId": "ff22e533-e0d7-4a2b-bff4-189818c5b8ea",
+  "letterRevealOrder": [
+    2,
+    4,
+    0,
+    6,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Polar",
+      "type": null
+    },
+    {
+      "text": "bears",
+      "type": null
+    },
+    {
+      "text": "turned",
+      "type": null
+    },
+    {
+      "text": "up",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "fashion,",
+      "type": null
+    },
+    {
+      "text": "very",
+      "type": null
+    },
+    {
+      "text": "cool",
+      "type": null
+    },
+    {
+      "text": "(and",
+      "type": null
+    },
+    {
+      "text": "hot!)",
+      "type": null
+    }
+  ],
+  "answer": "POPULAR",
+  "puzzlePieces": {
+    "0": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/vFxX7Za7hlM",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/4L7lRZQwRAw",
+      "thumbnail": "https://i.ytimg.com/vi/4L7lRZQwRAw/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-05",
+  "thumbnail": "https://i.ytimg.com/vi/vFxX7Za7hlM/maxresdefault.jpg",
+  "setterName": "Member: Tim Randalls with Liam & Angas",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'bears' and 'turned'. One is a containing indicator telling us that some fodder will carry other fodder within it. The other is a reversal indicator instructing us to reverse the order of the letters in a neighbouring word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          6,
+          11
+        ],
+        [
+          12,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Polar' and 'up'. We'll use these words to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          5
+        ],
+        [
+          19,
+          21
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'in fashion, very cool (and hot!)', and our answer will be another word for these expressions.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          22,
+          54
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 3259,
+    "anonSolverCount": 1919,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
