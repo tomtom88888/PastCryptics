@@ -1,0 +1,136 @@
+{
+  "puzzleId": "64962e91-5e3c-4394-8d73-f74e87cc6607",
+  "letterRevealOrder": [
+    1,
+    3,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Checked",
+      "type": null
+    },
+    {
+      "text": "identification",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "dragging",
+      "type": null
+    },
+    {
+      "text": "latecomers",
+      "type": null
+    },
+    {
+      "text": "off",
+      "type": null
+    },
+    {
+      "text": "plane",
+      "type": null
+    }
+  ],
+  "answer": "PLAID",
+  "puzzlePieces": {
+    "0": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/gBbZIwJhbpI",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/FYtS1-VyCas",
+      "thumbnail": "https://i.ytimg.com/vi/FYtS1-VyCas/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-07",
+  "thumbnail": "https://i.ytimg.com/vi/gBbZIwJhbpI/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'after' and 'dragging latecomers off'. One is a repositioning indicator telling us the order in which to arrange our fodder. The other is a deletion indicator telling us that neighbouring fodder will have some of its letters taken away.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          23,
+          28
+        ],
+        [
+          29,
+          52
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'identification' and 'plane'. We'll need to find a short substitute for one of these and use it with the letters of the other (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          8,
+          22
+        ],
+        [
+          53,
+          58
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Checked', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 3345,
+    "anonSolverCount": 1638,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
