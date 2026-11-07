@@ -1,0 +1,124 @@
+{
+  "puzzleId": "b00d5297-452c-439f-b9d6-8536abd6f5cc",
+  "letterRevealOrder": [
+    3,
+    5,
+    1,
+    2,
+    0,
+    6,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Beat",
+      "type": null
+    },
+    {
+      "text": "dry",
+      "type": null
+    },
+    {
+      "text": "heat!",
+      "type": null
+    }
+  ],
+  "answer": "HYDRATE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "Y",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    7
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/kZFVWBanaU4",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/s1-GO8BZn5Q",
+      "thumbnail": "https://i.ytimg.com/vi/s1-GO8BZn5Q/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-08",
+  "thumbnail": "https://i.ytimg.com/vi/kZFVWBanaU4/maxresdefault.jpg",
+  "setterName": "Member: Bluejay",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Beat', and it's an anagram indicator. We'll need to beat up some neighbouring words, breaking them apart to rearrange the letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          4
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'dry heat!'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          5,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "This clue is an &lit, meaning that the whole clue is both definition and wordplay. Our definition here is 'Beat dry heat!', and our answer will be a way of doing that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          14
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 182,
+    "anonSolverCount": 72,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
