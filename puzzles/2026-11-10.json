@@ -1,0 +1,136 @@
+{
+  "puzzleId": "4e7c7980-c961-45e4-b0e1-028eb4e6d276",
+  "letterRevealOrder": [
+    1,
+    3,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Shakespeare's",
+      "type": null
+    },
+    {
+      "text": "your",
+      "type": null
+    },
+    {
+      "text": "thing,",
+      "type": null
+    },
+    {
+      "text": "not",
+      "type": null
+    },
+    {
+      "text": "golf,",
+      "type": null
+    },
+    {
+      "text": "sweetheart",
+      "type": null
+    }
+  ],
+  "answer": "THINE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/VuzRobwlsqg",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/04pcTO8FBOg",
+      "thumbnail": "https://i.ytimg.com/vi/04pcTO8FBOg/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-10",
+  "thumbnail": "https://i.ytimg.com/vi/VuzRobwlsqg/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'not' and 'heart'. One is a deletion indicator telling us that some fodder will be excluded from other fodder. The other is a selection indicator naming the position of an important letter in neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          26,
+          29
+        ],
+        [
+          41,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'thing', 'golf' and 'sweet'. We'll need to find a common substitute for one of these and use it with the letters of the others (or some of them) to construct our answer, as guided by the clue's indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          19,
+          24
+        ],
+        [
+          30,
+          34
+        ],
+        [
+          36,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Shakespeare's your', and our answer will be a word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          18
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 6973,
+    "anonSolverCount": 2862,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
