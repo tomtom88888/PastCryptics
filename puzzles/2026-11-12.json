@@ -1,0 +1,115 @@
+{
+  "puzzleId": "73db590c-f1dc-48dd-81d8-ef0dc8a5606a",
+  "letterRevealOrder": [
+    0,
+    2,
+    1,
+    3
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Hi",
+      "type": null
+    },
+    {
+      "text": "and",
+      "type": null
+    },
+    {
+      "text": "bye",
+      "type": null
+    },
+    {
+      "text": "when",
+      "type": null
+    },
+    {
+      "text": "Italian-American",
+      "type": null
+    },
+    {
+      "text": "spies",
+      "type": null
+    },
+    {
+      "text": "pizza",
+      "type": null
+    }
+  ],
+  "answer": "CIAO",
+  "puzzlePieces": {
+    "0": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/mKt5Wuqdsd0",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/9-pAK1Ii4UQ",
+      "thumbnail": "https://i.ytimg.com/vi/9-pAK1Ii4UQ/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-12",
+  "thumbnail": "https://i.ytimg.com/vi/mKt5Wuqdsd0/maxresdefault.jpg",
+  "setterName": "Member: Dunc with Liam",
+  "hints": [
+    {
+      "text": "This clue's fodder is 'American spies' and 'pizza'. We'll need to find substitutes for both of these - one a common substitute, the other suggested by its shape - and combine them to construct our answer.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          24,
+          38
+        ],
+        [
+          39,
+          44
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Hi and bye when Italian', and our answer will be something that fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          23
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 3588,
+    "anonSolverCount": 1476,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
