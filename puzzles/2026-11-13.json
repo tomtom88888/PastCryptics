@@ -1,0 +1,154 @@
+{
+  "puzzleId": "047d9173-1111-4887-8e54-93e0b544800f",
+  "letterRevealOrder": [
+    5,
+    3,
+    1,
+    7,
+    0,
+    6,
+    2,
+    4
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Liver",
+      "type": null
+    },
+    {
+      "text": "virus",
+      "type": null
+    },
+    {
+      "text": "damaged",
+      "type": null
+    },
+    {
+      "text": "5-40%",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "organ?",
+      "type": null
+    }
+  ],
+  "answer": "SURVIVOR",
+  "puzzlePieces": {
+    "0": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "V",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "V",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    8
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/aex1UyPiMRQ",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/pux7A678yoE",
+      "thumbnail": "https://i.ytimg.com/vi/pux7A678yoE/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-13",
+  "thumbnail": "https://i.ytimg.com/vi/aex1UyPiMRQ/maxresdefault.jpg",
+  "setterName": "Member: Rae D",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'damaged' and '40% of'. One is an anagram indicator suggesting that a neighbouring word will be broken apart, with its letters rearranged into a new order. The other is a selection indicator instructing us to use certain letters from neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          12,
+          19
+        ],
+        [
+          22,
+          28
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'virus', '5' and 'organ'. We'll need to find a common substitute for one of these and use it with the letters of the others (or some of them) to construct our answer, as guided by the clue's indicators.",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          6,
+          11
+        ],
+        [
+          20,
+          21
+        ],
+        [
+          29,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Liver', and our answer will be another word for that, with the clue's question mark denoting some stretchiness here.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 3600,
+    "anonSolverCount": 1618,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
