@@ -1,0 +1,158 @@
+{
+  "puzzleId": "8564f65c-6466-41aa-9ec3-f0f57b59336a",
+  "letterRevealOrder": [
+    3,
+    1,
+    2,
+    0
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Red",
+      "type": null
+    },
+    {
+      "text": "Sox",
+      "type": null
+    },
+    {
+      "text": "lost",
+      "type": null
+    },
+    {
+      "text": "11-1,",
+      "type": null
+    },
+    {
+      "text": "reeling",
+      "type": null
+    },
+    {
+      "text": "after",
+      "type": null
+    },
+    {
+      "text": "debut",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "rookie",
+      "type": null
+    },
+    {
+      "text": "Yankee",
+      "type": null
+    }
+  ],
+  "answer": "ROSY",
+  "puzzlePieces": {
+    "0": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "Y",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/9S1lbG38pwg",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/8fx7umhsZG8",
+      "thumbnail": "https://i.ytimg.com/vi/8fx7umhsZG8/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-15",
+  "thumbnail": "https://i.ytimg.com/vi/9S1lbG38pwg/maxresdefault.jpg",
+  "setterName": "Member: Tanner Burton",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'lost', 'reeling', 'after' and 'debut of'. One is a selection indicator naming the position of an important letter in neighbouring fodder. Another is a repositioning indicator telling us the order in which to arrange our fodder. There is also a deletion indicator telling us to remove some fodder from other fodder, and a reversal indicator suggesting that some neighbouring fodder will spin around, reversing the order of its letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          12
+        ],
+        [
+          19,
+          26
+        ],
+        [
+          27,
+          32
+        ],
+        [
+          33,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Sox', '11-1,', 'rookie', and 'Yankee'. We'll need to find substitutes for two of these, and use them with the letters of the others (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          4,
+          7
+        ],
+        [
+          13,
+          18
+        ],
+        [
+          42,
+          48
+        ],
+        [
+          49,
+          55
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Red', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 2163,
+    "anonSolverCount": 911,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
