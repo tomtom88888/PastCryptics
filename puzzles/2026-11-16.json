@@ -1,0 +1,128 @@
+{
+  "puzzleId": "cf2a8fbc-2fb8-4df2-ba8c-f5496a883642",
+  "letterRevealOrder": [
+    2,
+    0,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Strive",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "be",
+      "type": null
+    },
+    {
+      "text": "one",
+      "type": null
+    },
+    {
+      "text": "in",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "million",
+      "type": null
+    }
+  ],
+  "answer": "AIM",
+  "puzzlePieces": {
+    "0": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    3
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/pi-KQjJsaao",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/dhcv1rG65LY",
+      "thumbnail": "https://i.ytimg.com/vi/dhcv1rG65LY/maxresdefault.jpg"
+    },
+    {
+      "videoUrl": "https://youtu.be/4tixTtHuzhI",
+      "thumbnail": "https://i.ytimg.com/vi/4tixTtHuzhI/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-16",
+  "thumbnail": "https://i.ytimg.com/vi/pi-KQjJsaao/maxresdefault.jpg",
+  "setterName": "Member: Hatless27",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'in' and it's a containing indicator, guiding us to place some fodder inside other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          17,
+          19
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'one', 'a', and 'million'. We'll need to find common substitutes for two of these, and use them with the other to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          13,
+          16
+        ],
+        [
+          20,
+          21
+        ],
+        [
+          22,
+          29
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Strive', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          6
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 2868,
+    "anonSolverCount": 1325,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
