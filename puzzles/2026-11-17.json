@@ -1,0 +1,166 @@
+{
+  "puzzleId": "1e225aef-2c61-45c4-be96-740c7c25d791",
+  "letterRevealOrder": [
+    2,
+    6,
+    0,
+    4,
+    8,
+    3,
+    7,
+    1,
+    5,
+    9
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Climate",
+      "type": null
+    },
+    {
+      "text": "change",
+      "type": null
+    },
+    {
+      "text": "metaphors:",
+      "type": null
+    },
+    {
+      "text": "planets",
+      "type": null
+    },
+    {
+      "text": "without",
+      "type": null
+    },
+    {
+      "text": "plants",
+      "type": null
+    }
+  ],
+  "answer": "ATMOSPHERE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "P",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "R",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    10
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/L5mipJzXD64",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/jSiCUFhnbB4",
+      "thumbnail": "https://i.ytimg.com/vi/jSiCUFhnbB4/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-17",
+  "thumbnail": "https://i.ytimg.com/vi/L5mipJzXD64/maxresdefault.jpg",
+  "setterName": "Member: blurbthe",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'change' and 'without'. One is a deletion indicator telling us to take some fodder out of other fodder. The other is an anagram indicator, guiding us to modify a neighbouring word, altering the order of its letters.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          14
+        ],
+        [
+          34,
+          41
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'metaphors', 'planets' and 'plants'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          25
+        ],
+        [
+          26,
+          33
+        ],
+        [
+          42,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Climate', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 7358,
+    "anonSolverCount": 2765,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
