@@ -1,0 +1,140 @@
+{
+  "puzzleId": "044d3399-35e4-4575-acfe-3cfa3551e2b3",
+  "letterRevealOrder": [
+    2,
+    0,
+    4,
+    3,
+    1
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Bin",
+      "type": null
+    },
+    {
+      "text": "Laden",
+      "type": null
+    },
+    {
+      "text": "with",
+      "type": null
+    },
+    {
+      "text": "extreme",
+      "type": null
+    },
+    {
+      "text": "dislike",
+      "type": null
+    },
+    {
+      "text": "for",
+      "type": null
+    },
+    {
+      "text": "US",
+      "type": null
+    },
+    {
+      "text": "president",
+      "type": null
+    }
+  ],
+  "answer": "BIDEN",
+  "puzzlePieces": {
+    "0": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    5
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/Sx2d3OdrMXs",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/q0QILnpF25c",
+      "thumbnail": "https://i.ytimg.com/vi/q0QILnpF25c/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-18",
+  "thumbnail": "https://i.ytimg.com/vi/Sx2d3OdrMXs/maxresdefault.jpg",
+  "setterName": "Members: James & Ollie",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'Laden with' and 'extreme'. One is a containing indicator telling us that some fodder will be carried within other fodder. The other is a selection indicator naming the positions of important letters in a neighbouring word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          4,
+          14
+        ],
+        [
+          15,
+          22
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Bin' and 'dislike'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          3
+        ],
+        [
+          23,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'US president', and our answer will be someone who fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          35,
+          47
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 5594,
+    "anonSolverCount": 2278,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
