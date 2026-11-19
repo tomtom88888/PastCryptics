@@ -1,0 +1,136 @@
+{
+  "puzzleId": "992e2845-40ec-41c8-b5fc-e4e30711c6cf",
+  "letterRevealOrder": [
+    2,
+    6,
+    0,
+    8,
+    4,
+    3,
+    7,
+    1,
+    9,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "i",
+      "type": null
+    },
+    {
+      "text": "literally",
+      "type": null
+    },
+    {
+      "text": "sign",
+      "type": null
+    },
+    {
+      "text": "here!",
+      "type": null
+    }
+  ],
+  "answer": "DOTTED LINE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6,
+    4
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/OQObU6vItSc",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/vQHVrm37k-8",
+      "thumbnail": "https://i.ytimg.com/vi/vQHVrm37k-8/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-20",
+  "thumbnail": "https://i.ytimg.com/vi/OQObU6vItSc/maxresdefault.jpg",
+  "setterName": "Liam Runnalls",
+  "hints": [
+    {
+      "text": "This clue is a double definition – two definitions to the same answer and no wordplay. Our first definition is 'i literally'. Our answer will be something that fits this description, while also matching with the other definition.",
+      "type": "definition 1",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    {
+      "text": "This clue is a double definition – two definitions to the same answer and no wordplay. Our second definition is 'sign here'. Our answer will be something that fits this instruction, while also matching with the other definition. This definition also extends to the whole clue, giving it an &lit twist. Where might you literally sign?",
+      "type": "definition 2",
+      "colour": "blue",
+      "highlighting": [
+        [
+          12,
+          21
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 4602,
+    "anonSolverCount": 2177,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
