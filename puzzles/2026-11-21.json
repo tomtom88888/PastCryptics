@@ -1,0 +1,162 @@
+{
+  "puzzleId": "fdafb4ee-914a-4463-812c-abdd23dc11b3",
+  "letterRevealOrder": [
+    2,
+    6,
+    0,
+    4,
+    1,
+    7,
+    3,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Grasped",
+      "type": null
+    },
+    {
+      "text": "head",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "fork",
+      "type": null
+    },
+    {
+      "text": "-",
+      "type": null
+    },
+    {
+      "text": "a",
+      "type": null
+    },
+    {
+      "text": "novel",
+      "type": null
+    },
+    {
+      "text": "method",
+      "type": null
+    }
+  ],
+  "answer": "FATHOMED",
+  "puzzlePieces": {
+    "0": {
+      "answer": "F",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "O",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "D",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    8
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/r0nkLr2_wzo",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/fCdmkKAgWSY",
+      "thumbnail": "https://i.ytimg.com/vi/fCdmkKAgWSY/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-21",
+  "thumbnail": "https://i.ytimg.com/vi/r0nkLr2_wzo/maxresdefault.jpg",
+  "setterName": "Member: Sean Rich",
+  "hints": [
+    {
+      "text": "This clue's indicators are 'head of' and 'novel'. One is an anagram indictor, guiding us to change the order of the letters in a neighbouring word, by making it new. The other is a selection indicator, pointing to an important letter in a neighbouring word.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          8,
+          15
+        ],
+        [
+          25,
+          30
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'fork', 'a', and 'method'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          16,
+          20
+        ],
+        [
+          23,
+          24
+        ],
+        [
+          31,
+          37
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Grasped', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          0,
+          7
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 3709,
+    "anonSolverCount": 2011,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
