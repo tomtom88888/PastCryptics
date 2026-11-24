@@ -1,0 +1,175 @@
+{
+  "puzzleId": "05201bd9-2307-4698-afa0-d9a4ba34a31d",
+  "letterRevealOrder": [
+    4,
+    8,
+    0,
+    6,
+    2,
+    7,
+    3,
+    5,
+    1,
+    9
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Well...",
+      "type": null
+    },
+    {
+      "text": "it",
+      "type": null
+    },
+    {
+      "text": "must",
+      "type": null
+    },
+    {
+      "text": "establish,",
+      "type": null
+    },
+    {
+      "text": "to",
+      "type": null
+    },
+    {
+      "text": "some",
+      "type": null
+    },
+    {
+      "text": "extent,",
+      "type": null
+    },
+    {
+      "text": "proof",
+      "type": null
+    },
+    {
+      "text": "of",
+      "type": null
+    },
+    {
+      "text": "basic",
+      "type": null
+    },
+    {
+      "text": "character",
+      "type": null
+    }
+  ],
+  "answer": "LITMUS TEST",
+  "puzzlePieces": {
+    "0": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6,
+    4
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/CqBDRqe_fWg",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/9PptNhOosEY",
+      "thumbnail": "https://i.ytimg.com/vi/9PptNhOosEY/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-25",
+  "thumbnail": "https://i.ytimg.com/vi/CqBDRqe_fWg/maxresdefault.jpg",
+  "setterName": "Member: Rusty Lee",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'to some extent', and it's a hidden word indicator. Our answer will be found within part of some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          27,
+          42
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'Well... it must establish'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          26
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'proof of basic character', and our answer will be something that fits this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          43,
+          67
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 6311,
+    "anonSolverCount": 2825,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
