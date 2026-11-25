@@ -1,0 +1,166 @@
+{
+  "puzzleId": "19563a3c-bc26-4ec6-a2a5-480bb535800b",
+  "letterRevealOrder": [
+    1,
+    11,
+    3,
+    9,
+    5,
+    7,
+    0,
+    4,
+    2,
+    8,
+    6,
+    10
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Unfortunately,",
+      "type": null
+    },
+    {
+      "text": "I",
+      "type": null
+    },
+    {
+      "text": "can’t",
+      "type": null
+    },
+    {
+      "text": "use",
+      "type": null
+    },
+    {
+      "text": "this.",
+      "type": null
+    },
+    {
+      "text": "Interested?",
+      "type": null
+    }
+  ],
+  "answer": "ENTHUSIASTIC",
+  "puzzlePieces": {
+    "0": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "H",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "7": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "8": {
+      "answer": "S",
+      "isRevealed": false,
+      "input": ""
+    },
+    "9": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "10": {
+      "answer": "I",
+      "isRevealed": false,
+      "input": ""
+    },
+    "11": {
+      "answer": "C",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    12
+  ],
+  "par": 4,
+  "explainerVideo": "https://youtu.be/eboDKpOtlfI",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/AqwdHV4h3V4",
+      "thumbnail": "https://i.ytimg.com/vi/AqwdHV4h3V4/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-26",
+  "thumbnail": "https://i.ytimg.com/vi/eboDKpOtlfI/maxresdefault.jpg",
+  "setterName": "Member: Mandash and Cory",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'Unfortunately', and it's an anagram indicator. Something unfortunate has happened to some neighbouring letters and they've ended up in a new order.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          0,
+          13
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'I can’t use this'. We'll use these letters to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          15,
+          31
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'Interested', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          33,
+          43
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 2,
+    "solveCount": 5863,
+    "anonSolverCount": 2914,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
