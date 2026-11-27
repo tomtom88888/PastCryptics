@@ -1,0 +1,122 @@
+{
+  "puzzleId": "eac26c07-2f97-4b98-a9a3-02d830bfa5c7",
+  "letterRevealOrder": [
+    3,
+    1,
+    5,
+    0,
+    4,
+    2
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Untenable,",
+      "type": null
+    },
+    {
+      "text": "outnumbered,",
+      "type": null
+    },
+    {
+      "text": "powerless",
+      "type": null
+    }
+  ],
+  "answer": "UNABLE",
+  "puzzlePieces": {
+    "0": {
+      "answer": "U",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "B",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "L",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    6
+  ],
+  "par": 2,
+  "explainerVideo": "https://youtu.be/9pvsApZMWog",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/GVN11bWaRUs",
+      "thumbnail": "https://i.ytimg.com/vi/GVN11bWaRUs/maxresdefault.jpg"
+    },
+    {
+      "videoUrl": "https://youtu.be/7-xkxq2dOAw",
+      "thumbnail": "https://i.ytimg.com/vi/7-xkxq2dOAw/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-28",
+  "thumbnail": "https://i.ytimg.com/vi/9pvsApZMWog/maxresdefault.jpg",
+  "setterName": "Member: Paul LePore",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'outnumbered', and it's a deletion indicator suggesting what should be taken out of some neighbouring fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          11,
+          23
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'untenable'. We'll use these letters (or some of them) to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          10
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'powerless', and our answer will be another word for that.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          24,
+          33
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 1,
+    "solveCount": 5277,
+    "anonSolverCount": 2268,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": true
+}
