@@ -1,0 +1,157 @@
+{
+  "puzzleId": "5a957569-b367-46ba-9f71-cbe06547f066",
+  "letterRevealOrder": [
+    2,
+    6,
+    0,
+    4,
+    3,
+    1,
+    5
+  ],
+  "hint": null,
+  "clue": [
+    {
+      "text": "Complain",
+      "type": null
+    },
+    {
+      "text": "about",
+      "type": null
+    },
+    {
+      "text": "Facebook’s",
+      "type": null
+    },
+    {
+      "text": "company:",
+      "type": null
+    },
+    {
+      "text": "“It",
+      "type": null
+    },
+    {
+      "text": "makes",
+      "type": null
+    },
+    {
+      "text": "your",
+      "type": null
+    },
+    {
+      "text": "personal",
+      "type": null
+    },
+    {
+      "text": "info",
+      "type": null
+    },
+    {
+      "text": "public!”",
+      "type": null
+    }
+  ],
+  "answer": "NAME TAG",
+  "puzzlePieces": {
+    "0": {
+      "answer": "N",
+      "isRevealed": false,
+      "input": ""
+    },
+    "1": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "2": {
+      "answer": "M",
+      "isRevealed": false,
+      "input": ""
+    },
+    "3": {
+      "answer": "E",
+      "isRevealed": false,
+      "input": ""
+    },
+    "4": {
+      "answer": "T",
+      "isRevealed": false,
+      "input": ""
+    },
+    "5": {
+      "answer": "A",
+      "isRevealed": false,
+      "input": ""
+    },
+    "6": {
+      "answer": "G",
+      "isRevealed": false,
+      "input": ""
+    }
+  },
+  "config": [
+    4,
+    3
+  ],
+  "par": 3,
+  "explainerVideo": "https://youtu.be/FXG20FGCXI4",
+  "extraExplainerVideos": [
+    {
+      "videoUrl": "https://youtu.be/Tc26k1bYt68",
+      "thumbnail": "https://i.ytimg.com/vi/Tc26k1bYt68/maxresdefault.jpg"
+    }
+  ],
+  "date": "2026-11-29",
+  "thumbnail": "https://i.ytimg.com/vi/FXG20FGCXI4/maxresdefault.jpg",
+  "setterName": "Cory Calhoun",
+  "hints": [
+    {
+      "text": "This clue's indicator is 'about', and it's a containing indicator telling us to place some fodder around other fodder.",
+      "type": "indicators",
+      "colour": "pink",
+      "highlighting": [
+        [
+          9,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "This clue's fodder is 'complain' and 'Facebook’s company'. We'll need to find substitutes for both of these to construct our answer, as guided by the clue's indicator(s).",
+      "type": "fodder",
+      "colour": "yellow",
+      "highlighting": [
+        [
+          0,
+          8
+        ],
+        [
+          15,
+          33
+        ]
+      ]
+    },
+    {
+      "text": "Our definition here is 'It makes your personal info public', and our answer will fit this description.",
+      "type": "definition",
+      "colour": "blue",
+      "highlighting": [
+        [
+          36,
+          70
+        ]
+      ]
+    }
+  ],
+  "parDetails": {
+    "averagePar": 3,
+    "solveCount": 3165,
+    "anonSolverCount": 1721,
+    "medianSolveTimeSeconds": null,
+    "solveTimeP33Seconds": null,
+    "solveTimeP67Seconds": null,
+    "solveTimeBands": null
+  },
+  "hasBonus": false
+}
